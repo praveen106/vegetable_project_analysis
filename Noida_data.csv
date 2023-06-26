@@ -1,0 +1,4537 @@
+,Date,Vegetable,Wholesale Price,Retail Price,Shopping Mall Price,Units
+0,2023-03-31,Onion Big,18,22,26,1kg
+1,2023-03-31,Onion Small,55,66,78,1kg
+2,2023-03-31,Tomato,21,25,30,1kg
+3,2023-03-31,Green Chilli,41,49,58,1kg
+4,2023-03-31,Beetroot,28,34,40,1kg
+5,2023-03-31,Potato,32,39,45,1kg
+6,2023-03-31,Raw Banana (Plantain),10,12,14,1kg
+7,2023-03-31,Amaranth Leaves,14,17,20,1kg
+8,2023-03-31,Amla,50,61,71,1kg
+9,2023-03-31,Ash gourd,20,24,28,1kg
+10,2023-03-31,Baby Corn,59,71,84,1kg
+11,2023-03-31,Banana Flower,21,25,30,1kg
+12,2023-03-31,Capsicum,48,58,68,1kg
+13,2023-03-31,Bitter Gourd,33,40,47,1kg
+14,2023-03-31,Bottle Gourd,26,31,37,1kg
+15,2023-03-31,Butter Beans,50,61,71,1kg
+16,2023-03-31,Broad Beans,41,49,58,1kg
+17,2023-03-31,Cabbage,14,17,20,1kg
+18,2023-03-31,Carrot,29,35,41,1kg
+19,2023-03-31,Cauliflower,24,29,34,1kg
+20,2023-03-31,Cluster beans,41,49,58,1kg
+21,2023-03-31,Coconut,26,31,37,1kg
+22,2023-03-31,Colocasia Leaves,16,19,22,1kg
+23,2023-03-31,Colocasia,28,34,40,1kg
+24,2023-03-31,Coriander Leaves,6,7,8,1kg
+25,2023-03-31,Corn,28,34,40,1kg
+26,2023-03-31,Cucumber,30,36,43,1kg
+27,2023-03-31,Curry Leaves,28,34,40,1kg
+28,2023-03-31,Dill Leaves,10,12,14,1kg
+29,2023-03-31,Drumsticks,120,145,171,1kg
+30,2023-03-31,Brinjal,20,24,28,1kg
+31,2023-03-31,Brinjal (Big),23,27,33,1kg
+32,2023-03-31,Elephant Yam,29,35,41,1kg
+33,2023-03-31,Fenugreek Leaves,9,10,13,1kg
+34,2023-03-31,French Beans,42,50,59,1kg
+35,2023-03-31,Garlic,58,70,83,1kg
+36,2023-03-31,Ginger,44,53,63,1kg
+37,2023-03-31,Onion Green,44,53,63,1kg
+38,2023-03-31,Green Peas,81,98,115,1kg
+39,2023-03-31,Ivy Gourd,22,26,31,1kg
+40,2023-03-31,Lemon (Lime),54,65,77,1kg
+41,2023-03-31,Mango Raw,98,118,140,1kg
+42,2023-03-31,Mint Leaves,6,7,8,1kg
+43,2023-03-31,Mushroom,72,87,102,1kg
+44,2023-03-31,Mustard Leaves,16,19,22,1kg
+45,2023-03-31,Ladies Finger,50,61,71,1kg
+46,2023-03-31,Pumpkin,24,29,34,1kg
+47,2023-03-31,Radish,25,30,35,1kg
+48,2023-03-31,Ridge Gourd,30,36,43,1kg
+49,2023-03-31,Shallot (Pearl Onion),34,41,48,1kg
+50,2023-03-31,Snake Gourd,30,36,43,1kg
+51,2023-03-31,Sorrel Leaves,14,17,20,1kg
+52,2023-03-31,Spinach,15,18,21,1kg
+53,2023-03-31,Sweet Potato,39,47,55,1kg
+54,2023-03-30,Onion Big,18,22,26,1kg
+55,2023-03-30,Onion Small,55,66,78,1kg
+56,2023-03-30,Tomato,21,25,30,1kg
+57,2023-03-30,Green Chilli,41,49,58,1kg
+58,2023-03-30,Beetroot,28,34,40,1kg
+59,2023-03-30,Potato,32,39,45,1kg
+60,2023-03-30,Raw Banana (Plantain),10,12,14,1kg
+61,2023-03-30,Amaranth Leaves,14,17,20,1kg
+62,2023-03-30,Amla,50,61,71,1kg
+63,2023-03-30,Ash gourd,20,24,28,1kg
+64,2023-03-30,Baby Corn,59,71,84,1kg
+65,2023-03-30,Banana Flower,21,25,30,1kg
+66,2023-03-30,Capsicum,48,58,68,1kg
+67,2023-03-30,Bitter Gourd,33,40,47,1kg
+68,2023-03-30,Bottle Gourd,26,31,37,1kg
+69,2023-03-30,Butter Beans,50,61,71,1kg
+70,2023-03-30,Broad Beans,41,49,58,1kg
+71,2023-03-30,Cabbage,14,17,20,1kg
+72,2023-03-30,Carrot,29,35,41,1kg
+73,2023-03-30,Cauliflower,24,29,34,1kg
+74,2023-03-30,Cluster beans,41,49,58,1kg
+75,2023-03-30,Coconut,26,31,37,1kg
+76,2023-03-30,Colocasia Leaves,16,19,22,1kg
+77,2023-03-30,Colocasia,28,34,40,1kg
+78,2023-03-30,Coriander Leaves,6,7,8,1kg
+79,2023-03-30,Corn,28,34,40,1kg
+80,2023-03-30,Cucumber,30,36,43,1kg
+81,2023-03-30,Curry Leaves,28,34,40,1kg
+82,2023-03-30,Dill Leaves,10,12,14,1kg
+83,2023-03-30,Drumsticks,120,145,171,1kg
+84,2023-03-30,Brinjal,20,24,28,1kg
+85,2023-03-30,Brinjal (Big),23,27,33,1kg
+86,2023-03-30,Elephant Yam,29,35,41,1kg
+87,2023-03-30,Fenugreek Leaves,9,10,13,1kg
+88,2023-03-30,French Beans,42,50,59,1kg
+89,2023-03-30,Garlic,58,70,83,1kg
+90,2023-03-30,Ginger,44,53,63,1kg
+91,2023-03-30,Onion Green,44,53,63,1kg
+92,2023-03-30,Green Peas,81,98,115,1kg
+93,2023-03-30,Ivy Gourd,22,26,31,1kg
+94,2023-03-30,Lemon (Lime),54,65,77,1kg
+95,2023-03-30,Mango Raw,98,118,140,1kg
+96,2023-03-30,Mint Leaves,6,7,8,1kg
+97,2023-03-30,Mushroom,72,87,102,1kg
+98,2023-03-30,Mustard Leaves,16,19,22,1kg
+99,2023-03-30,Ladies Finger,50,61,71,1kg
+100,2023-03-30,Pumpkin,24,29,34,1kg
+101,2023-03-30,Radish,25,30,35,1kg
+102,2023-03-30,Ridge Gourd,30,36,43,1kg
+103,2023-03-30,Shallot (Pearl Onion),34,41,48,1kg
+104,2023-03-30,Snake Gourd,30,36,43,1kg
+105,2023-03-30,Sorrel Leaves,14,17,20,1kg
+106,2023-03-30,Spinach,15,18,21,1kg
+107,2023-03-30,Sweet Potato,39,47,55,1kg
+108,2023-03-29,Onion Big,18,22,26,1kg
+109,2023-03-29,Onion Small,55,66,78,1kg
+110,2023-03-29,Tomato,21,25,30,1kg
+111,2023-03-29,Green Chilli,41,49,58,1kg
+112,2023-03-29,Beetroot,28,34,40,1kg
+113,2023-03-29,Potato,32,39,45,1kg
+114,2023-03-29,Raw Banana (Plantain),10,12,14,1kg
+115,2023-03-29,Amaranth Leaves,14,17,20,1kg
+116,2023-03-29,Amla,50,61,71,1kg
+117,2023-03-29,Ash gourd,20,24,28,1kg
+118,2023-03-29,Baby Corn,59,71,84,1kg
+119,2023-03-29,Banana Flower,21,25,30,1kg
+120,2023-03-29,Capsicum,48,58,68,1kg
+121,2023-03-29,Bitter Gourd,33,40,47,1kg
+122,2023-03-29,Bottle Gourd,26,31,37,1kg
+123,2023-03-29,Butter Beans,50,61,71,1kg
+124,2023-03-29,Broad Beans,41,49,58,1kg
+125,2023-03-29,Cabbage,14,17,20,1kg
+126,2023-03-29,Carrot,29,35,41,1kg
+127,2023-03-29,Cauliflower,24,29,34,1kg
+128,2023-03-29,Cluster beans,41,49,58,1kg
+129,2023-03-29,Coconut,26,31,37,1kg
+130,2023-03-29,Colocasia Leaves,16,19,22,1kg
+131,2023-03-29,Colocasia,28,34,40,1kg
+132,2023-03-29,Coriander Leaves,6,7,8,1kg
+133,2023-03-29,Corn,28,34,40,1kg
+134,2023-03-29,Cucumber,30,36,43,1kg
+135,2023-03-29,Curry Leaves,28,34,40,1kg
+136,2023-03-29,Dill Leaves,10,12,14,1kg
+137,2023-03-29,Drumsticks,120,145,171,1kg
+138,2023-03-29,Brinjal,20,24,28,1kg
+139,2023-03-29,Brinjal (Big),23,27,33,1kg
+140,2023-03-29,Elephant Yam,29,35,41,1kg
+141,2023-03-29,Fenugreek Leaves,9,10,13,1kg
+142,2023-03-29,French Beans,42,50,59,1kg
+143,2023-03-29,Garlic,58,70,83,1kg
+144,2023-03-29,Ginger,44,53,63,1kg
+145,2023-03-29,Onion Green,44,53,63,1kg
+146,2023-03-29,Green Peas,81,98,115,1kg
+147,2023-03-29,Ivy Gourd,22,26,31,1kg
+148,2023-03-29,Lemon (Lime),54,65,77,1kg
+149,2023-03-29,Mango Raw,98,118,140,1kg
+150,2023-03-29,Mint Leaves,6,7,8,1kg
+151,2023-03-29,Mushroom,72,87,102,1kg
+152,2023-03-29,Mustard Leaves,16,19,22,1kg
+153,2023-03-29,Ladies Finger,50,61,71,1kg
+154,2023-03-29,Pumpkin,24,29,34,1kg
+155,2023-03-29,Radish,25,30,35,1kg
+156,2023-03-29,Ridge Gourd,30,36,43,1kg
+157,2023-03-29,Shallot (Pearl Onion),34,41,48,1kg
+158,2023-03-29,Snake Gourd,30,36,43,1kg
+159,2023-03-29,Sorrel Leaves,14,17,20,1kg
+160,2023-03-29,Spinach,15,18,21,1kg
+161,2023-03-29,Sweet Potato,39,47,55,1kg
+162,2023-03-28,Onion Big,22,26,31,1kg
+163,2023-03-28,Onion Small,56,67,79,1kg
+164,2023-03-28,Tomato,23,27,33,1kg
+165,2023-03-28,Green Chilli,45,54,64,1kg
+166,2023-03-28,Beetroot,30,36,43,1kg
+167,2023-03-28,Potato,31,37,44,1kg
+168,2023-03-28,Raw Banana (Plantain),9,10,13,1kg
+169,2023-03-28,Amaranth Leaves,13,16,18,1kg
+170,2023-03-28,Amla,70,85,100,1kg
+171,2023-03-28,Ash gourd,21,25,30,1kg
+172,2023-03-28,Baby Corn,59,71,84,1kg
+173,2023-03-28,Banana Flower,14,17,20,1kg
+174,2023-03-28,Capsicum,45,54,64,1kg
+175,2023-03-28,Bitter Gourd,33,40,47,1kg
+176,2023-03-28,Bottle Gourd,27,32,38,1kg
+177,2023-03-28,Butter Beans,47,57,67,1kg
+178,2023-03-28,Broad Beans,38,46,54,1kg
+179,2023-03-28,Cabbage,11,13,15,1kg
+180,2023-03-28,Carrot,29,35,41,1kg
+181,2023-03-28,Cauliflower,25,30,35,1kg
+182,2023-03-28,Cluster beans,44,53,63,1kg
+183,2023-03-28,Coconut,28,34,40,1kg
+184,2023-03-28,Colocasia Leaves,13,16,18,1kg
+185,2023-03-28,Colocasia,27,32,38,1kg
+186,2023-03-28,Coriander Leaves,6,7,8,1kg
+187,2023-03-28,Corn,27,32,38,1kg
+188,2023-03-28,Cucumber,29,35,41,1kg
+189,2023-03-28,Curry Leaves,25,30,35,1kg
+190,2023-03-28,Dill Leaves,14,17,20,1kg
+191,2023-03-28,Drumsticks,100,121,142,1kg
+192,2023-03-28,Brinjal,27,32,38,1kg
+193,2023-03-28,Brinjal (Big),29,35,41,1kg
+194,2023-03-28,Elephant Yam,29,35,41,1kg
+195,2023-03-28,Fenugreek Leaves,11,13,15,1kg
+196,2023-03-28,French Beans,42,50,59,1kg
+197,2023-03-28,Garlic,52,63,74,1kg
+198,2023-03-28,Ginger,50,61,71,1kg
+199,2023-03-28,Onion Green,45,54,64,1kg
+200,2023-03-28,Green Peas,83,100,118,1kg
+201,2023-03-28,Ivy Gourd,27,32,38,1kg
+202,2023-03-28,Lemon (Lime),55,66,78,1kg
+203,2023-03-28,Mango Raw,86,104,122,1kg
+204,2023-03-28,Mint Leaves,5,6,7,1kg
+205,2023-03-28,Mushroom,84,102,120,1kg
+206,2023-03-28,Mustard Leaves,14,17,20,1kg
+207,2023-03-28,Ladies Finger,47,57,67,1kg
+208,2023-03-28,Pumpkin,20,24,28,1kg
+209,2023-03-28,Radish,26,31,37,1kg
+210,2023-03-28,Ridge Gourd,31,37,44,1kg
+211,2023-03-28,Shallot (Pearl Onion),32,39,45,1kg
+212,2023-03-28,Snake Gourd,28,34,40,1kg
+213,2023-03-28,Sorrel Leaves,12,14,17,1kg
+214,2023-03-28,Spinach,12,14,17,1kg
+215,2023-03-28,Sweet Potato,39,47,55,1kg
+216,2023-03-27,Onion Big,22,26,31,1kg
+217,2023-03-27,Onion Small,56,67,79,1kg
+218,2023-03-27,Tomato,23,27,33,1kg
+219,2023-03-27,Green Chilli,45,54,64,1kg
+220,2023-03-27,Beetroot,30,36,43,1kg
+221,2023-03-27,Potato,31,37,44,1kg
+222,2023-03-27,Raw Banana (Plantain),9,10,13,1kg
+223,2023-03-27,Amaranth Leaves,13,16,18,1kg
+224,2023-03-27,Amla,70,85,100,1kg
+225,2023-03-27,Ash gourd,21,25,30,1kg
+226,2023-03-27,Baby Corn,59,71,84,1kg
+227,2023-03-27,Banana Flower,14,17,20,1kg
+228,2023-03-27,Capsicum,45,54,64,1kg
+229,2023-03-27,Bitter Gourd,33,40,47,1kg
+230,2023-03-27,Bottle Gourd,27,32,38,1kg
+231,2023-03-27,Butter Beans,47,57,67,1kg
+232,2023-03-27,Broad Beans,38,46,54,1kg
+233,2023-03-27,Cabbage,11,13,15,1kg
+234,2023-03-27,Carrot,29,35,41,1kg
+235,2023-03-27,Cauliflower,25,30,35,1kg
+236,2023-03-27,Cluster beans,44,53,63,1kg
+237,2023-03-27,Coconut,28,34,40,1kg
+238,2023-03-27,Colocasia Leaves,13,16,18,1kg
+239,2023-03-27,Colocasia,27,32,38,1kg
+240,2023-03-27,Coriander Leaves,6,7,8,1kg
+241,2023-03-27,Corn,27,32,38,1kg
+242,2023-03-27,Cucumber,29,35,41,1kg
+243,2023-03-27,Curry Leaves,25,30,35,1kg
+244,2023-03-27,Dill Leaves,14,17,20,1kg
+245,2023-03-27,Drumsticks,100,121,142,1kg
+246,2023-03-27,Brinjal,27,32,38,1kg
+247,2023-03-27,Brinjal (Big),29,35,41,1kg
+248,2023-03-27,Elephant Yam,29,35,41,1kg
+249,2023-03-27,Fenugreek Leaves,11,13,15,1kg
+250,2023-03-27,French Beans,42,50,59,1kg
+251,2023-03-27,Garlic,52,63,74,1kg
+252,2023-03-27,Ginger,50,61,71,1kg
+253,2023-03-27,Onion Green,45,54,64,1kg
+254,2023-03-27,Green Peas,83,100,118,1kg
+255,2023-03-27,Ivy Gourd,27,32,38,1kg
+256,2023-03-27,Lemon (Lime),55,66,78,1kg
+257,2023-03-27,Mango Raw,86,104,122,1kg
+258,2023-03-27,Mint Leaves,5,6,7,1kg
+259,2023-03-27,Mushroom,84,102,120,1kg
+260,2023-03-27,Mustard Leaves,14,17,20,1kg
+261,2023-03-27,Ladies Finger,47,57,67,1kg
+262,2023-03-27,Pumpkin,20,24,28,1kg
+263,2023-03-27,Radish,26,31,37,1kg
+264,2023-03-27,Ridge Gourd,31,37,44,1kg
+265,2023-03-27,Shallot (Pearl Onion),32,39,45,1kg
+266,2023-03-27,Snake Gourd,28,34,40,1kg
+267,2023-03-27,Sorrel Leaves,12,14,17,1kg
+268,2023-03-27,Spinach,12,14,17,1kg
+269,2023-03-27,Sweet Potato,39,47,55,1kg
+270,2023-03-26,Onion Big,22,26,31,1kg
+271,2023-03-26,Onion Small,56,67,79,1kg
+272,2023-03-26,Tomato,23,27,33,1kg
+273,2023-03-26,Green Chilli,45,54,64,1kg
+274,2023-03-26,Beetroot,30,36,43,1kg
+275,2023-03-26,Potato,31,37,44,1kg
+276,2023-03-26,Raw Banana (Plantain),9,10,13,1kg
+277,2023-03-26,Amaranth Leaves,13,16,18,1kg
+278,2023-03-26,Amla,70,85,100,1kg
+279,2023-03-26,Ash gourd,21,25,30,1kg
+280,2023-03-26,Baby Corn,59,71,84,1kg
+281,2023-03-26,Banana Flower,14,17,20,1kg
+282,2023-03-26,Capsicum,45,54,64,1kg
+283,2023-03-26,Bitter Gourd,33,40,47,1kg
+284,2023-03-26,Bottle Gourd,27,32,38,1kg
+285,2023-03-26,Butter Beans,47,57,67,1kg
+286,2023-03-26,Broad Beans,38,46,54,1kg
+287,2023-03-26,Cabbage,11,13,15,1kg
+288,2023-03-26,Carrot,29,35,41,1kg
+289,2023-03-26,Cauliflower,25,30,35,1kg
+290,2023-03-26,Cluster beans,44,53,63,1kg
+291,2023-03-26,Coconut,28,34,40,1kg
+292,2023-03-26,Colocasia Leaves,13,16,18,1kg
+293,2023-03-26,Colocasia,27,32,38,1kg
+294,2023-03-26,Coriander Leaves,6,7,8,1kg
+295,2023-03-26,Corn,27,32,38,1kg
+296,2023-03-26,Cucumber,29,35,41,1kg
+297,2023-03-26,Curry Leaves,25,30,35,1kg
+298,2023-03-26,Dill Leaves,14,17,20,1kg
+299,2023-03-26,Drumsticks,100,121,142,1kg
+300,2023-03-26,Brinjal,27,32,38,1kg
+301,2023-03-26,Brinjal (Big),29,35,41,1kg
+302,2023-03-26,Elephant Yam,29,35,41,1kg
+303,2023-03-26,Fenugreek Leaves,11,13,15,1kg
+304,2023-03-26,French Beans,42,50,59,1kg
+305,2023-03-26,Garlic,52,63,74,1kg
+306,2023-03-26,Ginger,50,61,71,1kg
+307,2023-03-26,Onion Green,45,54,64,1kg
+308,2023-03-26,Green Peas,83,100,118,1kg
+309,2023-03-26,Ivy Gourd,27,32,38,1kg
+310,2023-03-26,Lemon (Lime),55,66,78,1kg
+311,2023-03-26,Mango Raw,86,104,122,1kg
+312,2023-03-26,Mint Leaves,5,6,7,1kg
+313,2023-03-26,Mushroom,84,102,120,1kg
+314,2023-03-26,Mustard Leaves,14,17,20,1kg
+315,2023-03-26,Ladies Finger,47,57,67,1kg
+316,2023-03-26,Pumpkin,20,24,28,1kg
+317,2023-03-26,Radish,26,31,37,1kg
+318,2023-03-26,Ridge Gourd,31,37,44,1kg
+319,2023-03-26,Shallot (Pearl Onion),32,39,45,1kg
+320,2023-03-26,Snake Gourd,28,34,40,1kg
+321,2023-03-26,Sorrel Leaves,12,14,17,1kg
+322,2023-03-26,Spinach,12,14,17,1kg
+323,2023-03-26,Sweet Potato,39,47,55,1kg
+324,2023-03-25,Onion Big,20,24,28,1kg
+325,2023-03-25,Onion Small,53,64,75,1kg
+326,2023-03-25,Tomato,23,27,33,1kg
+327,2023-03-25,Green Chilli,42,50,59,1kg
+328,2023-03-25,Beetroot,24,29,34,1kg
+329,2023-03-25,Potato,33,40,47,1kg
+330,2023-03-25,Raw Banana (Plantain),10,12,14,1kg
+331,2023-03-25,Amaranth Leaves,12,14,17,1kg
+332,2023-03-25,Amla,60,72,85,1kg
+333,2023-03-25,Ash gourd,24,29,34,1kg
+334,2023-03-25,Baby Corn,64,77,91,1kg
+335,2023-03-25,Banana Flower,18,22,26,1kg
+336,2023-03-25,Capsicum,43,52,61,1kg
+337,2023-03-25,Bitter Gourd,30,36,43,1kg
+338,2023-03-25,Bottle Gourd,24,29,34,1kg
+339,2023-03-25,Butter Beans,49,59,70,1kg
+340,2023-03-25,Broad Beans,42,50,59,1kg
+341,2023-03-25,Cabbage,14,17,20,1kg
+342,2023-03-25,Carrot,30,36,43,1kg
+343,2023-03-25,Cauliflower,27,32,38,1kg
+344,2023-03-25,Cluster beans,44,53,63,1kg
+345,2023-03-25,Coconut,30,36,43,1kg
+346,2023-03-25,Colocasia Leaves,12,14,17,1kg
+347,2023-03-25,Colocasia,27,32,38,1kg
+348,2023-03-25,Coriander Leaves,6,7,8,1kg
+349,2023-03-25,Corn,25,30,35,1kg
+350,2023-03-25,Cucumber,28,34,40,1kg
+351,2023-03-25,Curry Leaves,27,32,38,1kg
+352,2023-03-25,Dill Leaves,13,16,18,1kg
+353,2023-03-25,Drumsticks,100,121,142,1kg
+354,2023-03-25,Brinjal,24,29,34,1kg
+355,2023-03-25,Brinjal (Big),22,26,31,1kg
+356,2023-03-25,Elephant Yam,24,29,34,1kg
+357,2023-03-25,Fenugreek Leaves,10,12,14,1kg
+358,2023-03-25,French Beans,40,48,57,1kg
+359,2023-03-25,Garlic,60,72,85,1kg
+360,2023-03-25,Ginger,47,57,67,1kg
+361,2023-03-25,Onion Green,38,46,54,1kg
+362,2023-03-25,Green Peas,76,92,108,1kg
+363,2023-03-25,Ivy Gourd,24,29,34,1kg
+364,2023-03-25,Lemon (Lime),50,61,71,1kg
+365,2023-03-25,Mango Raw,101,122,144,1kg
+366,2023-03-25,Mint Leaves,3,3,4,1kg
+367,2023-03-25,Mushroom,87,105,124,1kg
+368,2023-03-25,Mustard Leaves,12,14,17,1kg
+369,2023-03-25,Ladies Finger,40,48,57,1kg
+370,2023-03-25,Pumpkin,21,25,30,1kg
+371,2023-03-25,Radish,23,27,33,1kg
+372,2023-03-25,Ridge Gourd,30,36,43,1kg
+373,2023-03-25,Shallot (Pearl Onion),36,43,51,1kg
+374,2023-03-25,Snake Gourd,26,31,37,1kg
+375,2023-03-25,Sorrel Leaves,14,17,20,1kg
+376,2023-03-25,Spinach,12,14,17,1kg
+377,2023-03-25,Sweet Potato,37,45,52,1kg
+378,2023-03-24,Onion Big,20,24,28,1kg
+379,2023-03-24,Onion Small,53,64,75,1kg
+380,2023-03-24,Tomato,23,27,33,1kg
+381,2023-03-24,Green Chilli,42,50,59,1kg
+382,2023-03-24,Beetroot,24,29,34,1kg
+383,2023-03-24,Potato,33,40,47,1kg
+384,2023-03-24,Raw Banana (Plantain),10,12,14,1kg
+385,2023-03-24,Amaranth Leaves,12,14,17,1kg
+386,2023-03-24,Amla,60,72,85,1kg
+387,2023-03-24,Ash gourd,24,29,34,1kg
+388,2023-03-24,Baby Corn,64,77,91,1kg
+389,2023-03-24,Banana Flower,18,22,26,1kg
+390,2023-03-24,Capsicum,43,52,61,1kg
+391,2023-03-24,Bitter Gourd,30,36,43,1kg
+392,2023-03-24,Bottle Gourd,24,29,34,1kg
+393,2023-03-24,Butter Beans,49,59,70,1kg
+394,2023-03-24,Broad Beans,42,50,59,1kg
+395,2023-03-24,Cabbage,14,17,20,1kg
+396,2023-03-24,Carrot,30,36,43,1kg
+397,2023-03-24,Cauliflower,27,32,38,1kg
+398,2023-03-24,Cluster beans,44,53,63,1kg
+399,2023-03-24,Coconut,30,36,43,1kg
+400,2023-03-24,Colocasia Leaves,12,14,17,1kg
+401,2023-03-24,Colocasia,27,32,38,1kg
+402,2023-03-24,Coriander Leaves,6,7,8,1kg
+403,2023-03-24,Corn,25,30,35,1kg
+404,2023-03-24,Cucumber,28,34,40,1kg
+405,2023-03-24,Curry Leaves,27,32,38,1kg
+406,2023-03-24,Dill Leaves,13,16,18,1kg
+407,2023-03-24,Drumsticks,100,121,142,1kg
+408,2023-03-24,Brinjal,24,29,34,1kg
+409,2023-03-24,Brinjal (Big),22,26,31,1kg
+410,2023-03-24,Elephant Yam,24,29,34,1kg
+411,2023-03-24,Fenugreek Leaves,10,12,14,1kg
+412,2023-03-24,French Beans,40,48,57,1kg
+413,2023-03-24,Garlic,60,72,85,1kg
+414,2023-03-24,Ginger,47,57,67,1kg
+415,2023-03-24,Onion Green,38,46,54,1kg
+416,2023-03-24,Green Peas,76,92,108,1kg
+417,2023-03-24,Ivy Gourd,24,29,34,1kg
+418,2023-03-24,Lemon (Lime),50,61,71,1kg
+419,2023-03-24,Mango Raw,101,122,144,1kg
+420,2023-03-24,Mint Leaves,3,3,4,1kg
+421,2023-03-24,Mushroom,87,105,124,1kg
+422,2023-03-24,Mustard Leaves,12,14,17,1kg
+423,2023-03-24,Ladies Finger,40,48,57,1kg
+424,2023-03-24,Pumpkin,21,25,30,1kg
+425,2023-03-24,Radish,23,27,33,1kg
+426,2023-03-24,Ridge Gourd,30,36,43,1kg
+427,2023-03-24,Shallot (Pearl Onion),36,43,51,1kg
+428,2023-03-24,Snake Gourd,26,31,37,1kg
+429,2023-03-24,Sorrel Leaves,14,17,20,1kg
+430,2023-03-24,Spinach,12,14,17,1kg
+431,2023-03-24,Sweet Potato,37,45,52,1kg
+432,2023-03-23,Onion Big,18,22,26,1kg
+433,2023-03-23,Onion Small,55,66,78,1kg
+434,2023-03-23,Tomato,26,31,37,1kg
+435,2023-03-23,Green Chilli,38,46,54,1kg
+436,2023-03-23,Beetroot,29,35,41,1kg
+437,2023-03-23,Potato,27,32,38,1kg
+438,2023-03-23,Raw Banana (Plantain),11,13,15,1kg
+439,2023-03-23,Amaranth Leaves,13,16,18,1kg
+440,2023-03-23,Amla,70,85,100,1kg
+441,2023-03-23,Ash gourd,25,30,35,1kg
+442,2023-03-23,Baby Corn,56,67,79,1kg
+443,2023-03-23,Banana Flower,19,23,27,1kg
+444,2023-03-23,Capsicum,45,54,64,1kg
+445,2023-03-23,Bitter Gourd,31,37,44,1kg
+446,2023-03-23,Bottle Gourd,29,35,41,1kg
+447,2023-03-23,Butter Beans,44,53,63,1kg
+448,2023-03-23,Broad Beans,36,43,51,1kg
+449,2023-03-23,Cabbage,11,13,15,1kg
+450,2023-03-23,Carrot,31,37,44,1kg
+451,2023-03-23,Cauliflower,24,29,34,1kg
+452,2023-03-23,Cluster beans,43,52,61,1kg
+453,2023-03-23,Coconut,25,30,35,1kg
+454,2023-03-23,Colocasia Leaves,12,14,17,1kg
+455,2023-03-23,Colocasia,24,29,34,1kg
+456,2023-03-23,Coriander Leaves,5,6,7,1kg
+457,2023-03-23,Corn,24,29,34,1kg
+458,2023-03-23,Cucumber,26,31,37,1kg
+459,2023-03-23,Curry Leaves,29,35,41,1kg
+460,2023-03-23,Dill Leaves,14,17,20,1kg
+461,2023-03-23,Drumsticks,90,109,128,1kg
+462,2023-03-23,Brinjal,23,27,33,1kg
+463,2023-03-23,Brinjal (Big),22,26,31,1kg
+464,2023-03-23,Elephant Yam,25,30,35,1kg
+465,2023-03-23,Fenugreek Leaves,9,10,13,1kg
+466,2023-03-23,French Beans,37,45,52,1kg
+467,2023-03-23,Garlic,50,61,71,1kg
+468,2023-03-23,Ginger,44,53,63,1kg
+469,2023-03-23,Onion Green,40,48,57,1kg
+470,2023-03-23,Green Peas,78,94,111,1kg
+471,2023-03-23,Ivy Gourd,22,26,31,1kg
+472,2023-03-23,Lemon (Lime),54,65,77,1kg
+473,2023-03-23,Mango Raw,82,99,116,1kg
+474,2023-03-23,Mint Leaves,5,6,7,1kg
+475,2023-03-23,Mushroom,91,110,129,1kg
+476,2023-03-23,Mustard Leaves,14,17,20,1kg
+477,2023-03-23,Ladies Finger,40,48,57,1kg
+478,2023-03-23,Pumpkin,22,26,31,1kg
+479,2023-03-23,Radish,21,25,30,1kg
+480,2023-03-23,Ridge Gourd,29,35,41,1kg
+481,2023-03-23,Shallot (Pearl Onion),36,43,51,1kg
+482,2023-03-23,Snake Gourd,25,30,35,1kg
+483,2023-03-23,Sorrel Leaves,16,19,22,1kg
+484,2023-03-23,Spinach,15,18,21,1kg
+485,2023-03-23,Sweet Potato,36,43,51,1kg
+486,2023-03-22,Onion Big,18,22,26,1kg
+487,2023-03-22,Onion Small,55,66,78,1kg
+488,2023-03-22,Tomato,26,31,37,1kg
+489,2023-03-22,Green Chilli,38,46,54,1kg
+490,2023-03-22,Beetroot,29,35,41,1kg
+491,2023-03-22,Potato,27,32,38,1kg
+492,2023-03-22,Raw Banana (Plantain),11,13,15,1kg
+493,2023-03-22,Amaranth Leaves,13,16,18,1kg
+494,2023-03-22,Amla,70,85,100,1kg
+495,2023-03-22,Ash gourd,25,30,35,1kg
+496,2023-03-22,Baby Corn,56,67,79,1kg
+497,2023-03-22,Banana Flower,19,23,27,1kg
+498,2023-03-22,Capsicum,45,54,64,1kg
+499,2023-03-22,Bitter Gourd,31,37,44,1kg
+500,2023-03-22,Bottle Gourd,29,35,41,1kg
+501,2023-03-22,Butter Beans,44,53,63,1kg
+502,2023-03-22,Broad Beans,36,43,51,1kg
+503,2023-03-22,Cabbage,11,13,15,1kg
+504,2023-03-22,Carrot,31,37,44,1kg
+505,2023-03-22,Cauliflower,24,29,34,1kg
+506,2023-03-22,Cluster beans,43,52,61,1kg
+507,2023-03-22,Coconut,25,30,35,1kg
+508,2023-03-22,Colocasia Leaves,12,14,17,1kg
+509,2023-03-22,Colocasia,24,29,34,1kg
+510,2023-03-22,Coriander Leaves,5,6,7,1kg
+511,2023-03-22,Corn,24,29,34,1kg
+512,2023-03-22,Cucumber,26,31,37,1kg
+513,2023-03-22,Curry Leaves,29,35,41,1kg
+514,2023-03-22,Dill Leaves,14,17,20,1kg
+515,2023-03-22,Drumsticks,90,109,128,1kg
+516,2023-03-22,Brinjal,23,27,33,1kg
+517,2023-03-22,Brinjal (Big),22,26,31,1kg
+518,2023-03-22,Elephant Yam,25,30,35,1kg
+519,2023-03-22,Fenugreek Leaves,9,10,13,1kg
+520,2023-03-22,French Beans,37,45,52,1kg
+521,2023-03-22,Garlic,50,61,71,1kg
+522,2023-03-22,Ginger,44,53,63,1kg
+523,2023-03-22,Onion Green,40,48,57,1kg
+524,2023-03-22,Green Peas,78,94,111,1kg
+525,2023-03-22,Ivy Gourd,22,26,31,1kg
+526,2023-03-22,Lemon (Lime),54,65,77,1kg
+527,2023-03-22,Mango Raw,82,99,116,1kg
+528,2023-03-22,Mint Leaves,5,6,7,1kg
+529,2023-03-22,Mushroom,91,110,129,1kg
+530,2023-03-22,Mustard Leaves,14,17,20,1kg
+531,2023-03-22,Ladies Finger,40,48,57,1kg
+532,2023-03-22,Pumpkin,22,26,31,1kg
+533,2023-03-22,Radish,21,25,30,1kg
+534,2023-03-22,Ridge Gourd,29,35,41,1kg
+535,2023-03-22,Shallot (Pearl Onion),36,43,51,1kg
+536,2023-03-22,Snake Gourd,25,30,35,1kg
+537,2023-03-22,Sorrel Leaves,16,19,22,1kg
+538,2023-03-22,Spinach,15,18,21,1kg
+539,2023-03-22,Sweet Potato,36,43,51,1kg
+540,2023-03-21,Onion Big,18,22,26,1kg
+541,2023-03-21,Onion Small,55,66,78,1kg
+542,2023-03-21,Tomato,26,31,37,1kg
+543,2023-03-21,Green Chilli,38,46,54,1kg
+544,2023-03-21,Beetroot,29,35,41,1kg
+545,2023-03-21,Potato,27,32,38,1kg
+546,2023-03-21,Raw Banana (Plantain),11,13,15,1kg
+547,2023-03-21,Amaranth Leaves,13,16,18,1kg
+548,2023-03-21,Amla,70,85,100,1kg
+549,2023-03-21,Ash gourd,25,30,35,1kg
+550,2023-03-21,Baby Corn,56,67,79,1kg
+551,2023-03-21,Banana Flower,19,23,27,1kg
+552,2023-03-21,Capsicum,45,54,64,1kg
+553,2023-03-21,Bitter Gourd,31,37,44,1kg
+554,2023-03-21,Bottle Gourd,29,35,41,1kg
+555,2023-03-21,Butter Beans,44,53,63,1kg
+556,2023-03-21,Broad Beans,36,43,51,1kg
+557,2023-03-21,Cabbage,11,13,15,1kg
+558,2023-03-21,Carrot,31,37,44,1kg
+559,2023-03-21,Cauliflower,24,29,34,1kg
+560,2023-03-21,Cluster beans,43,52,61,1kg
+561,2023-03-21,Coconut,25,30,35,1kg
+562,2023-03-21,Colocasia Leaves,12,14,17,1kg
+563,2023-03-21,Colocasia,24,29,34,1kg
+564,2023-03-21,Coriander Leaves,5,6,7,1kg
+565,2023-03-21,Corn,24,29,34,1kg
+566,2023-03-21,Cucumber,26,31,37,1kg
+567,2023-03-21,Curry Leaves,29,35,41,1kg
+568,2023-03-21,Dill Leaves,14,17,20,1kg
+569,2023-03-21,Drumsticks,90,109,128,1kg
+570,2023-03-21,Brinjal,23,27,33,1kg
+571,2023-03-21,Brinjal (Big),22,26,31,1kg
+572,2023-03-21,Elephant Yam,25,30,35,1kg
+573,2023-03-21,Fenugreek Leaves,9,10,13,1kg
+574,2023-03-21,French Beans,37,45,52,1kg
+575,2023-03-21,Garlic,50,61,71,1kg
+576,2023-03-21,Ginger,44,53,63,1kg
+577,2023-03-21,Onion Green,40,48,57,1kg
+578,2023-03-21,Green Peas,78,94,111,1kg
+579,2023-03-21,Ivy Gourd,22,26,31,1kg
+580,2023-03-21,Lemon (Lime),54,65,77,1kg
+581,2023-03-21,Mango Raw,82,99,116,1kg
+582,2023-03-21,Mint Leaves,5,6,7,1kg
+583,2023-03-21,Mushroom,91,110,129,1kg
+584,2023-03-21,Mustard Leaves,14,17,20,1kg
+585,2023-03-21,Ladies Finger,40,48,57,1kg
+586,2023-03-21,Pumpkin,22,26,31,1kg
+587,2023-03-21,Radish,21,25,30,1kg
+588,2023-03-21,Ridge Gourd,29,35,41,1kg
+589,2023-03-21,Shallot (Pearl Onion),36,43,51,1kg
+590,2023-03-21,Snake Gourd,25,30,35,1kg
+591,2023-03-21,Sorrel Leaves,16,19,22,1kg
+592,2023-03-21,Spinach,15,18,21,1kg
+593,2023-03-21,Sweet Potato,36,43,51,1kg
+594,2023-03-20,Onion Big,18,22,26,1kg
+595,2023-03-20,Onion Small,55,66,78,1kg
+596,2023-03-20,Tomato,26,31,37,1kg
+597,2023-03-20,Green Chilli,38,46,54,1kg
+598,2023-03-20,Beetroot,29,35,41,1kg
+599,2023-03-20,Potato,27,32,38,1kg
+600,2023-03-20,Raw Banana (Plantain),11,13,15,1kg
+601,2023-03-20,Amaranth Leaves,13,16,18,1kg
+602,2023-03-20,Amla,70,85,100,1kg
+603,2023-03-20,Ash gourd,25,30,35,1kg
+604,2023-03-20,Baby Corn,56,67,79,1kg
+605,2023-03-20,Banana Flower,19,23,27,1kg
+606,2023-03-20,Capsicum,45,54,64,1kg
+607,2023-03-20,Bitter Gourd,31,37,44,1kg
+608,2023-03-20,Bottle Gourd,29,35,41,1kg
+609,2023-03-20,Butter Beans,44,53,63,1kg
+610,2023-03-20,Broad Beans,36,43,51,1kg
+611,2023-03-20,Cabbage,11,13,15,1kg
+612,2023-03-20,Carrot,31,37,44,1kg
+613,2023-03-20,Cauliflower,24,29,34,1kg
+614,2023-03-20,Cluster beans,43,52,61,1kg
+615,2023-03-20,Coconut,25,30,35,1kg
+616,2023-03-20,Colocasia Leaves,12,14,17,1kg
+617,2023-03-20,Colocasia,24,29,34,1kg
+618,2023-03-20,Coriander Leaves,5,6,7,1kg
+619,2023-03-20,Corn,24,29,34,1kg
+620,2023-03-20,Cucumber,26,31,37,1kg
+621,2023-03-20,Curry Leaves,29,35,41,1kg
+622,2023-03-20,Dill Leaves,14,17,20,1kg
+623,2023-03-20,Drumsticks,90,109,128,1kg
+624,2023-03-20,Brinjal,23,27,33,1kg
+625,2023-03-20,Brinjal (Big),22,26,31,1kg
+626,2023-03-20,Elephant Yam,25,30,35,1kg
+627,2023-03-20,Fenugreek Leaves,9,10,13,1kg
+628,2023-03-20,French Beans,37,45,52,1kg
+629,2023-03-20,Garlic,50,61,71,1kg
+630,2023-03-20,Ginger,44,53,63,1kg
+631,2023-03-20,Onion Green,40,48,57,1kg
+632,2023-03-20,Green Peas,78,94,111,1kg
+633,2023-03-20,Ivy Gourd,22,26,31,1kg
+634,2023-03-20,Lemon (Lime),54,65,77,1kg
+635,2023-03-20,Mango Raw,82,99,116,1kg
+636,2023-03-20,Mint Leaves,5,6,7,1kg
+637,2023-03-20,Mushroom,91,110,129,1kg
+638,2023-03-20,Mustard Leaves,14,17,20,1kg
+639,2023-03-20,Ladies Finger,40,48,57,1kg
+640,2023-03-20,Pumpkin,22,26,31,1kg
+641,2023-03-20,Radish,21,25,30,1kg
+642,2023-03-20,Ridge Gourd,29,35,41,1kg
+643,2023-03-20,Shallot (Pearl Onion),36,43,51,1kg
+644,2023-03-20,Snake Gourd,25,30,35,1kg
+645,2023-03-20,Sorrel Leaves,16,19,22,1kg
+646,2023-03-20,Spinach,15,18,21,1kg
+647,2023-03-20,Sweet Potato,36,43,51,1kg
+648,2023-03-19,Onion Big,18,22,26,1kg
+649,2023-03-19,Onion Small,55,66,78,1kg
+650,2023-03-19,Tomato,26,31,37,1kg
+651,2023-03-19,Green Chilli,38,46,54,1kg
+652,2023-03-19,Beetroot,29,35,41,1kg
+653,2023-03-19,Potato,27,32,38,1kg
+654,2023-03-19,Raw Banana (Plantain),11,13,15,1kg
+655,2023-03-19,Amaranth Leaves,13,16,18,1kg
+656,2023-03-19,Amla,70,85,100,1kg
+657,2023-03-19,Ash gourd,25,30,35,1kg
+658,2023-03-19,Baby Corn,56,67,79,1kg
+659,2023-03-19,Banana Flower,19,23,27,1kg
+660,2023-03-19,Capsicum,45,54,64,1kg
+661,2023-03-19,Bitter Gourd,31,37,44,1kg
+662,2023-03-19,Bottle Gourd,29,35,41,1kg
+663,2023-03-19,Butter Beans,44,53,63,1kg
+664,2023-03-19,Broad Beans,36,43,51,1kg
+665,2023-03-19,Cabbage,11,13,15,1kg
+666,2023-03-19,Carrot,31,37,44,1kg
+667,2023-03-19,Cauliflower,24,29,34,1kg
+668,2023-03-19,Cluster beans,43,52,61,1kg
+669,2023-03-19,Coconut,25,30,35,1kg
+670,2023-03-19,Colocasia Leaves,12,14,17,1kg
+671,2023-03-19,Colocasia,24,29,34,1kg
+672,2023-03-19,Coriander Leaves,5,6,7,1kg
+673,2023-03-19,Corn,24,29,34,1kg
+674,2023-03-19,Cucumber,26,31,37,1kg
+675,2023-03-19,Curry Leaves,29,35,41,1kg
+676,2023-03-19,Dill Leaves,14,17,20,1kg
+677,2023-03-19,Drumsticks,90,109,128,1kg
+678,2023-03-19,Brinjal,23,27,33,1kg
+679,2023-03-19,Brinjal (Big),22,26,31,1kg
+680,2023-03-19,Elephant Yam,25,30,35,1kg
+681,2023-03-19,Fenugreek Leaves,9,10,13,1kg
+682,2023-03-19,French Beans,37,45,52,1kg
+683,2023-03-19,Garlic,50,61,71,1kg
+684,2023-03-19,Ginger,44,53,63,1kg
+685,2023-03-19,Onion Green,40,48,57,1kg
+686,2023-03-19,Green Peas,78,94,111,1kg
+687,2023-03-19,Ivy Gourd,22,26,31,1kg
+688,2023-03-19,Lemon (Lime),54,65,77,1kg
+689,2023-03-19,Mango Raw,82,99,116,1kg
+690,2023-03-19,Mint Leaves,5,6,7,1kg
+691,2023-03-19,Mushroom,91,110,129,1kg
+692,2023-03-19,Mustard Leaves,14,17,20,1kg
+693,2023-03-19,Ladies Finger,40,48,57,1kg
+694,2023-03-19,Pumpkin,22,26,31,1kg
+695,2023-03-19,Radish,21,25,30,1kg
+696,2023-03-19,Ridge Gourd,29,35,41,1kg
+697,2023-03-19,Shallot (Pearl Onion),36,43,51,1kg
+698,2023-03-19,Snake Gourd,25,30,35,1kg
+699,2023-03-19,Sorrel Leaves,16,19,22,1kg
+700,2023-03-19,Spinach,15,18,21,1kg
+701,2023-03-19,Sweet Potato,36,43,51,1kg
+702,2023-03-18,Onion Big,17,21,24,1kg
+703,2023-03-18,Onion Small,48,58,68,1kg
+704,2023-03-18,Tomato,28,34,40,1kg
+705,2023-03-18,Green Chilli,48,58,68,1kg
+706,2023-03-18,Beetroot,28,34,40,1kg
+707,2023-03-18,Potato,28,34,40,1kg
+708,2023-03-18,Raw Banana (Plantain),9,10,13,1kg
+709,2023-03-18,Amaranth Leaves,12,14,17,1kg
+710,2023-03-18,Amla,70,85,100,1kg
+711,2023-03-18,Ash gourd,24,29,34,1kg
+712,2023-03-18,Baby Corn,64,77,91,1kg
+713,2023-03-18,Banana Flower,13,16,18,1kg
+714,2023-03-18,Capsicum,44,53,63,1kg
+715,2023-03-18,Bitter Gourd,30,36,43,1kg
+716,2023-03-18,Bottle Gourd,32,39,45,1kg
+717,2023-03-18,Butter Beans,50,61,71,1kg
+718,2023-03-18,Broad Beans,36,43,51,1kg
+719,2023-03-18,Cabbage,10,12,14,1kg
+720,2023-03-18,Carrot,29,35,41,1kg
+721,2023-03-18,Cauliflower,25,30,35,1kg
+722,2023-03-18,Cluster beans,41,49,58,1kg
+723,2023-03-18,Coconut,25,30,35,1kg
+724,2023-03-18,Colocasia Leaves,12,14,17,1kg
+725,2023-03-18,Colocasia,26,31,37,1kg
+726,2023-03-18,Coriander Leaves,5,6,7,1kg
+727,2023-03-18,Corn,27,32,38,1kg
+728,2023-03-18,Cucumber,24,29,34,1kg
+729,2023-03-18,Curry Leaves,29,35,41,1kg
+730,2023-03-18,Dill Leaves,13,16,18,1kg
+731,2023-03-18,Drumsticks,110,133,157,1kg
+732,2023-03-18,Brinjal,21,25,30,1kg
+733,2023-03-18,Brinjal (Big),26,31,37,1kg
+734,2023-03-18,Elephant Yam,27,32,38,1kg
+735,2023-03-18,Fenugreek Leaves,8,9,11,1kg
+736,2023-03-18,French Beans,41,49,58,1kg
+737,2023-03-18,Garlic,60,72,85,1kg
+738,2023-03-18,Ginger,51,62,72,1kg
+739,2023-03-18,Onion Green,40,48,57,1kg
+740,2023-03-18,Green Peas,79,95,112,1kg
+741,2023-03-18,Ivy Gourd,25,30,35,1kg
+742,2023-03-18,Lemon (Lime),52,63,74,1kg
+743,2023-03-18,Mango Raw,100,121,142,1kg
+744,2023-03-18,Mint Leaves,3,3,4,1kg
+745,2023-03-18,Mushroom,80,97,114,1kg
+746,2023-03-18,Mustard Leaves,18,22,26,1kg
+747,2023-03-18,Ladies Finger,47,57,67,1kg
+748,2023-03-18,Pumpkin,22,26,31,1kg
+749,2023-03-18,Radish,23,27,33,1kg
+750,2023-03-18,Ridge Gourd,27,32,38,1kg
+751,2023-03-18,Shallot (Pearl Onion),33,40,47,1kg
+752,2023-03-18,Snake Gourd,24,29,34,1kg
+753,2023-03-18,Sorrel Leaves,14,17,20,1kg
+754,2023-03-18,Spinach,16,19,22,1kg
+755,2023-03-18,Sweet Potato,38,46,54,1kg
+756,2023-03-17,Onion Big,17,21,24,1kg
+757,2023-03-17,Onion Small,48,58,68,1kg
+758,2023-03-17,Tomato,28,34,40,1kg
+759,2023-03-17,Green Chilli,48,58,68,1kg
+760,2023-03-17,Beetroot,28,34,40,1kg
+761,2023-03-17,Potato,28,34,40,1kg
+762,2023-03-17,Raw Banana (Plantain),9,10,13,1kg
+763,2023-03-17,Amaranth Leaves,12,14,17,1kg
+764,2023-03-17,Amla,70,85,100,1kg
+765,2023-03-17,Ash gourd,24,29,34,1kg
+766,2023-03-17,Baby Corn,64,77,91,1kg
+767,2023-03-17,Banana Flower,13,16,18,1kg
+768,2023-03-17,Capsicum,44,53,63,1kg
+769,2023-03-17,Bitter Gourd,30,36,43,1kg
+770,2023-03-17,Bottle Gourd,32,39,45,1kg
+771,2023-03-17,Butter Beans,50,61,71,1kg
+772,2023-03-17,Broad Beans,36,43,51,1kg
+773,2023-03-17,Cabbage,10,12,14,1kg
+774,2023-03-17,Carrot,29,35,41,1kg
+775,2023-03-17,Cauliflower,25,30,35,1kg
+776,2023-03-17,Cluster beans,41,49,58,1kg
+777,2023-03-17,Coconut,25,30,35,1kg
+778,2023-03-17,Colocasia Leaves,12,14,17,1kg
+779,2023-03-17,Colocasia,26,31,37,1kg
+780,2023-03-17,Coriander Leaves,5,6,7,1kg
+781,2023-03-17,Corn,27,32,38,1kg
+782,2023-03-17,Cucumber,24,29,34,1kg
+783,2023-03-17,Curry Leaves,29,35,41,1kg
+784,2023-03-17,Dill Leaves,13,16,18,1kg
+785,2023-03-17,Drumsticks,110,133,157,1kg
+786,2023-03-17,Brinjal,21,25,30,1kg
+787,2023-03-17,Brinjal (Big),26,31,37,1kg
+788,2023-03-17,Elephant Yam,27,32,38,1kg
+789,2023-03-17,Fenugreek Leaves,8,9,11,1kg
+790,2023-03-17,French Beans,41,49,58,1kg
+791,2023-03-17,Garlic,60,72,85,1kg
+792,2023-03-17,Ginger,51,62,72,1kg
+793,2023-03-17,Onion Green,40,48,57,1kg
+794,2023-03-17,Green Peas,79,95,112,1kg
+795,2023-03-17,Ivy Gourd,25,30,35,1kg
+796,2023-03-17,Lemon (Lime),52,63,74,1kg
+797,2023-03-17,Mango Raw,100,121,142,1kg
+798,2023-03-17,Mint Leaves,3,3,4,1kg
+799,2023-03-17,Mushroom,80,97,114,1kg
+800,2023-03-17,Mustard Leaves,18,22,26,1kg
+801,2023-03-17,Ladies Finger,47,57,67,1kg
+802,2023-03-17,Pumpkin,22,26,31,1kg
+803,2023-03-17,Radish,23,27,33,1kg
+804,2023-03-17,Ridge Gourd,27,32,38,1kg
+805,2023-03-17,Shallot (Pearl Onion),33,40,47,1kg
+806,2023-03-17,Snake Gourd,24,29,34,1kg
+807,2023-03-17,Sorrel Leaves,14,17,20,1kg
+808,2023-03-17,Spinach,16,19,22,1kg
+809,2023-03-17,Sweet Potato,38,46,54,1kg
+810,2023-03-16,Onion Big,19,23,27,1kg
+811,2023-03-16,Onion Small,48,58,68,1kg
+812,2023-03-16,Tomato,24,29,34,1kg
+813,2023-03-16,Green Chilli,41,49,58,1kg
+814,2023-03-16,Beetroot,24,29,34,1kg
+815,2023-03-16,Potato,28,34,40,1kg
+816,2023-03-16,Raw Banana (Plantain),7,8,10,1kg
+817,2023-03-16,Amaranth Leaves,15,18,21,1kg
+818,2023-03-16,Amla,50,61,71,1kg
+819,2023-03-16,Ash gourd,23,27,33,1kg
+820,2023-03-16,Baby Corn,65,79,92,1kg
+821,2023-03-16,Banana Flower,17,21,24,1kg
+822,2023-03-16,Capsicum,46,55,65,1kg
+823,2023-03-16,Bitter Gourd,27,32,38,1kg
+824,2023-03-16,Bottle Gourd,30,36,43,1kg
+825,2023-03-16,Butter Beans,53,64,75,1kg
+826,2023-03-16,Broad Beans,35,42,50,1kg
+827,2023-03-16,Cabbage,11,13,15,1kg
+828,2023-03-16,Carrot,29,35,41,1kg
+829,2023-03-16,Cauliflower,27,32,38,1kg
+830,2023-03-16,Cluster beans,45,54,64,1kg
+831,2023-03-16,Coconut,27,32,38,1kg
+832,2023-03-16,Colocasia Leaves,14,17,20,1kg
+833,2023-03-16,Colocasia,28,34,40,1kg
+834,2023-03-16,Coriander Leaves,5,6,7,1kg
+835,2023-03-16,Corn,27,32,38,1kg
+836,2023-03-16,Cucumber,23,27,33,1kg
+837,2023-03-16,Curry Leaves,29,35,41,1kg
+838,2023-03-16,Dill Leaves,11,13,15,1kg
+839,2023-03-16,Drumsticks,110,133,157,1kg
+840,2023-03-16,Brinjal,25,30,35,1kg
+841,2023-03-16,Brinjal (Big),24,29,34,1kg
+842,2023-03-16,Elephant Yam,27,32,38,1kg
+843,2023-03-16,Fenugreek Leaves,9,10,13,1kg
+844,2023-03-16,French Beans,40,48,57,1kg
+845,2023-03-16,Garlic,53,64,75,1kg
+846,2023-03-16,Ginger,51,62,72,1kg
+847,2023-03-16,Onion Green,42,50,59,1kg
+848,2023-03-16,Green Peas,84,102,120,1kg
+849,2023-03-16,Ivy Gourd,23,27,33,1kg
+850,2023-03-16,Lemon (Lime),52,63,74,1kg
+851,2023-03-16,Mango Raw,106,128,151,1kg
+852,2023-03-16,Mint Leaves,6,7,8,1kg
+853,2023-03-16,Mushroom,95,115,135,1kg
+854,2023-03-16,Mustard Leaves,12,14,17,1kg
+855,2023-03-16,Ladies Finger,50,61,71,1kg
+856,2023-03-16,Pumpkin,21,25,30,1kg
+857,2023-03-16,Radish,26,31,37,1kg
+858,2023-03-16,Ridge Gourd,28,34,40,1kg
+859,2023-03-16,Shallot (Pearl Onion),32,39,45,1kg
+860,2023-03-16,Snake Gourd,29,35,41,1kg
+861,2023-03-16,Sorrel Leaves,11,13,15,1kg
+862,2023-03-16,Spinach,10,12,14,1kg
+863,2023-03-16,Sweet Potato,37,45,52,1kg
+864,2023-03-15,Onion Big,19,23,27,1kg
+865,2023-03-15,Onion Small,48,58,68,1kg
+866,2023-03-15,Tomato,24,29,34,1kg
+867,2023-03-15,Green Chilli,41,49,58,1kg
+868,2023-03-15,Beetroot,24,29,34,1kg
+869,2023-03-15,Potato,28,34,40,1kg
+870,2023-03-15,Raw Banana (Plantain),7,8,10,1kg
+871,2023-03-15,Amaranth Leaves,15,18,21,1kg
+872,2023-03-15,Amla,50,61,71,1kg
+873,2023-03-15,Ash gourd,23,27,33,1kg
+874,2023-03-15,Baby Corn,65,79,92,1kg
+875,2023-03-15,Banana Flower,17,21,24,1kg
+876,2023-03-15,Capsicum,46,55,65,1kg
+877,2023-03-15,Bitter Gourd,27,32,38,1kg
+878,2023-03-15,Bottle Gourd,30,36,43,1kg
+879,2023-03-15,Butter Beans,53,64,75,1kg
+880,2023-03-15,Broad Beans,35,42,50,1kg
+881,2023-03-15,Cabbage,11,13,15,1kg
+882,2023-03-15,Carrot,29,35,41,1kg
+883,2023-03-15,Cauliflower,27,32,38,1kg
+884,2023-03-15,Cluster beans,45,54,64,1kg
+885,2023-03-15,Coconut,27,32,38,1kg
+886,2023-03-15,Colocasia Leaves,14,17,20,1kg
+887,2023-03-15,Colocasia,28,34,40,1kg
+888,2023-03-15,Coriander Leaves,5,6,7,1kg
+889,2023-03-15,Corn,27,32,38,1kg
+890,2023-03-15,Cucumber,23,27,33,1kg
+891,2023-03-15,Curry Leaves,29,35,41,1kg
+892,2023-03-15,Dill Leaves,11,13,15,1kg
+893,2023-03-15,Drumsticks,110,133,157,1kg
+894,2023-03-15,Brinjal,25,30,35,1kg
+895,2023-03-15,Brinjal (Big),24,29,34,1kg
+896,2023-03-15,Elephant Yam,27,32,38,1kg
+897,2023-03-15,Fenugreek Leaves,9,10,13,1kg
+898,2023-03-15,French Beans,40,48,57,1kg
+899,2023-03-15,Garlic,53,64,75,1kg
+900,2023-03-15,Ginger,51,62,72,1kg
+901,2023-03-15,Onion Green,42,50,59,1kg
+902,2023-03-15,Green Peas,84,102,120,1kg
+903,2023-03-15,Ivy Gourd,23,27,33,1kg
+904,2023-03-15,Lemon (Lime),52,63,74,1kg
+905,2023-03-15,Mango Raw,106,128,151,1kg
+906,2023-03-15,Mint Leaves,6,7,8,1kg
+907,2023-03-15,Mushroom,95,115,135,1kg
+908,2023-03-15,Mustard Leaves,12,14,17,1kg
+909,2023-03-15,Ladies Finger,50,61,71,1kg
+910,2023-03-15,Pumpkin,21,25,30,1kg
+911,2023-03-15,Radish,26,31,37,1kg
+912,2023-03-15,Ridge Gourd,28,34,40,1kg
+913,2023-03-15,Shallot (Pearl Onion),32,39,45,1kg
+914,2023-03-15,Snake Gourd,29,35,41,1kg
+915,2023-03-15,Sorrel Leaves,11,13,15,1kg
+916,2023-03-15,Spinach,10,12,14,1kg
+917,2023-03-15,Sweet Potato,37,45,52,1kg
+918,2023-03-14,Onion Big,19,23,27,1kg
+919,2023-03-14,Onion Small,48,58,68,1kg
+920,2023-03-14,Tomato,24,29,34,1kg
+921,2023-03-14,Green Chilli,41,49,58,1kg
+922,2023-03-14,Beetroot,24,29,34,1kg
+923,2023-03-14,Potato,28,34,40,1kg
+924,2023-03-14,Raw Banana (Plantain),7,8,10,1kg
+925,2023-03-14,Amaranth Leaves,15,18,21,1kg
+926,2023-03-14,Amla,50,61,71,1kg
+927,2023-03-14,Ash gourd,23,27,33,1kg
+928,2023-03-14,Baby Corn,65,79,92,1kg
+929,2023-03-14,Banana Flower,17,21,24,1kg
+930,2023-03-14,Capsicum,46,55,65,1kg
+931,2023-03-14,Bitter Gourd,27,32,38,1kg
+932,2023-03-14,Bottle Gourd,30,36,43,1kg
+933,2023-03-14,Butter Beans,53,64,75,1kg
+934,2023-03-14,Broad Beans,35,42,50,1kg
+935,2023-03-14,Cabbage,11,13,15,1kg
+936,2023-03-14,Carrot,29,35,41,1kg
+937,2023-03-14,Cauliflower,27,32,38,1kg
+938,2023-03-14,Cluster beans,45,54,64,1kg
+939,2023-03-14,Coconut,27,32,38,1kg
+940,2023-03-14,Colocasia Leaves,14,17,20,1kg
+941,2023-03-14,Colocasia,28,34,40,1kg
+942,2023-03-14,Coriander Leaves,5,6,7,1kg
+943,2023-03-14,Corn,27,32,38,1kg
+944,2023-03-14,Cucumber,23,27,33,1kg
+945,2023-03-14,Curry Leaves,29,35,41,1kg
+946,2023-03-14,Dill Leaves,11,13,15,1kg
+947,2023-03-14,Drumsticks,110,133,157,1kg
+948,2023-03-14,Brinjal,25,30,35,1kg
+949,2023-03-14,Brinjal (Big),24,29,34,1kg
+950,2023-03-14,Elephant Yam,27,32,38,1kg
+951,2023-03-14,Fenugreek Leaves,9,10,13,1kg
+952,2023-03-14,French Beans,40,48,57,1kg
+953,2023-03-14,Garlic,53,64,75,1kg
+954,2023-03-14,Ginger,51,62,72,1kg
+955,2023-03-14,Onion Green,42,50,59,1kg
+956,2023-03-14,Green Peas,84,102,120,1kg
+957,2023-03-14,Ivy Gourd,23,27,33,1kg
+958,2023-03-14,Lemon (Lime),52,63,74,1kg
+959,2023-03-14,Mango Raw,106,128,151,1kg
+960,2023-03-14,Mint Leaves,6,7,8,1kg
+961,2023-03-14,Mushroom,95,115,135,1kg
+962,2023-03-14,Mustard Leaves,12,14,17,1kg
+963,2023-03-14,Ladies Finger,50,61,71,1kg
+964,2023-03-14,Pumpkin,21,25,30,1kg
+965,2023-03-14,Radish,26,31,37,1kg
+966,2023-03-14,Ridge Gourd,28,34,40,1kg
+967,2023-03-14,Shallot (Pearl Onion),32,39,45,1kg
+968,2023-03-14,Snake Gourd,29,35,41,1kg
+969,2023-03-14,Sorrel Leaves,11,13,15,1kg
+970,2023-03-14,Spinach,10,12,14,1kg
+971,2023-03-14,Sweet Potato,37,45,52,1kg
+972,2023-03-13,Onion Big,22,26,31,1kg
+973,2023-03-13,Onion Small,54,65,77,1kg
+974,2023-03-13,Tomato,29,35,41,1kg
+975,2023-03-13,Green Chilli,42,50,59,1kg
+976,2023-03-13,Beetroot,25,30,35,1kg
+977,2023-03-13,Potato,27,32,38,1kg
+978,2023-03-13,Raw Banana (Plantain),11,13,15,1kg
+979,2023-03-13,Amaranth Leaves,12,14,17,1kg
+980,2023-03-13,Amla,70,85,100,1kg
+981,2023-03-13,Ash gourd,25,30,35,1kg
+982,2023-03-13,Baby Corn,64,77,91,1kg
+983,2023-03-13,Banana Flower,12,14,17,1kg
+984,2023-03-13,Capsicum,42,50,59,1kg
+985,2023-03-13,Bitter Gourd,27,32,38,1kg
+986,2023-03-13,Bottle Gourd,32,39,45,1kg
+987,2023-03-13,Butter Beans,50,61,71,1kg
+988,2023-03-13,Broad Beans,37,45,52,1kg
+989,2023-03-13,Cabbage,13,16,18,1kg
+990,2023-03-13,Carrot,24,29,34,1kg
+991,2023-03-13,Cauliflower,24,29,34,1kg
+992,2023-03-13,Cluster beans,44,53,63,1kg
+993,2023-03-13,Coconut,27,32,38,1kg
+994,2023-03-13,Colocasia Leaves,10,12,14,1kg
+995,2023-03-13,Colocasia,24,29,34,1kg
+996,2023-03-13,Coriander Leaves,8,9,11,1kg
+997,2023-03-13,Corn,25,30,35,1kg
+998,2023-03-13,Cucumber,23,27,33,1kg
+999,2023-03-13,Curry Leaves,29,35,41,1kg
+1000,2023-03-13,Dill Leaves,11,13,15,1kg
+1001,2023-03-13,Drumsticks,110,133,157,1kg
+1002,2023-03-13,Brinjal,24,29,34,1kg
+1003,2023-03-13,Brinjal (Big),25,30,35,1kg
+1004,2023-03-13,Elephant Yam,27,32,38,1kg
+1005,2023-03-13,Fenugreek Leaves,9,10,13,1kg
+1006,2023-03-13,French Beans,41,49,58,1kg
+1007,2023-03-13,Garlic,56,67,79,1kg
+1008,2023-03-13,Ginger,44,53,63,1kg
+1009,2023-03-13,Onion Green,40,48,57,1kg
+1010,2023-03-13,Green Peas,85,103,121,1kg
+1011,2023-03-13,Ivy Gourd,28,34,40,1kg
+1012,2023-03-13,Lemon (Lime),52,63,74,1kg
+1013,2023-03-13,Mango Raw,86,104,122,1kg
+1014,2023-03-13,Mint Leaves,3,3,4,1kg
+1015,2023-03-13,Mushroom,79,95,112,1kg
+1016,2023-03-13,Mustard Leaves,18,22,26,1kg
+1017,2023-03-13,Ladies Finger,45,54,64,1kg
+1018,2023-03-13,Pumpkin,21,25,30,1kg
+1019,2023-03-13,Radish,24,29,34,1kg
+1020,2023-03-13,Ridge Gourd,32,39,45,1kg
+1021,2023-03-13,Shallot (Pearl Onion),35,42,50,1kg
+1022,2023-03-13,Snake Gourd,24,29,34,1kg
+1023,2023-03-13,Sorrel Leaves,15,18,21,1kg
+1024,2023-03-13,Spinach,14,17,20,1kg
+1025,2023-03-13,Sweet Potato,39,47,55,1kg
+1026,2023-03-12,Onion Big,22,26,31,1kg
+1027,2023-03-12,Onion Small,54,65,77,1kg
+1028,2023-03-12,Tomato,29,35,41,1kg
+1029,2023-03-12,Green Chilli,42,50,59,1kg
+1030,2023-03-12,Beetroot,25,30,35,1kg
+1031,2023-03-12,Potato,27,32,38,1kg
+1032,2023-03-12,Raw Banana (Plantain),11,13,15,1kg
+1033,2023-03-12,Amaranth Leaves,12,14,17,1kg
+1034,2023-03-12,Amla,70,85,100,1kg
+1035,2023-03-12,Ash gourd,25,30,35,1kg
+1036,2023-03-12,Baby Corn,64,77,91,1kg
+1037,2023-03-12,Banana Flower,12,14,17,1kg
+1038,2023-03-12,Capsicum,42,50,59,1kg
+1039,2023-03-12,Bitter Gourd,27,32,38,1kg
+1040,2023-03-12,Bottle Gourd,32,39,45,1kg
+1041,2023-03-12,Butter Beans,50,61,71,1kg
+1042,2023-03-12,Broad Beans,37,45,52,1kg
+1043,2023-03-12,Cabbage,13,16,18,1kg
+1044,2023-03-12,Carrot,24,29,34,1kg
+1045,2023-03-12,Cauliflower,24,29,34,1kg
+1046,2023-03-12,Cluster beans,44,53,63,1kg
+1047,2023-03-12,Coconut,27,32,38,1kg
+1048,2023-03-12,Colocasia Leaves,10,12,14,1kg
+1049,2023-03-12,Colocasia,24,29,34,1kg
+1050,2023-03-12,Coriander Leaves,8,9,11,1kg
+1051,2023-03-12,Corn,25,30,35,1kg
+1052,2023-03-12,Cucumber,23,27,33,1kg
+1053,2023-03-12,Curry Leaves,29,35,41,1kg
+1054,2023-03-12,Dill Leaves,11,13,15,1kg
+1055,2023-03-12,Drumsticks,110,133,157,1kg
+1056,2023-03-12,Brinjal,24,29,34,1kg
+1057,2023-03-12,Brinjal (Big),25,30,35,1kg
+1058,2023-03-12,Elephant Yam,27,32,38,1kg
+1059,2023-03-12,Fenugreek Leaves,9,10,13,1kg
+1060,2023-03-12,French Beans,41,49,58,1kg
+1061,2023-03-12,Garlic,56,67,79,1kg
+1062,2023-03-12,Ginger,44,53,63,1kg
+1063,2023-03-12,Onion Green,40,48,57,1kg
+1064,2023-03-12,Green Peas,85,103,121,1kg
+1065,2023-03-12,Ivy Gourd,28,34,40,1kg
+1066,2023-03-12,Lemon (Lime),52,63,74,1kg
+1067,2023-03-12,Mango Raw,86,104,122,1kg
+1068,2023-03-12,Mint Leaves,3,3,4,1kg
+1069,2023-03-12,Mushroom,79,95,112,1kg
+1070,2023-03-12,Mustard Leaves,18,22,26,1kg
+1071,2023-03-12,Ladies Finger,45,54,64,1kg
+1072,2023-03-12,Pumpkin,21,25,30,1kg
+1073,2023-03-12,Radish,24,29,34,1kg
+1074,2023-03-12,Ridge Gourd,32,39,45,1kg
+1075,2023-03-12,Shallot (Pearl Onion),35,42,50,1kg
+1076,2023-03-12,Snake Gourd,24,29,34,1kg
+1077,2023-03-12,Sorrel Leaves,15,18,21,1kg
+1078,2023-03-12,Spinach,14,17,20,1kg
+1079,2023-03-12,Sweet Potato,39,47,55,1kg
+1080,2023-03-11,Onion Big,22,26,31,1kg
+1081,2023-03-11,Onion Small,54,65,77,1kg
+1082,2023-03-11,Tomato,29,35,41,1kg
+1083,2023-03-11,Green Chilli,42,50,59,1kg
+1084,2023-03-11,Beetroot,25,30,35,1kg
+1085,2023-03-11,Potato,27,32,38,1kg
+1086,2023-03-11,Raw Banana (Plantain),11,13,15,1kg
+1087,2023-03-11,Amaranth Leaves,12,14,17,1kg
+1088,2023-03-11,Amla,70,85,100,1kg
+1089,2023-03-11,Ash gourd,25,30,35,1kg
+1090,2023-03-11,Baby Corn,64,77,91,1kg
+1091,2023-03-11,Banana Flower,12,14,17,1kg
+1092,2023-03-11,Capsicum,42,50,59,1kg
+1093,2023-03-11,Bitter Gourd,27,32,38,1kg
+1094,2023-03-11,Bottle Gourd,32,39,45,1kg
+1095,2023-03-11,Butter Beans,50,61,71,1kg
+1096,2023-03-11,Broad Beans,37,45,52,1kg
+1097,2023-03-11,Cabbage,13,16,18,1kg
+1098,2023-03-11,Carrot,24,29,34,1kg
+1099,2023-03-11,Cauliflower,24,29,34,1kg
+1100,2023-03-11,Cluster beans,44,53,63,1kg
+1101,2023-03-11,Coconut,27,32,38,1kg
+1102,2023-03-11,Colocasia Leaves,10,12,14,1kg
+1103,2023-03-11,Colocasia,24,29,34,1kg
+1104,2023-03-11,Coriander Leaves,8,9,11,1kg
+1105,2023-03-11,Corn,25,30,35,1kg
+1106,2023-03-11,Cucumber,23,27,33,1kg
+1107,2023-03-11,Curry Leaves,29,35,41,1kg
+1108,2023-03-11,Dill Leaves,11,13,15,1kg
+1109,2023-03-11,Drumsticks,110,133,157,1kg
+1110,2023-03-11,Brinjal,24,29,34,1kg
+1111,2023-03-11,Brinjal (Big),25,30,35,1kg
+1112,2023-03-11,Elephant Yam,27,32,38,1kg
+1113,2023-03-11,Fenugreek Leaves,9,10,13,1kg
+1114,2023-03-11,French Beans,41,49,58,1kg
+1115,2023-03-11,Garlic,56,67,79,1kg
+1116,2023-03-11,Ginger,44,53,63,1kg
+1117,2023-03-11,Onion Green,40,48,57,1kg
+1118,2023-03-11,Green Peas,85,103,121,1kg
+1119,2023-03-11,Ivy Gourd,28,34,40,1kg
+1120,2023-03-11,Lemon (Lime),52,63,74,1kg
+1121,2023-03-11,Mango Raw,86,104,122,1kg
+1122,2023-03-11,Mint Leaves,3,3,4,1kg
+1123,2023-03-11,Mushroom,79,95,112,1kg
+1124,2023-03-11,Mustard Leaves,18,22,26,1kg
+1125,2023-03-11,Ladies Finger,45,54,64,1kg
+1126,2023-03-11,Pumpkin,21,25,30,1kg
+1127,2023-03-11,Radish,24,29,34,1kg
+1128,2023-03-11,Ridge Gourd,32,39,45,1kg
+1129,2023-03-11,Shallot (Pearl Onion),35,42,50,1kg
+1130,2023-03-11,Snake Gourd,24,29,34,1kg
+1131,2023-03-11,Sorrel Leaves,15,18,21,1kg
+1132,2023-03-11,Spinach,14,17,20,1kg
+1133,2023-03-11,Sweet Potato,39,47,55,1kg
+1134,2023-03-10,Onion Big,22,26,31,1kg
+1135,2023-03-10,Onion Small,54,65,77,1kg
+1136,2023-03-10,Tomato,29,35,41,1kg
+1137,2023-03-10,Green Chilli,42,50,59,1kg
+1138,2023-03-10,Beetroot,25,30,35,1kg
+1139,2023-03-10,Potato,27,32,38,1kg
+1140,2023-03-10,Raw Banana (Plantain),11,13,15,1kg
+1141,2023-03-10,Amaranth Leaves,12,14,17,1kg
+1142,2023-03-10,Amla,70,85,100,1kg
+1143,2023-03-10,Ash gourd,25,30,35,1kg
+1144,2023-03-10,Baby Corn,64,77,91,1kg
+1145,2023-03-10,Banana Flower,12,14,17,1kg
+1146,2023-03-10,Capsicum,42,50,59,1kg
+1147,2023-03-10,Bitter Gourd,27,32,38,1kg
+1148,2023-03-10,Bottle Gourd,32,39,45,1kg
+1149,2023-03-10,Butter Beans,50,61,71,1kg
+1150,2023-03-10,Broad Beans,37,45,52,1kg
+1151,2023-03-10,Cabbage,13,16,18,1kg
+1152,2023-03-10,Carrot,24,29,34,1kg
+1153,2023-03-10,Cauliflower,24,29,34,1kg
+1154,2023-03-10,Cluster beans,44,53,63,1kg
+1155,2023-03-10,Coconut,27,32,38,1kg
+1156,2023-03-10,Colocasia Leaves,10,12,14,1kg
+1157,2023-03-10,Colocasia,24,29,34,1kg
+1158,2023-03-10,Coriander Leaves,8,9,11,1kg
+1159,2023-03-10,Corn,25,30,35,1kg
+1160,2023-03-10,Cucumber,23,27,33,1kg
+1161,2023-03-10,Curry Leaves,29,35,41,1kg
+1162,2023-03-10,Dill Leaves,11,13,15,1kg
+1163,2023-03-10,Drumsticks,110,133,157,1kg
+1164,2023-03-10,Brinjal,24,29,34,1kg
+1165,2023-03-10,Brinjal (Big),25,30,35,1kg
+1166,2023-03-10,Elephant Yam,27,32,38,1kg
+1167,2023-03-10,Fenugreek Leaves,9,10,13,1kg
+1168,2023-03-10,French Beans,41,49,58,1kg
+1169,2023-03-10,Garlic,56,67,79,1kg
+1170,2023-03-10,Ginger,44,53,63,1kg
+1171,2023-03-10,Onion Green,40,48,57,1kg
+1172,2023-03-10,Green Peas,85,103,121,1kg
+1173,2023-03-10,Ivy Gourd,28,34,40,1kg
+1174,2023-03-10,Lemon (Lime),52,63,74,1kg
+1175,2023-03-10,Mango Raw,86,104,122,1kg
+1176,2023-03-10,Mint Leaves,3,3,4,1kg
+1177,2023-03-10,Mushroom,79,95,112,1kg
+1178,2023-03-10,Mustard Leaves,18,22,26,1kg
+1179,2023-03-10,Ladies Finger,45,54,64,1kg
+1180,2023-03-10,Pumpkin,21,25,30,1kg
+1181,2023-03-10,Radish,24,29,34,1kg
+1182,2023-03-10,Ridge Gourd,32,39,45,1kg
+1183,2023-03-10,Shallot (Pearl Onion),35,42,50,1kg
+1184,2023-03-10,Snake Gourd,24,29,34,1kg
+1185,2023-03-10,Sorrel Leaves,15,18,21,1kg
+1186,2023-03-10,Spinach,14,17,20,1kg
+1187,2023-03-10,Sweet Potato,39,47,55,1kg
+1188,2023-03-09,Onion Big,22,26,31,1kg
+1189,2023-03-09,Onion Small,55,66,78,1kg
+1190,2023-03-09,Tomato,26,31,37,1kg
+1191,2023-03-09,Green Chilli,38,46,54,1kg
+1192,2023-03-09,Beetroot,30,36,43,1kg
+1193,2023-03-09,Potato,27,32,38,1kg
+1194,2023-03-09,Raw Banana (Plantain),10,12,14,1kg
+1195,2023-03-09,Amaranth Leaves,13,16,18,1kg
+1196,2023-03-09,Amla,60,72,85,1kg
+1197,2023-03-09,Ash gourd,25,30,35,1kg
+1198,2023-03-09,Baby Corn,70,85,100,1kg
+1199,2023-03-09,Banana Flower,12,14,17,1kg
+1200,2023-03-09,Capsicum,46,55,65,1kg
+1201,2023-03-09,Bitter Gourd,27,32,38,1kg
+1202,2023-03-09,Bottle Gourd,26,31,37,1kg
+1203,2023-03-09,Butter Beans,54,65,77,1kg
+1204,2023-03-09,Broad Beans,38,46,54,1kg
+1205,2023-03-09,Cabbage,15,18,21,1kg
+1206,2023-03-09,Carrot,29,35,41,1kg
+1207,2023-03-09,Cauliflower,28,34,40,1kg
+1208,2023-03-09,Cluster beans,43,52,61,1kg
+1209,2023-03-09,Coconut,28,34,40,1kg
+1210,2023-03-09,Colocasia Leaves,16,19,22,1kg
+1211,2023-03-09,Colocasia,27,32,38,1kg
+1212,2023-03-09,Coriander Leaves,6,7,8,1kg
+1213,2023-03-09,Corn,27,32,38,1kg
+1214,2023-03-09,Cucumber,20,24,28,1kg
+1215,2023-03-09,Curry Leaves,28,34,40,1kg
+1216,2023-03-09,Dill Leaves,10,12,14,1kg
+1217,2023-03-09,Drumsticks,120,145,171,1kg
+1218,2023-03-09,Brinjal,21,25,30,1kg
+1219,2023-03-09,Brinjal (Big),25,30,35,1kg
+1220,2023-03-09,Elephant Yam,24,29,34,1kg
+1221,2023-03-09,Fenugreek Leaves,11,13,15,1kg
+1222,2023-03-09,French Beans,42,50,59,1kg
+1223,2023-03-09,Garlic,50,61,71,1kg
+1224,2023-03-09,Ginger,53,64,75,1kg
+1225,2023-03-09,Onion Green,46,55,65,1kg
+1226,2023-03-09,Green Peas,84,102,120,1kg
+1227,2023-03-09,Ivy Gourd,24,29,34,1kg
+1228,2023-03-09,Lemon (Lime),52,63,74,1kg
+1229,2023-03-09,Mango Raw,96,116,136,1kg
+1230,2023-03-09,Mint Leaves,6,7,8,1kg
+1231,2023-03-09,Mushroom,77,93,109,1kg
+1232,2023-03-09,Mustard Leaves,14,17,20,1kg
+1233,2023-03-09,Ladies Finger,49,59,70,1kg
+1234,2023-03-09,Pumpkin,20,24,28,1kg
+1235,2023-03-09,Radish,24,29,34,1kg
+1236,2023-03-09,Ridge Gourd,27,32,38,1kg
+1237,2023-03-09,Shallot (Pearl Onion),30,36,43,1kg
+1238,2023-03-09,Snake Gourd,24,29,34,1kg
+1239,2023-03-09,Sorrel Leaves,13,16,18,1kg
+1240,2023-03-09,Spinach,13,16,18,1kg
+1241,2023-03-09,Sweet Potato,36,43,51,1kg
+1242,2023-03-08,Onion Big,22,26,31,1kg
+1243,2023-03-08,Onion Small,55,66,78,1kg
+1244,2023-03-08,Tomato,26,31,37,1kg
+1245,2023-03-08,Green Chilli,38,46,54,1kg
+1246,2023-03-08,Beetroot,30,36,43,1kg
+1247,2023-03-08,Potato,27,32,38,1kg
+1248,2023-03-08,Raw Banana (Plantain),10,12,14,1kg
+1249,2023-03-08,Amaranth Leaves,13,16,18,1kg
+1250,2023-03-08,Amla,60,72,85,1kg
+1251,2023-03-08,Ash gourd,25,30,35,1kg
+1252,2023-03-08,Baby Corn,70,85,100,1kg
+1253,2023-03-08,Banana Flower,12,14,17,1kg
+1254,2023-03-08,Capsicum,46,55,65,1kg
+1255,2023-03-08,Bitter Gourd,27,32,38,1kg
+1256,2023-03-08,Bottle Gourd,26,31,37,1kg
+1257,2023-03-08,Butter Beans,54,65,77,1kg
+1258,2023-03-08,Broad Beans,38,46,54,1kg
+1259,2023-03-08,Cabbage,15,18,21,1kg
+1260,2023-03-08,Carrot,29,35,41,1kg
+1261,2023-03-08,Cauliflower,28,34,40,1kg
+1262,2023-03-08,Cluster beans,43,52,61,1kg
+1263,2023-03-08,Coconut,28,34,40,1kg
+1264,2023-03-08,Colocasia Leaves,16,19,22,1kg
+1265,2023-03-08,Colocasia,27,32,38,1kg
+1266,2023-03-08,Coriander Leaves,6,7,8,1kg
+1267,2023-03-08,Corn,27,32,38,1kg
+1268,2023-03-08,Cucumber,20,24,28,1kg
+1269,2023-03-08,Curry Leaves,28,34,40,1kg
+1270,2023-03-08,Dill Leaves,10,12,14,1kg
+1271,2023-03-08,Drumsticks,120,145,171,1kg
+1272,2023-03-08,Brinjal,21,25,30,1kg
+1273,2023-03-08,Brinjal (Big),25,30,35,1kg
+1274,2023-03-08,Elephant Yam,24,29,34,1kg
+1275,2023-03-08,Fenugreek Leaves,11,13,15,1kg
+1276,2023-03-08,French Beans,42,50,59,1kg
+1277,2023-03-08,Garlic,50,61,71,1kg
+1278,2023-03-08,Ginger,53,64,75,1kg
+1279,2023-03-08,Onion Green,46,55,65,1kg
+1280,2023-03-08,Green Peas,84,102,120,1kg
+1281,2023-03-08,Ivy Gourd,24,29,34,1kg
+1282,2023-03-08,Lemon (Lime),52,63,74,1kg
+1283,2023-03-08,Mango Raw,96,116,136,1kg
+1284,2023-03-08,Mint Leaves,6,7,8,1kg
+1285,2023-03-08,Mushroom,77,93,109,1kg
+1286,2023-03-08,Mustard Leaves,14,17,20,1kg
+1287,2023-03-08,Ladies Finger,49,59,70,1kg
+1288,2023-03-08,Pumpkin,20,24,28,1kg
+1289,2023-03-08,Radish,24,29,34,1kg
+1290,2023-03-08,Ridge Gourd,27,32,38,1kg
+1291,2023-03-08,Shallot (Pearl Onion),30,36,43,1kg
+1292,2023-03-08,Snake Gourd,24,29,34,1kg
+1293,2023-03-08,Sorrel Leaves,13,16,18,1kg
+1294,2023-03-08,Spinach,13,16,18,1kg
+1295,2023-03-08,Sweet Potato,36,43,51,1kg
+1296,2023-03-07,Onion Big,22,26,31,1kg
+1297,2023-03-07,Onion Small,55,66,78,1kg
+1298,2023-03-07,Tomato,26,31,37,1kg
+1299,2023-03-07,Green Chilli,38,46,54,1kg
+1300,2023-03-07,Beetroot,30,36,43,1kg
+1301,2023-03-07,Potato,27,32,38,1kg
+1302,2023-03-07,Raw Banana (Plantain),10,12,14,1kg
+1303,2023-03-07,Amaranth Leaves,13,16,18,1kg
+1304,2023-03-07,Amla,60,72,85,1kg
+1305,2023-03-07,Ash gourd,25,30,35,1kg
+1306,2023-03-07,Baby Corn,70,85,100,1kg
+1307,2023-03-07,Banana Flower,12,14,17,1kg
+1308,2023-03-07,Capsicum,46,55,65,1kg
+1309,2023-03-07,Bitter Gourd,27,32,38,1kg
+1310,2023-03-07,Bottle Gourd,26,31,37,1kg
+1311,2023-03-07,Butter Beans,54,65,77,1kg
+1312,2023-03-07,Broad Beans,38,46,54,1kg
+1313,2023-03-07,Cabbage,15,18,21,1kg
+1314,2023-03-07,Carrot,29,35,41,1kg
+1315,2023-03-07,Cauliflower,28,34,40,1kg
+1316,2023-03-07,Cluster beans,43,52,61,1kg
+1317,2023-03-07,Coconut,28,34,40,1kg
+1318,2023-03-07,Colocasia Leaves,16,19,22,1kg
+1319,2023-03-07,Colocasia,27,32,38,1kg
+1320,2023-03-07,Coriander Leaves,6,7,8,1kg
+1321,2023-03-07,Corn,27,32,38,1kg
+1322,2023-03-07,Cucumber,20,24,28,1kg
+1323,2023-03-07,Curry Leaves,28,34,40,1kg
+1324,2023-03-07,Dill Leaves,10,12,14,1kg
+1325,2023-03-07,Drumsticks,120,145,171,1kg
+1326,2023-03-07,Brinjal,21,25,30,1kg
+1327,2023-03-07,Brinjal (Big),25,30,35,1kg
+1328,2023-03-07,Elephant Yam,24,29,34,1kg
+1329,2023-03-07,Fenugreek Leaves,11,13,15,1kg
+1330,2023-03-07,French Beans,42,50,59,1kg
+1331,2023-03-07,Garlic,50,61,71,1kg
+1332,2023-03-07,Ginger,53,64,75,1kg
+1333,2023-03-07,Onion Green,46,55,65,1kg
+1334,2023-03-07,Green Peas,84,102,120,1kg
+1335,2023-03-07,Ivy Gourd,24,29,34,1kg
+1336,2023-03-07,Lemon (Lime),52,63,74,1kg
+1337,2023-03-07,Mango Raw,96,116,136,1kg
+1338,2023-03-07,Mint Leaves,6,7,8,1kg
+1339,2023-03-07,Mushroom,77,93,109,1kg
+1340,2023-03-07,Mustard Leaves,14,17,20,1kg
+1341,2023-03-07,Ladies Finger,49,59,70,1kg
+1342,2023-03-07,Pumpkin,20,24,28,1kg
+1343,2023-03-07,Radish,24,29,34,1kg
+1344,2023-03-07,Ridge Gourd,27,32,38,1kg
+1345,2023-03-07,Shallot (Pearl Onion),30,36,43,1kg
+1346,2023-03-07,Snake Gourd,24,29,34,1kg
+1347,2023-03-07,Sorrel Leaves,13,16,18,1kg
+1348,2023-03-07,Spinach,13,16,18,1kg
+1349,2023-03-07,Sweet Potato,36,43,51,1kg
+1350,2023-03-06,Onion Big,22,26,31,1kg
+1351,2023-03-06,Onion Small,55,66,78,1kg
+1352,2023-03-06,Tomato,26,31,37,1kg
+1353,2023-03-06,Green Chilli,38,46,54,1kg
+1354,2023-03-06,Beetroot,30,36,43,1kg
+1355,2023-03-06,Potato,27,32,38,1kg
+1356,2023-03-06,Raw Banana (Plantain),10,12,14,1kg
+1357,2023-03-06,Amaranth Leaves,13,16,18,1kg
+1358,2023-03-06,Amla,60,72,85,1kg
+1359,2023-03-06,Ash gourd,25,30,35,1kg
+1360,2023-03-06,Baby Corn,70,85,100,1kg
+1361,2023-03-06,Banana Flower,12,14,17,1kg
+1362,2023-03-06,Capsicum,46,55,65,1kg
+1363,2023-03-06,Bitter Gourd,27,32,38,1kg
+1364,2023-03-06,Bottle Gourd,26,31,37,1kg
+1365,2023-03-06,Butter Beans,54,65,77,1kg
+1366,2023-03-06,Broad Beans,38,46,54,1kg
+1367,2023-03-06,Cabbage,15,18,21,1kg
+1368,2023-03-06,Carrot,29,35,41,1kg
+1369,2023-03-06,Cauliflower,28,34,40,1kg
+1370,2023-03-06,Cluster beans,43,52,61,1kg
+1371,2023-03-06,Coconut,28,34,40,1kg
+1372,2023-03-06,Colocasia Leaves,16,19,22,1kg
+1373,2023-03-06,Colocasia,27,32,38,1kg
+1374,2023-03-06,Coriander Leaves,6,7,8,1kg
+1375,2023-03-06,Corn,27,32,38,1kg
+1376,2023-03-06,Cucumber,20,24,28,1kg
+1377,2023-03-06,Curry Leaves,28,34,40,1kg
+1378,2023-03-06,Dill Leaves,10,12,14,1kg
+1379,2023-03-06,Drumsticks,120,145,171,1kg
+1380,2023-03-06,Brinjal,21,25,30,1kg
+1381,2023-03-06,Brinjal (Big),25,30,35,1kg
+1382,2023-03-06,Elephant Yam,24,29,34,1kg
+1383,2023-03-06,Fenugreek Leaves,11,13,15,1kg
+1384,2023-03-06,French Beans,42,50,59,1kg
+1385,2023-03-06,Garlic,50,61,71,1kg
+1386,2023-03-06,Ginger,53,64,75,1kg
+1387,2023-03-06,Onion Green,46,55,65,1kg
+1388,2023-03-06,Green Peas,84,102,120,1kg
+1389,2023-03-06,Ivy Gourd,24,29,34,1kg
+1390,2023-03-06,Lemon (Lime),52,63,74,1kg
+1391,2023-03-06,Mango Raw,96,116,136,1kg
+1392,2023-03-06,Mint Leaves,6,7,8,1kg
+1393,2023-03-06,Mushroom,77,93,109,1kg
+1394,2023-03-06,Mustard Leaves,14,17,20,1kg
+1395,2023-03-06,Ladies Finger,49,59,70,1kg
+1396,2023-03-06,Pumpkin,20,24,28,1kg
+1397,2023-03-06,Radish,24,29,34,1kg
+1398,2023-03-06,Ridge Gourd,27,32,38,1kg
+1399,2023-03-06,Shallot (Pearl Onion),30,36,43,1kg
+1400,2023-03-06,Snake Gourd,24,29,34,1kg
+1401,2023-03-06,Sorrel Leaves,13,16,18,1kg
+1402,2023-03-06,Spinach,13,16,18,1kg
+1403,2023-03-06,Sweet Potato,36,43,51,1kg
+1404,2023-03-05,Onion Big,22,26,31,1kg
+1405,2023-03-05,Onion Small,55,66,78,1kg
+1406,2023-03-05,Tomato,26,31,37,1kg
+1407,2023-03-05,Green Chilli,38,46,54,1kg
+1408,2023-03-05,Beetroot,30,36,43,1kg
+1409,2023-03-05,Potato,27,32,38,1kg
+1410,2023-03-05,Raw Banana (Plantain),10,12,14,1kg
+1411,2023-03-05,Amaranth Leaves,13,16,18,1kg
+1412,2023-03-05,Amla,60,72,85,1kg
+1413,2023-03-05,Ash gourd,25,30,35,1kg
+1414,2023-03-05,Baby Corn,70,85,100,1kg
+1415,2023-03-05,Banana Flower,12,14,17,1kg
+1416,2023-03-05,Capsicum,46,55,65,1kg
+1417,2023-03-05,Bitter Gourd,27,32,38,1kg
+1418,2023-03-05,Bottle Gourd,26,31,37,1kg
+1419,2023-03-05,Butter Beans,54,65,77,1kg
+1420,2023-03-05,Broad Beans,38,46,54,1kg
+1421,2023-03-05,Cabbage,15,18,21,1kg
+1422,2023-03-05,Carrot,29,35,41,1kg
+1423,2023-03-05,Cauliflower,28,34,40,1kg
+1424,2023-03-05,Cluster beans,43,52,61,1kg
+1425,2023-03-05,Coconut,28,34,40,1kg
+1426,2023-03-05,Colocasia Leaves,16,19,22,1kg
+1427,2023-03-05,Colocasia,27,32,38,1kg
+1428,2023-03-05,Coriander Leaves,6,7,8,1kg
+1429,2023-03-05,Corn,27,32,38,1kg
+1430,2023-03-05,Cucumber,20,24,28,1kg
+1431,2023-03-05,Curry Leaves,28,34,40,1kg
+1432,2023-03-05,Dill Leaves,10,12,14,1kg
+1433,2023-03-05,Drumsticks,120,145,171,1kg
+1434,2023-03-05,Brinjal,21,25,30,1kg
+1435,2023-03-05,Brinjal (Big),25,30,35,1kg
+1436,2023-03-05,Elephant Yam,24,29,34,1kg
+1437,2023-03-05,Fenugreek Leaves,11,13,15,1kg
+1438,2023-03-05,French Beans,42,50,59,1kg
+1439,2023-03-05,Garlic,50,61,71,1kg
+1440,2023-03-05,Ginger,53,64,75,1kg
+1441,2023-03-05,Onion Green,46,55,65,1kg
+1442,2023-03-05,Green Peas,84,102,120,1kg
+1443,2023-03-05,Ivy Gourd,24,29,34,1kg
+1444,2023-03-05,Lemon (Lime),52,63,74,1kg
+1445,2023-03-05,Mango Raw,96,116,136,1kg
+1446,2023-03-05,Mint Leaves,6,7,8,1kg
+1447,2023-03-05,Mushroom,77,93,109,1kg
+1448,2023-03-05,Mustard Leaves,14,17,20,1kg
+1449,2023-03-05,Ladies Finger,49,59,70,1kg
+1450,2023-03-05,Pumpkin,20,24,28,1kg
+1451,2023-03-05,Radish,24,29,34,1kg
+1452,2023-03-05,Ridge Gourd,27,32,38,1kg
+1453,2023-03-05,Shallot (Pearl Onion),30,36,43,1kg
+1454,2023-03-05,Snake Gourd,24,29,34,1kg
+1455,2023-03-05,Sorrel Leaves,13,16,18,1kg
+1456,2023-03-05,Spinach,13,16,18,1kg
+1457,2023-03-05,Sweet Potato,36,43,51,1kg
+1458,2023-03-04,Onion Big,22,26,31,1kg
+1459,2023-03-04,Onion Small,55,66,78,1kg
+1460,2023-03-04,Tomato,26,31,37,1kg
+1461,2023-03-04,Green Chilli,38,46,54,1kg
+1462,2023-03-04,Beetroot,30,36,43,1kg
+1463,2023-03-04,Potato,27,32,38,1kg
+1464,2023-03-04,Raw Banana (Plantain),10,12,14,1kg
+1465,2023-03-04,Amaranth Leaves,13,16,18,1kg
+1466,2023-03-04,Amla,60,72,85,1kg
+1467,2023-03-04,Ash gourd,25,30,35,1kg
+1468,2023-03-04,Baby Corn,70,85,100,1kg
+1469,2023-03-04,Banana Flower,12,14,17,1kg
+1470,2023-03-04,Capsicum,46,55,65,1kg
+1471,2023-03-04,Bitter Gourd,27,32,38,1kg
+1472,2023-03-04,Bottle Gourd,26,31,37,1kg
+1473,2023-03-04,Butter Beans,54,65,77,1kg
+1474,2023-03-04,Broad Beans,38,46,54,1kg
+1475,2023-03-04,Cabbage,15,18,21,1kg
+1476,2023-03-04,Carrot,29,35,41,1kg
+1477,2023-03-04,Cauliflower,28,34,40,1kg
+1478,2023-03-04,Cluster beans,43,52,61,1kg
+1479,2023-03-04,Coconut,28,34,40,1kg
+1480,2023-03-04,Colocasia Leaves,16,19,22,1kg
+1481,2023-03-04,Colocasia,27,32,38,1kg
+1482,2023-03-04,Coriander Leaves,6,7,8,1kg
+1483,2023-03-04,Corn,27,32,38,1kg
+1484,2023-03-04,Cucumber,20,24,28,1kg
+1485,2023-03-04,Curry Leaves,28,34,40,1kg
+1486,2023-03-04,Dill Leaves,10,12,14,1kg
+1487,2023-03-04,Drumsticks,120,145,171,1kg
+1488,2023-03-04,Brinjal,21,25,30,1kg
+1489,2023-03-04,Brinjal (Big),25,30,35,1kg
+1490,2023-03-04,Elephant Yam,24,29,34,1kg
+1491,2023-03-04,Fenugreek Leaves,11,13,15,1kg
+1492,2023-03-04,French Beans,42,50,59,1kg
+1493,2023-03-04,Garlic,50,61,71,1kg
+1494,2023-03-04,Ginger,53,64,75,1kg
+1495,2023-03-04,Onion Green,46,55,65,1kg
+1496,2023-03-04,Green Peas,84,102,120,1kg
+1497,2023-03-04,Ivy Gourd,24,29,34,1kg
+1498,2023-03-04,Lemon (Lime),52,63,74,1kg
+1499,2023-03-04,Mango Raw,96,116,136,1kg
+1500,2023-03-04,Mint Leaves,6,7,8,1kg
+1501,2023-03-04,Mushroom,77,93,109,1kg
+1502,2023-03-04,Mustard Leaves,14,17,20,1kg
+1503,2023-03-04,Ladies Finger,49,59,70,1kg
+1504,2023-03-04,Pumpkin,20,24,28,1kg
+1505,2023-03-04,Radish,24,29,34,1kg
+1506,2023-03-04,Ridge Gourd,27,32,38,1kg
+1507,2023-03-04,Shallot (Pearl Onion),30,36,43,1kg
+1508,2023-03-04,Snake Gourd,24,29,34,1kg
+1509,2023-03-04,Sorrel Leaves,13,16,18,1kg
+1510,2023-03-04,Spinach,13,16,18,1kg
+1511,2023-03-04,Sweet Potato,36,43,51,1kg
+1512,2023-03-03,Onion Big,17,21,24,1kg
+1513,2023-03-03,Onion Small,54,65,77,1kg
+1514,2023-03-03,Tomato,34,41,48,1kg
+1515,2023-03-03,Green Chilli,40,48,57,1kg
+1516,2023-03-03,Beetroot,34,41,48,1kg
+1517,2023-03-03,Potato,35,42,50,1kg
+1518,2023-03-03,Raw Banana (Plantain),10,12,14,1kg
+1519,2023-03-03,Amaranth Leaves,14,17,20,1kg
+1520,2023-03-03,Amla,60,72,85,1kg
+1521,2023-03-03,Ash gourd,26,31,37,1kg
+1522,2023-03-03,Baby Corn,63,76,90,1kg
+1523,2023-03-03,Banana Flower,16,19,22,1kg
+1524,2023-03-03,Capsicum,41,49,58,1kg
+1525,2023-03-03,Bitter Gourd,34,41,48,1kg
+1526,2023-03-03,Bottle Gourd,32,39,45,1kg
+1527,2023-03-03,Butter Beans,53,64,75,1kg
+1528,2023-03-03,Broad Beans,32,39,45,1kg
+1529,2023-03-03,Cabbage,20,24,28,1kg
+1530,2023-03-03,Carrot,28,34,40,1kg
+1531,2023-03-03,Cauliflower,28,34,40,1kg
+1532,2023-03-03,Cluster beans,44,53,63,1kg
+1533,2023-03-03,Coconut,30,36,43,1kg
+1534,2023-03-03,Colocasia Leaves,12,14,17,1kg
+1535,2023-03-03,Colocasia,26,31,37,1kg
+1536,2023-03-03,Coriander Leaves,8,9,11,1kg
+1537,2023-03-03,Corn,27,32,38,1kg
+1538,2023-03-03,Cucumber,22,26,31,1kg
+1539,2023-03-03,Curry Leaves,26,31,37,1kg
+1540,2023-03-03,Dill Leaves,11,13,15,1kg
+1541,2023-03-03,Drumsticks,120,145,171,1kg
+1542,2023-03-03,Brinjal,20,24,28,1kg
+1543,2023-03-03,Brinjal (Big),26,31,37,1kg
+1544,2023-03-03,Elephant Yam,25,30,35,1kg
+1545,2023-03-03,Fenugreek Leaves,8,9,11,1kg
+1546,2023-03-03,French Beans,37,45,52,1kg
+1547,2023-03-03,Garlic,56,67,79,1kg
+1548,2023-03-03,Ginger,41,49,58,1kg
+1549,2023-03-03,Onion Green,39,47,55,1kg
+1550,2023-03-03,Green Peas,85,103,121,1kg
+1551,2023-03-03,Ivy Gourd,27,32,38,1kg
+1552,2023-03-03,Lemon (Lime),57,69,81,1kg
+1553,2023-03-03,Mango Raw,97,117,138,1kg
+1554,2023-03-03,Mint Leaves,3,3,4,1kg
+1555,2023-03-03,Mushroom,73,88,104,1kg
+1556,2023-03-03,Mustard Leaves,13,16,18,1kg
+1557,2023-03-03,Ladies Finger,40,48,57,1kg
+1558,2023-03-03,Pumpkin,22,26,31,1kg
+1559,2023-03-03,Radish,30,36,43,1kg
+1560,2023-03-03,Ridge Gourd,27,32,38,1kg
+1561,2023-03-03,Shallot (Pearl Onion),35,42,50,1kg
+1562,2023-03-03,Snake Gourd,29,35,41,1kg
+1563,2023-03-03,Sorrel Leaves,11,13,15,1kg
+1564,2023-03-03,Spinach,13,16,18,1kg
+1565,2023-03-03,Sweet Potato,40,48,57,1kg
+1566,2023-03-02,Onion Big,17,21,24,1kg
+1567,2023-03-02,Onion Small,54,65,77,1kg
+1568,2023-03-02,Tomato,34,41,48,1kg
+1569,2023-03-02,Green Chilli,40,48,57,1kg
+1570,2023-03-02,Beetroot,34,41,48,1kg
+1571,2023-03-02,Potato,35,42,50,1kg
+1572,2023-03-02,Raw Banana (Plantain),10,12,14,1kg
+1573,2023-03-02,Amaranth Leaves,14,17,20,1kg
+1574,2023-03-02,Amla,60,72,85,1kg
+1575,2023-03-02,Ash gourd,26,31,37,1kg
+1576,2023-03-02,Baby Corn,63,76,90,1kg
+1577,2023-03-02,Banana Flower,16,19,22,1kg
+1578,2023-03-02,Capsicum,41,49,58,1kg
+1579,2023-03-02,Bitter Gourd,34,41,48,1kg
+1580,2023-03-02,Bottle Gourd,32,39,45,1kg
+1581,2023-03-02,Butter Beans,53,64,75,1kg
+1582,2023-03-02,Broad Beans,32,39,45,1kg
+1583,2023-03-02,Cabbage,20,24,28,1kg
+1584,2023-03-02,Carrot,28,34,40,1kg
+1585,2023-03-02,Cauliflower,28,34,40,1kg
+1586,2023-03-02,Cluster beans,44,53,63,1kg
+1587,2023-03-02,Coconut,30,36,43,1kg
+1588,2023-03-02,Colocasia Leaves,12,14,17,1kg
+1589,2023-03-02,Colocasia,26,31,37,1kg
+1590,2023-03-02,Coriander Leaves,8,9,11,1kg
+1591,2023-03-02,Corn,27,32,38,1kg
+1592,2023-03-02,Cucumber,22,26,31,1kg
+1593,2023-03-02,Curry Leaves,26,31,37,1kg
+1594,2023-03-02,Dill Leaves,11,13,15,1kg
+1595,2023-03-02,Drumsticks,120,145,171,1kg
+1596,2023-03-02,Brinjal,20,24,28,1kg
+1597,2023-03-02,Brinjal (Big),26,31,37,1kg
+1598,2023-03-02,Elephant Yam,25,30,35,1kg
+1599,2023-03-02,Fenugreek Leaves,8,9,11,1kg
+1600,2023-03-02,French Beans,37,45,52,1kg
+1601,2023-03-02,Garlic,56,67,79,1kg
+1602,2023-03-02,Ginger,41,49,58,1kg
+1603,2023-03-02,Onion Green,39,47,55,1kg
+1604,2023-03-02,Green Peas,85,103,121,1kg
+1605,2023-03-02,Ivy Gourd,27,32,38,1kg
+1606,2023-03-02,Lemon (Lime),57,69,81,1kg
+1607,2023-03-02,Mango Raw,97,117,138,1kg
+1608,2023-03-02,Mint Leaves,3,3,4,1kg
+1609,2023-03-02,Mushroom,73,88,104,1kg
+1610,2023-03-02,Mustard Leaves,13,16,18,1kg
+1611,2023-03-02,Ladies Finger,40,48,57,1kg
+1612,2023-03-02,Pumpkin,22,26,31,1kg
+1613,2023-03-02,Radish,30,36,43,1kg
+1614,2023-03-02,Ridge Gourd,27,32,38,1kg
+1615,2023-03-02,Shallot (Pearl Onion),35,42,50,1kg
+1616,2023-03-02,Snake Gourd,29,35,41,1kg
+1617,2023-03-02,Sorrel Leaves,11,13,15,1kg
+1618,2023-03-02,Spinach,13,16,18,1kg
+1619,2023-03-02,Sweet Potato,40,48,57,1kg
+1620,2023-03-01,Onion Big,17,21,24,1kg
+1621,2023-03-01,Onion Small,54,65,77,1kg
+1622,2023-03-01,Tomato,34,41,48,1kg
+1623,2023-03-01,Green Chilli,40,48,57,1kg
+1624,2023-03-01,Beetroot,34,41,48,1kg
+1625,2023-03-01,Potato,35,42,50,1kg
+1626,2023-03-01,Raw Banana (Plantain),10,12,14,1kg
+1627,2023-03-01,Amaranth Leaves,14,17,20,1kg
+1628,2023-03-01,Amla,60,72,85,1kg
+1629,2023-03-01,Ash gourd,26,31,37,1kg
+1630,2023-03-01,Baby Corn,63,76,90,1kg
+1631,2023-03-01,Banana Flower,16,19,22,1kg
+1632,2023-03-01,Capsicum,41,49,58,1kg
+1633,2023-03-01,Bitter Gourd,34,41,48,1kg
+1634,2023-03-01,Bottle Gourd,32,39,45,1kg
+1635,2023-03-01,Butter Beans,53,64,75,1kg
+1636,2023-03-01,Broad Beans,32,39,45,1kg
+1637,2023-03-01,Cabbage,20,24,28,1kg
+1638,2023-03-01,Carrot,28,34,40,1kg
+1639,2023-03-01,Cauliflower,28,34,40,1kg
+1640,2023-03-01,Cluster beans,44,53,63,1kg
+1641,2023-03-01,Coconut,30,36,43,1kg
+1642,2023-03-01,Colocasia Leaves,12,14,17,1kg
+1643,2023-03-01,Colocasia,26,31,37,1kg
+1644,2023-03-01,Coriander Leaves,8,9,11,1kg
+1645,2023-03-01,Corn,27,32,38,1kg
+1646,2023-03-01,Cucumber,22,26,31,1kg
+1647,2023-03-01,Curry Leaves,26,31,37,1kg
+1648,2023-03-01,Dill Leaves,11,13,15,1kg
+1649,2023-03-01,Drumsticks,120,145,171,1kg
+1650,2023-03-01,Brinjal,20,24,28,1kg
+1651,2023-03-01,Brinjal (Big),26,31,37,1kg
+1652,2023-03-01,Elephant Yam,25,30,35,1kg
+1653,2023-03-01,Fenugreek Leaves,8,9,11,1kg
+1654,2023-03-01,French Beans,37,45,52,1kg
+1655,2023-03-01,Garlic,56,67,79,1kg
+1656,2023-03-01,Ginger,41,49,58,1kg
+1657,2023-03-01,Onion Green,39,47,55,1kg
+1658,2023-03-01,Green Peas,85,103,121,1kg
+1659,2023-03-01,Ivy Gourd,27,32,38,1kg
+1660,2023-03-01,Lemon (Lime),57,69,81,1kg
+1661,2023-03-01,Mango Raw,97,117,138,1kg
+1662,2023-03-01,Mint Leaves,3,3,4,1kg
+1663,2023-03-01,Mushroom,73,88,104,1kg
+1664,2023-03-01,Mustard Leaves,13,16,18,1kg
+1665,2023-03-01,Ladies Finger,40,48,57,1kg
+1666,2023-03-01,Pumpkin,22,26,31,1kg
+1667,2023-03-01,Radish,30,36,43,1kg
+1668,2023-03-01,Ridge Gourd,27,32,38,1kg
+1669,2023-03-01,Shallot (Pearl Onion),35,42,50,1kg
+1670,2023-03-01,Snake Gourd,29,35,41,1kg
+1671,2023-03-01,Sorrel Leaves,11,13,15,1kg
+1672,2023-03-01,Spinach,13,16,18,1kg
+1673,2023-03-01,Sweet Potato,40,48,57,1kg
+1674,2023-02-28,Onion Big,17,21,24,1kg
+1675,2023-02-28,Onion Small,54,65,77,1kg
+1676,2023-02-28,Tomato,34,41,48,1kg
+1677,2023-02-28,Green Chilli,40,48,57,1kg
+1678,2023-02-28,Beetroot,34,41,48,1kg
+1679,2023-02-28,Potato,35,42,50,1kg
+1680,2023-02-28,Raw Banana (Plantain),10,12,14,1kg
+1681,2023-02-28,Amaranth Leaves,14,17,20,1kg
+1682,2023-02-28,Amla,60,72,85,1kg
+1683,2023-02-28,Ash gourd,26,31,37,1kg
+1684,2023-02-28,Baby Corn,63,76,90,1kg
+1685,2023-02-28,Banana Flower,16,19,22,1kg
+1686,2023-02-28,Capsicum,41,49,58,1kg
+1687,2023-02-28,Bitter Gourd,34,41,48,1kg
+1688,2023-02-28,Bottle Gourd,32,39,45,1kg
+1689,2023-02-28,Butter Beans,53,64,75,1kg
+1690,2023-02-28,Broad Beans,32,39,45,1kg
+1691,2023-02-28,Cabbage,20,24,28,1kg
+1692,2023-02-28,Carrot,28,34,40,1kg
+1693,2023-02-28,Cauliflower,28,34,40,1kg
+1694,2023-02-28,Cluster beans,44,53,63,1kg
+1695,2023-02-28,Coconut,30,36,43,1kg
+1696,2023-02-28,Colocasia Leaves,12,14,17,1kg
+1697,2023-02-28,Colocasia,26,31,37,1kg
+1698,2023-02-28,Coriander Leaves,8,9,11,1kg
+1699,2023-02-28,Corn,27,32,38,1kg
+1700,2023-02-28,Cucumber,22,26,31,1kg
+1701,2023-02-28,Curry Leaves,26,31,37,1kg
+1702,2023-02-28,Dill Leaves,11,13,15,1kg
+1703,2023-02-28,Drumsticks,120,145,171,1kg
+1704,2023-02-28,Brinjal,20,24,28,1kg
+1705,2023-02-28,Brinjal (Big),26,31,37,1kg
+1706,2023-02-28,Elephant Yam,25,30,35,1kg
+1707,2023-02-28,Fenugreek Leaves,8,9,11,1kg
+1708,2023-02-28,French Beans,37,45,52,1kg
+1709,2023-02-28,Garlic,56,67,79,1kg
+1710,2023-02-28,Ginger,41,49,58,1kg
+1711,2023-02-28,Onion Green,39,47,55,1kg
+1712,2023-02-28,Green Peas,85,103,121,1kg
+1713,2023-02-28,Ivy Gourd,27,32,38,1kg
+1714,2023-02-28,Lemon (Lime),57,69,81,1kg
+1715,2023-02-28,Mango Raw,97,117,138,1kg
+1716,2023-02-28,Mint Leaves,3,3,4,1kg
+1717,2023-02-28,Mushroom,73,88,104,1kg
+1718,2023-02-28,Mustard Leaves,13,16,18,1kg
+1719,2023-02-28,Ladies Finger,40,48,57,1kg
+1720,2023-02-28,Pumpkin,22,26,31,1kg
+1721,2023-02-28,Radish,30,36,43,1kg
+1722,2023-02-28,Ridge Gourd,27,32,38,1kg
+1723,2023-02-28,Shallot (Pearl Onion),35,42,50,1kg
+1724,2023-02-28,Snake Gourd,29,35,41,1kg
+1725,2023-02-28,Sorrel Leaves,11,13,15,1kg
+1726,2023-02-28,Spinach,13,16,18,1kg
+1727,2023-02-28,Sweet Potato,40,48,57,1kg
+1728,2023-02-27,Onion Big,24,29,34,1kg
+1729,2023-02-27,Onion Small,54,65,77,1kg
+1730,2023-02-27,Tomato,28,34,40,1kg
+1731,2023-02-27,Green Chilli,45,54,64,1kg
+1732,2023-02-27,Beetroot,35,42,50,1kg
+1733,2023-02-27,Potato,36,43,51,1kg
+1734,2023-02-27,Raw Banana (Plantain),10,12,14,1kg
+1735,2023-02-27,Amaranth Leaves,15,18,21,1kg
+1736,2023-02-27,Amla,60,72,85,1kg
+1737,2023-02-27,Ash gourd,27,32,38,1kg
+1738,2023-02-27,Baby Corn,62,75,88,1kg
+1739,2023-02-27,Banana Flower,14,17,20,1kg
+1740,2023-02-27,Capsicum,44,53,63,1kg
+1741,2023-02-27,Bitter Gourd,29,35,41,1kg
+1742,2023-02-27,Bottle Gourd,24,29,34,1kg
+1743,2023-02-27,Butter Beans,53,64,75,1kg
+1744,2023-02-27,Broad Beans,35,42,50,1kg
+1745,2023-02-27,Cabbage,19,23,27,1kg
+1746,2023-02-27,Carrot,30,36,43,1kg
+1747,2023-02-27,Cauliflower,28,34,40,1kg
+1748,2023-02-27,Cluster beans,45,54,64,1kg
+1749,2023-02-27,Coconut,28,34,40,1kg
+1750,2023-02-27,Colocasia Leaves,12,14,17,1kg
+1751,2023-02-27,Colocasia,25,30,35,1kg
+1752,2023-02-27,Coriander Leaves,5,6,7,1kg
+1753,2023-02-27,Corn,26,31,37,1kg
+1754,2023-02-27,Cucumber,24,29,34,1kg
+1755,2023-02-27,Curry Leaves,26,31,37,1kg
+1756,2023-02-27,Dill Leaves,13,16,18,1kg
+1757,2023-02-27,Drumsticks,110,133,157,1kg
+1758,2023-02-27,Brinjal,23,27,33,1kg
+1759,2023-02-27,Brinjal (Big),28,34,40,1kg
+1760,2023-02-27,Elephant Yam,24,29,34,1kg
+1761,2023-02-27,Fenugreek Leaves,10,12,14,1kg
+1762,2023-02-27,French Beans,39,47,55,1kg
+1763,2023-02-27,Garlic,56,67,79,1kg
+1764,2023-02-27,Ginger,51,62,72,1kg
+1765,2023-02-27,Onion Green,39,47,55,1kg
+1766,2023-02-27,Green Peas,76,92,108,1kg
+1767,2023-02-27,Ivy Gourd,26,31,37,1kg
+1768,2023-02-27,Lemon (Lime),52,63,74,1kg
+1769,2023-02-27,Mango Raw,89,107,127,1kg
+1770,2023-02-27,Mint Leaves,3,3,4,1kg
+1771,2023-02-27,Mushroom,79,95,112,1kg
+1772,2023-02-27,Mustard Leaves,17,21,24,1kg
+1773,2023-02-27,Ladies Finger,41,49,58,1kg
+1774,2023-02-27,Pumpkin,21,25,30,1kg
+1775,2023-02-27,Radish,28,34,40,1kg
+1776,2023-02-27,Ridge Gourd,32,39,45,1kg
+1777,2023-02-27,Shallot (Pearl Onion),35,42,50,1kg
+1778,2023-02-27,Snake Gourd,28,34,40,1kg
+1779,2023-02-27,Sorrel Leaves,16,19,22,1kg
+1780,2023-02-27,Spinach,12,14,17,1kg
+1781,2023-02-27,Sweet Potato,38,46,54,1kg
+1782,2023-02-26,Onion Big,24,29,34,1kg
+1783,2023-02-26,Onion Small,54,65,77,1kg
+1784,2023-02-26,Tomato,28,34,40,1kg
+1785,2023-02-26,Green Chilli,45,54,64,1kg
+1786,2023-02-26,Beetroot,35,42,50,1kg
+1787,2023-02-26,Potato,36,43,51,1kg
+1788,2023-02-26,Raw Banana (Plantain),10,12,14,1kg
+1789,2023-02-26,Amaranth Leaves,15,18,21,1kg
+1790,2023-02-26,Amla,60,72,85,1kg
+1791,2023-02-26,Ash gourd,27,32,38,1kg
+1792,2023-02-26,Baby Corn,62,75,88,1kg
+1793,2023-02-26,Banana Flower,14,17,20,1kg
+1794,2023-02-26,Capsicum,44,53,63,1kg
+1795,2023-02-26,Bitter Gourd,29,35,41,1kg
+1796,2023-02-26,Bottle Gourd,24,29,34,1kg
+1797,2023-02-26,Butter Beans,53,64,75,1kg
+1798,2023-02-26,Broad Beans,35,42,50,1kg
+1799,2023-02-26,Cabbage,19,23,27,1kg
+1800,2023-02-26,Carrot,30,36,43,1kg
+1801,2023-02-26,Cauliflower,28,34,40,1kg
+1802,2023-02-26,Cluster beans,45,54,64,1kg
+1803,2023-02-26,Coconut,28,34,40,1kg
+1804,2023-02-26,Colocasia Leaves,12,14,17,1kg
+1805,2023-02-26,Colocasia,25,30,35,1kg
+1806,2023-02-26,Coriander Leaves,5,6,7,1kg
+1807,2023-02-26,Corn,26,31,37,1kg
+1808,2023-02-26,Cucumber,24,29,34,1kg
+1809,2023-02-26,Curry Leaves,26,31,37,1kg
+1810,2023-02-26,Dill Leaves,13,16,18,1kg
+1811,2023-02-26,Drumsticks,110,133,157,1kg
+1812,2023-02-26,Brinjal,23,27,33,1kg
+1813,2023-02-26,Brinjal (Big),28,34,40,1kg
+1814,2023-02-26,Elephant Yam,24,29,34,1kg
+1815,2023-02-26,Fenugreek Leaves,10,12,14,1kg
+1816,2023-02-26,French Beans,39,47,55,1kg
+1817,2023-02-26,Garlic,56,67,79,1kg
+1818,2023-02-26,Ginger,51,62,72,1kg
+1819,2023-02-26,Onion Green,39,47,55,1kg
+1820,2023-02-26,Green Peas,76,92,108,1kg
+1821,2023-02-26,Ivy Gourd,26,31,37,1kg
+1822,2023-02-26,Lemon (Lime),52,63,74,1kg
+1823,2023-02-26,Mango Raw,89,107,127,1kg
+1824,2023-02-26,Mint Leaves,3,3,4,1kg
+1825,2023-02-26,Mushroom,79,95,112,1kg
+1826,2023-02-26,Mustard Leaves,17,21,24,1kg
+1827,2023-02-26,Ladies Finger,41,49,58,1kg
+1828,2023-02-26,Pumpkin,21,25,30,1kg
+1829,2023-02-26,Radish,28,34,40,1kg
+1830,2023-02-26,Ridge Gourd,32,39,45,1kg
+1831,2023-02-26,Shallot (Pearl Onion),35,42,50,1kg
+1832,2023-02-26,Snake Gourd,28,34,40,1kg
+1833,2023-02-26,Sorrel Leaves,16,19,22,1kg
+1834,2023-02-26,Spinach,12,14,17,1kg
+1835,2023-02-26,Sweet Potato,38,46,54,1kg
+1836,2023-02-25,Onion Big,24,29,34,1kg
+1837,2023-02-25,Onion Small,54,65,77,1kg
+1838,2023-02-25,Tomato,28,34,40,1kg
+1839,2023-02-25,Green Chilli,45,54,64,1kg
+1840,2023-02-25,Beetroot,35,42,50,1kg
+1841,2023-02-25,Potato,36,43,51,1kg
+1842,2023-02-25,Raw Banana (Plantain),10,12,14,1kg
+1843,2023-02-25,Amaranth Leaves,15,18,21,1kg
+1844,2023-02-25,Amla,60,72,85,1kg
+1845,2023-02-25,Ash gourd,27,32,38,1kg
+1846,2023-02-25,Baby Corn,62,75,88,1kg
+1847,2023-02-25,Banana Flower,14,17,20,1kg
+1848,2023-02-25,Capsicum,44,53,63,1kg
+1849,2023-02-25,Bitter Gourd,29,35,41,1kg
+1850,2023-02-25,Bottle Gourd,24,29,34,1kg
+1851,2023-02-25,Butter Beans,53,64,75,1kg
+1852,2023-02-25,Broad Beans,35,42,50,1kg
+1853,2023-02-25,Cabbage,19,23,27,1kg
+1854,2023-02-25,Carrot,30,36,43,1kg
+1855,2023-02-25,Cauliflower,28,34,40,1kg
+1856,2023-02-25,Cluster beans,45,54,64,1kg
+1857,2023-02-25,Coconut,28,34,40,1kg
+1858,2023-02-25,Colocasia Leaves,12,14,17,1kg
+1859,2023-02-25,Colocasia,25,30,35,1kg
+1860,2023-02-25,Coriander Leaves,5,6,7,1kg
+1861,2023-02-25,Corn,26,31,37,1kg
+1862,2023-02-25,Cucumber,24,29,34,1kg
+1863,2023-02-25,Curry Leaves,26,31,37,1kg
+1864,2023-02-25,Dill Leaves,13,16,18,1kg
+1865,2023-02-25,Drumsticks,110,133,157,1kg
+1866,2023-02-25,Brinjal,23,27,33,1kg
+1867,2023-02-25,Brinjal (Big),28,34,40,1kg
+1868,2023-02-25,Elephant Yam,24,29,34,1kg
+1869,2023-02-25,Fenugreek Leaves,10,12,14,1kg
+1870,2023-02-25,French Beans,39,47,55,1kg
+1871,2023-02-25,Garlic,56,67,79,1kg
+1872,2023-02-25,Ginger,51,62,72,1kg
+1873,2023-02-25,Onion Green,39,47,55,1kg
+1874,2023-02-25,Green Peas,76,92,108,1kg
+1875,2023-02-25,Ivy Gourd,26,31,37,1kg
+1876,2023-02-25,Lemon (Lime),52,63,74,1kg
+1877,2023-02-25,Mango Raw,89,107,127,1kg
+1878,2023-02-25,Mint Leaves,3,3,4,1kg
+1879,2023-02-25,Mushroom,79,95,112,1kg
+1880,2023-02-25,Mustard Leaves,17,21,24,1kg
+1881,2023-02-25,Ladies Finger,41,49,58,1kg
+1882,2023-02-25,Pumpkin,21,25,30,1kg
+1883,2023-02-25,Radish,28,34,40,1kg
+1884,2023-02-25,Ridge Gourd,32,39,45,1kg
+1885,2023-02-25,Shallot (Pearl Onion),35,42,50,1kg
+1886,2023-02-25,Snake Gourd,28,34,40,1kg
+1887,2023-02-25,Sorrel Leaves,16,19,22,1kg
+1888,2023-02-25,Spinach,12,14,17,1kg
+1889,2023-02-25,Sweet Potato,38,46,54,1kg
+1890,2023-02-24,Onion Big,22,26,31,1kg
+1891,2023-02-24,Onion Small,49,59,70,1kg
+1892,2023-02-24,Tomato,28,34,40,1kg
+1893,2023-02-24,Green Chilli,38,46,54,1kg
+1894,2023-02-24,Beetroot,37,45,52,1kg
+1895,2023-02-24,Potato,38,46,54,1kg
+1896,2023-02-24,Raw Banana (Plantain),10,12,14,1kg
+1897,2023-02-24,Amaranth Leaves,13,16,18,1kg
+1898,2023-02-24,Amla,60,72,85,1kg
+1899,2023-02-24,Ash gourd,27,32,38,1kg
+1900,2023-02-24,Baby Corn,62,75,88,1kg
+1901,2023-02-24,Banana Flower,16,19,22,1kg
+1902,2023-02-24,Capsicum,49,59,70,1kg
+1903,2023-02-24,Bitter Gourd,28,34,40,1kg
+1904,2023-02-24,Bottle Gourd,26,31,37,1kg
+1905,2023-02-24,Butter Beans,57,69,81,1kg
+1906,2023-02-24,Broad Beans,39,47,55,1kg
+1907,2023-02-24,Cabbage,22,26,31,1kg
+1908,2023-02-24,Carrot,31,37,44,1kg
+1909,2023-02-24,Cauliflower,27,32,38,1kg
+1910,2023-02-24,Cluster beans,44,53,63,1kg
+1911,2023-02-24,Coconut,30,36,43,1kg
+1912,2023-02-24,Colocasia Leaves,13,16,18,1kg
+1913,2023-02-24,Colocasia,27,32,38,1kg
+1914,2023-02-24,Coriander Leaves,5,6,7,1kg
+1915,2023-02-24,Corn,28,34,40,1kg
+1916,2023-02-24,Cucumber,25,30,35,1kg
+1917,2023-02-24,Curry Leaves,30,36,43,1kg
+1918,2023-02-24,Dill Leaves,11,13,15,1kg
+1919,2023-02-24,Drumsticks,120,145,171,1kg
+1920,2023-02-24,Brinjal,22,26,31,1kg
+1921,2023-02-24,Brinjal (Big),28,34,40,1kg
+1922,2023-02-24,Elephant Yam,27,32,38,1kg
+1923,2023-02-24,Fenugreek Leaves,8,9,11,1kg
+1924,2023-02-24,French Beans,41,49,58,1kg
+1925,2023-02-24,Garlic,55,66,78,1kg
+1926,2023-02-24,Ginger,42,50,59,1kg
+1927,2023-02-24,Onion Green,46,55,65,1kg
+1928,2023-02-24,Green Peas,76,92,108,1kg
+1929,2023-02-24,Ivy Gourd,22,26,31,1kg
+1930,2023-02-24,Lemon (Lime),51,62,72,1kg
+1931,2023-02-24,Mango Raw,104,126,148,1kg
+1932,2023-02-24,Mint Leaves,3,3,4,1kg
+1933,2023-02-24,Mushroom,79,95,112,1kg
+1934,2023-02-24,Mustard Leaves,16,19,22,1kg
+1935,2023-02-24,Ladies Finger,44,53,63,1kg
+1936,2023-02-24,Pumpkin,23,27,33,1kg
+1937,2023-02-24,Radish,26,31,37,1kg
+1938,2023-02-24,Ridge Gourd,29,35,41,1kg
+1939,2023-02-24,Shallot (Pearl Onion),31,37,44,1kg
+1940,2023-02-24,Snake Gourd,30,36,43,1kg
+1941,2023-02-24,Sorrel Leaves,12,14,17,1kg
+1942,2023-02-24,Spinach,13,16,18,1kg
+1943,2023-02-24,Sweet Potato,39,47,55,1kg
+1944,2023-02-23,Onion Big,22,26,31,1kg
+1945,2023-02-23,Onion Small,49,59,70,1kg
+1946,2023-02-23,Tomato,28,34,40,1kg
+1947,2023-02-23,Green Chilli,38,46,54,1kg
+1948,2023-02-23,Beetroot,37,45,52,1kg
+1949,2023-02-23,Potato,38,46,54,1kg
+1950,2023-02-23,Raw Banana (Plantain),10,12,14,1kg
+1951,2023-02-23,Amaranth Leaves,13,16,18,1kg
+1952,2023-02-23,Amla,60,72,85,1kg
+1953,2023-02-23,Ash gourd,27,32,38,1kg
+1954,2023-02-23,Baby Corn,62,75,88,1kg
+1955,2023-02-23,Banana Flower,16,19,22,1kg
+1956,2023-02-23,Capsicum,49,59,70,1kg
+1957,2023-02-23,Bitter Gourd,28,34,40,1kg
+1958,2023-02-23,Bottle Gourd,26,31,37,1kg
+1959,2023-02-23,Butter Beans,57,69,81,1kg
+1960,2023-02-23,Broad Beans,39,47,55,1kg
+1961,2023-02-23,Cabbage,22,26,31,1kg
+1962,2023-02-23,Carrot,31,37,44,1kg
+1963,2023-02-23,Cauliflower,27,32,38,1kg
+1964,2023-02-23,Cluster beans,44,53,63,1kg
+1965,2023-02-23,Coconut,30,36,43,1kg
+1966,2023-02-23,Colocasia Leaves,13,16,18,1kg
+1967,2023-02-23,Colocasia,27,32,38,1kg
+1968,2023-02-23,Coriander Leaves,5,6,7,1kg
+1969,2023-02-23,Corn,28,34,40,1kg
+1970,2023-02-23,Cucumber,25,30,35,1kg
+1971,2023-02-23,Curry Leaves,30,36,43,1kg
+1972,2023-02-23,Dill Leaves,11,13,15,1kg
+1973,2023-02-23,Drumsticks,120,145,171,1kg
+1974,2023-02-23,Brinjal,22,26,31,1kg
+1975,2023-02-23,Brinjal (Big),28,34,40,1kg
+1976,2023-02-23,Elephant Yam,27,32,38,1kg
+1977,2023-02-23,Fenugreek Leaves,8,9,11,1kg
+1978,2023-02-23,French Beans,41,49,58,1kg
+1979,2023-02-23,Garlic,55,66,78,1kg
+1980,2023-02-23,Ginger,42,50,59,1kg
+1981,2023-02-23,Onion Green,46,55,65,1kg
+1982,2023-02-23,Green Peas,76,92,108,1kg
+1983,2023-02-23,Ivy Gourd,22,26,31,1kg
+1984,2023-02-23,Lemon (Lime),51,62,72,1kg
+1985,2023-02-23,Mango Raw,104,126,148,1kg
+1986,2023-02-23,Mint Leaves,3,3,4,1kg
+1987,2023-02-23,Mushroom,79,95,112,1kg
+1988,2023-02-23,Mustard Leaves,16,19,22,1kg
+1989,2023-02-23,Ladies Finger,44,53,63,1kg
+1990,2023-02-23,Pumpkin,23,27,33,1kg
+1991,2023-02-23,Radish,26,31,37,1kg
+1992,2023-02-23,Ridge Gourd,29,35,41,1kg
+1993,2023-02-23,Shallot (Pearl Onion),31,37,44,1kg
+1994,2023-02-23,Snake Gourd,30,36,43,1kg
+1995,2023-02-23,Sorrel Leaves,12,14,17,1kg
+1996,2023-02-23,Spinach,13,16,18,1kg
+1997,2023-02-23,Sweet Potato,39,47,55,1kg
+1998,2023-02-22,Onion Big,23,27,33,1kg
+1999,2023-02-22,Onion Small,56,67,79,1kg
+2000,2023-02-22,Tomato,23,27,33,1kg
+2001,2023-02-22,Green Chilli,41,49,58,1kg
+2002,2023-02-22,Beetroot,38,46,54,1kg
+2003,2023-02-22,Potato,32,39,45,1kg
+2004,2023-02-22,Raw Banana (Plantain),10,12,14,1kg
+2005,2023-02-22,Amaranth Leaves,15,18,21,1kg
+2006,2023-02-22,Amla,60,72,85,1kg
+2007,2023-02-22,Ash gourd,24,29,34,1kg
+2008,2023-02-22,Baby Corn,69,83,98,1kg
+2009,2023-02-22,Banana Flower,20,24,28,1kg
+2010,2023-02-22,Capsicum,43,52,61,1kg
+2011,2023-02-22,Bitter Gourd,33,40,47,1kg
+2012,2023-02-22,Bottle Gourd,32,39,45,1kg
+2013,2023-02-22,Butter Beans,55,66,78,1kg
+2014,2023-02-22,Broad Beans,33,40,47,1kg
+2015,2023-02-22,Cabbage,22,26,31,1kg
+2016,2023-02-22,Carrot,30,36,43,1kg
+2017,2023-02-22,Cauliflower,25,30,35,1kg
+2018,2023-02-22,Cluster beans,44,53,63,1kg
+2019,2023-02-22,Coconut,29,35,41,1kg
+2020,2023-02-22,Colocasia Leaves,16,19,22,1kg
+2021,2023-02-22,Colocasia,27,32,38,1kg
+2022,2023-02-22,Coriander Leaves,6,7,8,1kg
+2023,2023-02-22,Corn,28,34,40,1kg
+2024,2023-02-22,Cucumber,20,24,28,1kg
+2025,2023-02-22,Curry Leaves,27,32,38,1kg
+2026,2023-02-22,Dill Leaves,13,16,18,1kg
+2027,2023-02-22,Drumsticks,120,145,171,1kg
+2028,2023-02-22,Brinjal,28,34,40,1kg
+2029,2023-02-22,Brinjal (Big),28,34,40,1kg
+2030,2023-02-22,Elephant Yam,24,29,34,1kg
+2031,2023-02-22,Fenugreek Leaves,9,10,13,1kg
+2032,2023-02-22,French Beans,42,50,59,1kg
+2033,2023-02-22,Garlic,55,66,78,1kg
+2034,2023-02-22,Ginger,54,65,77,1kg
+2035,2023-02-22,Onion Green,40,48,57,1kg
+2036,2023-02-22,Green Peas,78,94,111,1kg
+2037,2023-02-22,Ivy Gourd,25,30,35,1kg
+2038,2023-02-22,Lemon (Lime),58,70,83,1kg
+2039,2023-02-22,Mango Raw,85,103,121,1kg
+2040,2023-02-22,Mint Leaves,3,3,4,1kg
+2041,2023-02-22,Mushroom,84,102,120,1kg
+2042,2023-02-22,Mustard Leaves,15,18,21,1kg
+2043,2023-02-22,Ladies Finger,43,52,61,1kg
+2044,2023-02-22,Pumpkin,22,26,31,1kg
+2045,2023-02-22,Radish,30,36,43,1kg
+2046,2023-02-22,Ridge Gourd,29,35,41,1kg
+2047,2023-02-22,Shallot (Pearl Onion),37,45,52,1kg
+2048,2023-02-22,Snake Gourd,29,35,41,1kg
+2049,2023-02-22,Sorrel Leaves,14,17,20,1kg
+2050,2023-02-22,Spinach,13,16,18,1kg
+2051,2023-02-22,Sweet Potato,36,43,51,1kg
+2052,2023-02-21,Onion Big,23,27,33,1kg
+2053,2023-02-21,Onion Small,56,67,79,1kg
+2054,2023-02-21,Tomato,23,27,33,1kg
+2055,2023-02-21,Green Chilli,41,49,58,1kg
+2056,2023-02-21,Beetroot,38,46,54,1kg
+2057,2023-02-21,Potato,32,39,45,1kg
+2058,2023-02-21,Raw Banana (Plantain),10,12,14,1kg
+2059,2023-02-21,Amaranth Leaves,15,18,21,1kg
+2060,2023-02-21,Amla,60,72,85,1kg
+2061,2023-02-21,Ash gourd,24,29,34,1kg
+2062,2023-02-21,Baby Corn,69,83,98,1kg
+2063,2023-02-21,Banana Flower,20,24,28,1kg
+2064,2023-02-21,Capsicum,43,52,61,1kg
+2065,2023-02-21,Bitter Gourd,33,40,47,1kg
+2066,2023-02-21,Bottle Gourd,32,39,45,1kg
+2067,2023-02-21,Butter Beans,55,66,78,1kg
+2068,2023-02-21,Broad Beans,33,40,47,1kg
+2069,2023-02-21,Cabbage,22,26,31,1kg
+2070,2023-02-21,Carrot,30,36,43,1kg
+2071,2023-02-21,Cauliflower,25,30,35,1kg
+2072,2023-02-21,Cluster beans,44,53,63,1kg
+2073,2023-02-21,Coconut,29,35,41,1kg
+2074,2023-02-21,Colocasia Leaves,16,19,22,1kg
+2075,2023-02-21,Colocasia,27,32,38,1kg
+2076,2023-02-21,Coriander Leaves,6,7,8,1kg
+2077,2023-02-21,Corn,28,34,40,1kg
+2078,2023-02-21,Cucumber,20,24,28,1kg
+2079,2023-02-21,Curry Leaves,27,32,38,1kg
+2080,2023-02-21,Dill Leaves,13,16,18,1kg
+2081,2023-02-21,Drumsticks,120,145,171,1kg
+2082,2023-02-21,Brinjal,28,34,40,1kg
+2083,2023-02-21,Brinjal (Big),28,34,40,1kg
+2084,2023-02-21,Elephant Yam,24,29,34,1kg
+2085,2023-02-21,Fenugreek Leaves,9,10,13,1kg
+2086,2023-02-21,French Beans,42,50,59,1kg
+2087,2023-02-21,Garlic,55,66,78,1kg
+2088,2023-02-21,Ginger,54,65,77,1kg
+2089,2023-02-21,Onion Green,40,48,57,1kg
+2090,2023-02-21,Green Peas,78,94,111,1kg
+2091,2023-02-21,Ivy Gourd,25,30,35,1kg
+2092,2023-02-21,Lemon (Lime),58,70,83,1kg
+2093,2023-02-21,Mango Raw,85,103,121,1kg
+2094,2023-02-21,Mint Leaves,3,3,4,1kg
+2095,2023-02-21,Mushroom,84,102,120,1kg
+2096,2023-02-21,Mustard Leaves,15,18,21,1kg
+2097,2023-02-21,Ladies Finger,43,52,61,1kg
+2098,2023-02-21,Pumpkin,22,26,31,1kg
+2099,2023-02-21,Radish,30,36,43,1kg
+2100,2023-02-21,Ridge Gourd,29,35,41,1kg
+2101,2023-02-21,Shallot (Pearl Onion),37,45,52,1kg
+2102,2023-02-21,Snake Gourd,29,35,41,1kg
+2103,2023-02-21,Sorrel Leaves,14,17,20,1kg
+2104,2023-02-21,Spinach,13,16,18,1kg
+2105,2023-02-21,Sweet Potato,36,43,51,1kg
+2106,2023-02-20,Onion Big,23,27,33,1kg
+2107,2023-02-20,Onion Small,56,67,79,1kg
+2108,2023-02-20,Tomato,23,27,33,1kg
+2109,2023-02-20,Green Chilli,41,49,58,1kg
+2110,2023-02-20,Beetroot,38,46,54,1kg
+2111,2023-02-20,Potato,32,39,45,1kg
+2112,2023-02-20,Raw Banana (Plantain),10,12,14,1kg
+2113,2023-02-20,Amaranth Leaves,15,18,21,1kg
+2114,2023-02-20,Amla,60,72,85,1kg
+2115,2023-02-20,Ash gourd,24,29,34,1kg
+2116,2023-02-20,Baby Corn,69,83,98,1kg
+2117,2023-02-20,Banana Flower,20,24,28,1kg
+2118,2023-02-20,Capsicum,43,52,61,1kg
+2119,2023-02-20,Bitter Gourd,33,40,47,1kg
+2120,2023-02-20,Bottle Gourd,32,39,45,1kg
+2121,2023-02-20,Butter Beans,55,66,78,1kg
+2122,2023-02-20,Broad Beans,33,40,47,1kg
+2123,2023-02-20,Cabbage,22,26,31,1kg
+2124,2023-02-20,Carrot,30,36,43,1kg
+2125,2023-02-20,Cauliflower,25,30,35,1kg
+2126,2023-02-20,Cluster beans,44,53,63,1kg
+2127,2023-02-20,Coconut,29,35,41,1kg
+2128,2023-02-20,Colocasia Leaves,16,19,22,1kg
+2129,2023-02-20,Colocasia,27,32,38,1kg
+2130,2023-02-20,Coriander Leaves,6,7,8,1kg
+2131,2023-02-20,Corn,28,34,40,1kg
+2132,2023-02-20,Cucumber,20,24,28,1kg
+2133,2023-02-20,Curry Leaves,27,32,38,1kg
+2134,2023-02-20,Dill Leaves,13,16,18,1kg
+2135,2023-02-20,Drumsticks,120,145,171,1kg
+2136,2023-02-20,Brinjal,28,34,40,1kg
+2137,2023-02-20,Brinjal (Big),28,34,40,1kg
+2138,2023-02-20,Elephant Yam,24,29,34,1kg
+2139,2023-02-20,Fenugreek Leaves,9,10,13,1kg
+2140,2023-02-20,French Beans,42,50,59,1kg
+2141,2023-02-20,Garlic,55,66,78,1kg
+2142,2023-02-20,Ginger,54,65,77,1kg
+2143,2023-02-20,Onion Green,40,48,57,1kg
+2144,2023-02-20,Green Peas,78,94,111,1kg
+2145,2023-02-20,Ivy Gourd,25,30,35,1kg
+2146,2023-02-20,Lemon (Lime),58,70,83,1kg
+2147,2023-02-20,Mango Raw,85,103,121,1kg
+2148,2023-02-20,Mint Leaves,3,3,4,1kg
+2149,2023-02-20,Mushroom,84,102,120,1kg
+2150,2023-02-20,Mustard Leaves,15,18,21,1kg
+2151,2023-02-20,Ladies Finger,43,52,61,1kg
+2152,2023-02-20,Pumpkin,22,26,31,1kg
+2153,2023-02-20,Radish,30,36,43,1kg
+2154,2023-02-20,Ridge Gourd,29,35,41,1kg
+2155,2023-02-20,Shallot (Pearl Onion),37,45,52,1kg
+2156,2023-02-20,Snake Gourd,29,35,41,1kg
+2157,2023-02-20,Sorrel Leaves,14,17,20,1kg
+2158,2023-02-20,Spinach,13,16,18,1kg
+2159,2023-02-20,Sweet Potato,36,43,51,1kg
+2160,2023-02-19,Onion Big,23,27,33,1kg
+2161,2023-02-19,Onion Small,56,67,79,1kg
+2162,2023-02-19,Tomato,23,27,33,1kg
+2163,2023-02-19,Green Chilli,41,49,58,1kg
+2164,2023-02-19,Beetroot,38,46,54,1kg
+2165,2023-02-19,Potato,32,39,45,1kg
+2166,2023-02-19,Raw Banana (Plantain),10,12,14,1kg
+2167,2023-02-19,Amaranth Leaves,15,18,21,1kg
+2168,2023-02-19,Amla,60,72,85,1kg
+2169,2023-02-19,Ash gourd,24,29,34,1kg
+2170,2023-02-19,Baby Corn,69,83,98,1kg
+2171,2023-02-19,Banana Flower,20,24,28,1kg
+2172,2023-02-19,Capsicum,43,52,61,1kg
+2173,2023-02-19,Bitter Gourd,33,40,47,1kg
+2174,2023-02-19,Bottle Gourd,32,39,45,1kg
+2175,2023-02-19,Butter Beans,55,66,78,1kg
+2176,2023-02-19,Broad Beans,33,40,47,1kg
+2177,2023-02-19,Cabbage,22,26,31,1kg
+2178,2023-02-19,Carrot,30,36,43,1kg
+2179,2023-02-19,Cauliflower,25,30,35,1kg
+2180,2023-02-19,Cluster beans,44,53,63,1kg
+2181,2023-02-19,Coconut,29,35,41,1kg
+2182,2023-02-19,Colocasia Leaves,16,19,22,1kg
+2183,2023-02-19,Colocasia,27,32,38,1kg
+2184,2023-02-19,Coriander Leaves,6,7,8,1kg
+2185,2023-02-19,Corn,28,34,40,1kg
+2186,2023-02-19,Cucumber,20,24,28,1kg
+2187,2023-02-19,Curry Leaves,27,32,38,1kg
+2188,2023-02-19,Dill Leaves,13,16,18,1kg
+2189,2023-02-19,Drumsticks,120,145,171,1kg
+2190,2023-02-19,Brinjal,28,34,40,1kg
+2191,2023-02-19,Brinjal (Big),28,34,40,1kg
+2192,2023-02-19,Elephant Yam,24,29,34,1kg
+2193,2023-02-19,Fenugreek Leaves,9,10,13,1kg
+2194,2023-02-19,French Beans,42,50,59,1kg
+2195,2023-02-19,Garlic,55,66,78,1kg
+2196,2023-02-19,Ginger,54,65,77,1kg
+2197,2023-02-19,Onion Green,40,48,57,1kg
+2198,2023-02-19,Green Peas,78,94,111,1kg
+2199,2023-02-19,Ivy Gourd,25,30,35,1kg
+2200,2023-02-19,Lemon (Lime),58,70,83,1kg
+2201,2023-02-19,Mango Raw,85,103,121,1kg
+2202,2023-02-19,Mint Leaves,3,3,4,1kg
+2203,2023-02-19,Mushroom,84,102,120,1kg
+2204,2023-02-19,Mustard Leaves,15,18,21,1kg
+2205,2023-02-19,Ladies Finger,43,52,61,1kg
+2206,2023-02-19,Pumpkin,22,26,31,1kg
+2207,2023-02-19,Radish,30,36,43,1kg
+2208,2023-02-19,Ridge Gourd,29,35,41,1kg
+2209,2023-02-19,Shallot (Pearl Onion),37,45,52,1kg
+2210,2023-02-19,Snake Gourd,29,35,41,1kg
+2211,2023-02-19,Sorrel Leaves,14,17,20,1kg
+2212,2023-02-19,Spinach,13,16,18,1kg
+2213,2023-02-19,Sweet Potato,36,43,51,1kg
+2214,2023-02-18,Onion Big,25,30,35,1kg
+2215,2023-02-18,Onion Small,48,58,68,1kg
+2216,2023-02-18,Tomato,20,24,28,1kg
+2217,2023-02-18,Green Chilli,36,43,51,1kg
+2218,2023-02-18,Beetroot,38,46,54,1kg
+2219,2023-02-18,Potato,32,39,45,1kg
+2220,2023-02-18,Raw Banana (Plantain),9,10,13,1kg
+2221,2023-02-18,Amaranth Leaves,15,18,21,1kg
+2222,2023-02-18,Amla,70,85,100,1kg
+2223,2023-02-18,Ash gourd,26,31,37,1kg
+2224,2023-02-18,Baby Corn,67,81,95,1kg
+2225,2023-02-18,Banana Flower,14,17,20,1kg
+2226,2023-02-18,Capsicum,45,54,64,1kg
+2227,2023-02-18,Bitter Gourd,32,39,45,1kg
+2228,2023-02-18,Bottle Gourd,30,36,43,1kg
+2229,2023-02-18,Butter Beans,76,92,108,1kg
+2230,2023-02-18,Broad Beans,34,41,48,1kg
+2231,2023-02-18,Cabbage,24,29,34,1kg
+2232,2023-02-18,Carrot,32,39,45,1kg
+2233,2023-02-18,Cauliflower,25,30,35,1kg
+2234,2023-02-18,Cluster beans,43,52,61,1kg
+2235,2023-02-18,Coconut,30,36,43,1kg
+2236,2023-02-18,Colocasia Leaves,15,18,21,1kg
+2237,2023-02-18,Colocasia,23,27,33,1kg
+2238,2023-02-18,Coriander Leaves,8,9,11,1kg
+2239,2023-02-18,Corn,30,36,43,1kg
+2240,2023-02-18,Cucumber,21,25,30,1kg
+2241,2023-02-18,Curry Leaves,30,36,43,1kg
+2242,2023-02-18,Dill Leaves,13,16,18,1kg
+2243,2023-02-18,Drumsticks,110,133,157,1kg
+2244,2023-02-18,Brinjal,26,31,37,1kg
+2245,2023-02-18,Brinjal (Big),27,32,38,1kg
+2246,2023-02-18,Elephant Yam,24,29,34,1kg
+2247,2023-02-18,Fenugreek Leaves,11,13,15,1kg
+2248,2023-02-18,French Beans,36,43,51,1kg
+2249,2023-02-18,Garlic,46,55,65,1kg
+2250,2023-02-18,Ginger,42,50,59,1kg
+2251,2023-02-18,Onion Green,45,54,64,1kg
+2252,2023-02-18,Green Peas,77,93,109,1kg
+2253,2023-02-18,Ivy Gourd,26,31,37,1kg
+2254,2023-02-18,Lemon (Lime),59,71,84,1kg
+2255,2023-02-18,Mango Raw,83,100,118,1kg
+2256,2023-02-18,Mint Leaves,8,9,11,1kg
+2257,2023-02-18,Mushroom,79,95,112,1kg
+2258,2023-02-18,Mustard Leaves,18,22,26,1kg
+2259,2023-02-18,Ladies Finger,40,48,57,1kg
+2260,2023-02-18,Pumpkin,22,26,31,1kg
+2261,2023-02-18,Radish,29,35,41,1kg
+2262,2023-02-18,Ridge Gourd,32,39,45,1kg
+2263,2023-02-18,Shallot (Pearl Onion),35,42,50,1kg
+2264,2023-02-18,Snake Gourd,28,34,40,1kg
+2265,2023-02-18,Sorrel Leaves,11,13,15,1kg
+2266,2023-02-18,Spinach,16,19,22,1kg
+2267,2023-02-18,Sweet Potato,38,46,54,1kg
+2268,2023-02-17,Onion Big,25,30,35,1kg
+2269,2023-02-17,Onion Small,48,58,68,1kg
+2270,2023-02-17,Tomato,20,24,28,1kg
+2271,2023-02-17,Green Chilli,36,43,51,1kg
+2272,2023-02-17,Beetroot,38,46,54,1kg
+2273,2023-02-17,Potato,32,39,45,1kg
+2274,2023-02-17,Raw Banana (Plantain),9,10,13,1kg
+2275,2023-02-17,Amaranth Leaves,15,18,21,1kg
+2276,2023-02-17,Amla,70,85,100,1kg
+2277,2023-02-17,Ash gourd,26,31,37,1kg
+2278,2023-02-17,Baby Corn,67,81,95,1kg
+2279,2023-02-17,Banana Flower,14,17,20,1kg
+2280,2023-02-17,Capsicum,45,54,64,1kg
+2281,2023-02-17,Bitter Gourd,32,39,45,1kg
+2282,2023-02-17,Bottle Gourd,30,36,43,1kg
+2283,2023-02-17,Butter Beans,76,92,108,1kg
+2284,2023-02-17,Broad Beans,34,41,48,1kg
+2285,2023-02-17,Cabbage,24,29,34,1kg
+2286,2023-02-17,Carrot,32,39,45,1kg
+2287,2023-02-17,Cauliflower,25,30,35,1kg
+2288,2023-02-17,Cluster beans,43,52,61,1kg
+2289,2023-02-17,Coconut,30,36,43,1kg
+2290,2023-02-17,Colocasia Leaves,15,18,21,1kg
+2291,2023-02-17,Colocasia,23,27,33,1kg
+2292,2023-02-17,Coriander Leaves,8,9,11,1kg
+2293,2023-02-17,Corn,30,36,43,1kg
+2294,2023-02-17,Cucumber,21,25,30,1kg
+2295,2023-02-17,Curry Leaves,30,36,43,1kg
+2296,2023-02-17,Dill Leaves,13,16,18,1kg
+2297,2023-02-17,Drumsticks,110,133,157,1kg
+2298,2023-02-17,Brinjal,26,31,37,1kg
+2299,2023-02-17,Brinjal (Big),27,32,38,1kg
+2300,2023-02-17,Elephant Yam,24,29,34,1kg
+2301,2023-02-17,Fenugreek Leaves,11,13,15,1kg
+2302,2023-02-17,French Beans,36,43,51,1kg
+2303,2023-02-17,Garlic,46,55,65,1kg
+2304,2023-02-17,Ginger,42,50,59,1kg
+2305,2023-02-17,Onion Green,45,54,64,1kg
+2306,2023-02-17,Green Peas,77,93,109,1kg
+2307,2023-02-17,Ivy Gourd,26,31,37,1kg
+2308,2023-02-17,Lemon (Lime),59,71,84,1kg
+2309,2023-02-17,Mango Raw,83,100,118,1kg
+2310,2023-02-17,Mint Leaves,8,9,11,1kg
+2311,2023-02-17,Mushroom,79,95,112,1kg
+2312,2023-02-17,Mustard Leaves,18,22,26,1kg
+2313,2023-02-17,Ladies Finger,40,48,57,1kg
+2314,2023-02-17,Pumpkin,22,26,31,1kg
+2315,2023-02-17,Radish,29,35,41,1kg
+2316,2023-02-17,Ridge Gourd,32,39,45,1kg
+2317,2023-02-17,Shallot (Pearl Onion),35,42,50,1kg
+2318,2023-02-17,Snake Gourd,28,34,40,1kg
+2319,2023-02-17,Sorrel Leaves,11,13,15,1kg
+2320,2023-02-17,Spinach,16,19,22,1kg
+2321,2023-02-17,Sweet Potato,38,46,54,1kg
+2322,2023-02-16,Onion Big,25,30,35,1kg
+2323,2023-02-16,Onion Small,48,58,68,1kg
+2324,2023-02-16,Tomato,20,24,28,1kg
+2325,2023-02-16,Green Chilli,36,43,51,1kg
+2326,2023-02-16,Beetroot,38,46,54,1kg
+2327,2023-02-16,Potato,32,39,45,1kg
+2328,2023-02-16,Raw Banana (Plantain),9,10,13,1kg
+2329,2023-02-16,Amaranth Leaves,15,18,21,1kg
+2330,2023-02-16,Amla,70,85,100,1kg
+2331,2023-02-16,Ash gourd,26,31,37,1kg
+2332,2023-02-16,Baby Corn,67,81,95,1kg
+2333,2023-02-16,Banana Flower,14,17,20,1kg
+2334,2023-02-16,Capsicum,45,54,64,1kg
+2335,2023-02-16,Bitter Gourd,32,39,45,1kg
+2336,2023-02-16,Bottle Gourd,30,36,43,1kg
+2337,2023-02-16,Butter Beans,76,92,108,1kg
+2338,2023-02-16,Broad Beans,34,41,48,1kg
+2339,2023-02-16,Cabbage,24,29,34,1kg
+2340,2023-02-16,Carrot,32,39,45,1kg
+2341,2023-02-16,Cauliflower,25,30,35,1kg
+2342,2023-02-16,Cluster beans,43,52,61,1kg
+2343,2023-02-16,Coconut,30,36,43,1kg
+2344,2023-02-16,Colocasia Leaves,15,18,21,1kg
+2345,2023-02-16,Colocasia,23,27,33,1kg
+2346,2023-02-16,Coriander Leaves,8,9,11,1kg
+2347,2023-02-16,Corn,30,36,43,1kg
+2348,2023-02-16,Cucumber,21,25,30,1kg
+2349,2023-02-16,Curry Leaves,30,36,43,1kg
+2350,2023-02-16,Dill Leaves,13,16,18,1kg
+2351,2023-02-16,Drumsticks,110,133,157,1kg
+2352,2023-02-16,Brinjal,26,31,37,1kg
+2353,2023-02-16,Brinjal (Big),27,32,38,1kg
+2354,2023-02-16,Elephant Yam,24,29,34,1kg
+2355,2023-02-16,Fenugreek Leaves,11,13,15,1kg
+2356,2023-02-16,French Beans,36,43,51,1kg
+2357,2023-02-16,Garlic,46,55,65,1kg
+2358,2023-02-16,Ginger,42,50,59,1kg
+2359,2023-02-16,Onion Green,45,54,64,1kg
+2360,2023-02-16,Green Peas,77,93,109,1kg
+2361,2023-02-16,Ivy Gourd,26,31,37,1kg
+2362,2023-02-16,Lemon (Lime),59,71,84,1kg
+2363,2023-02-16,Mango Raw,83,100,118,1kg
+2364,2023-02-16,Mint Leaves,8,9,11,1kg
+2365,2023-02-16,Mushroom,79,95,112,1kg
+2366,2023-02-16,Mustard Leaves,18,22,26,1kg
+2367,2023-02-16,Ladies Finger,40,48,57,1kg
+2368,2023-02-16,Pumpkin,22,26,31,1kg
+2369,2023-02-16,Radish,29,35,41,1kg
+2370,2023-02-16,Ridge Gourd,32,39,45,1kg
+2371,2023-02-16,Shallot (Pearl Onion),35,42,50,1kg
+2372,2023-02-16,Snake Gourd,28,34,40,1kg
+2373,2023-02-16,Sorrel Leaves,11,13,15,1kg
+2374,2023-02-16,Spinach,16,19,22,1kg
+2375,2023-02-16,Sweet Potato,38,46,54,1kg
+2376,2023-02-15,Onion Big,26,31,37,1kg
+2377,2023-02-15,Onion Small,50,61,71,1kg
+2378,2023-02-15,Tomato,22,26,31,1kg
+2379,2023-02-15,Green Chilli,32,39,45,1kg
+2380,2023-02-15,Beetroot,37,45,52,1kg
+2381,2023-02-15,Potato,38,46,54,1kg
+2382,2023-02-15,Raw Banana (Plantain),11,13,15,1kg
+2383,2023-02-15,Amaranth Leaves,14,17,20,1kg
+2384,2023-02-15,Amla,60,72,85,1kg
+2385,2023-02-15,Ash gourd,28,34,40,1kg
+2386,2023-02-15,Baby Corn,63,76,90,1kg
+2387,2023-02-15,Banana Flower,20,24,28,1kg
+2388,2023-02-15,Capsicum,50,61,71,1kg
+2389,2023-02-15,Bitter Gourd,29,35,41,1kg
+2390,2023-02-15,Bottle Gourd,31,37,44,1kg
+2391,2023-02-15,Butter Beans,60,72,85,1kg
+2392,2023-02-15,Broad Beans,40,48,57,1kg
+2393,2023-02-15,Cabbage,20,24,28,1kg
+2394,2023-02-15,Carrot,32,39,45,1kg
+2395,2023-02-15,Cauliflower,25,30,35,1kg
+2396,2023-02-15,Cluster beans,45,54,64,1kg
+2397,2023-02-15,Coconut,29,35,41,1kg
+2398,2023-02-15,Colocasia Leaves,10,12,14,1kg
+2399,2023-02-15,Colocasia,28,34,40,1kg
+2400,2023-02-15,Coriander Leaves,6,7,8,1kg
+2401,2023-02-15,Corn,29,35,41,1kg
+2402,2023-02-15,Cucumber,20,24,28,1kg
+2403,2023-02-15,Curry Leaves,27,32,38,1kg
+2404,2023-02-15,Dill Leaves,10,12,14,1kg
+2405,2023-02-15,Drumsticks,110,133,157,1kg
+2406,2023-02-15,Brinjal,26,31,37,1kg
+2407,2023-02-15,Brinjal (Big),27,32,38,1kg
+2408,2023-02-15,Elephant Yam,25,30,35,1kg
+2409,2023-02-15,Fenugreek Leaves,8,9,11,1kg
+2410,2023-02-15,French Beans,38,46,54,1kg
+2411,2023-02-15,Garlic,48,58,68,1kg
+2412,2023-02-15,Ginger,39,47,55,1kg
+2413,2023-02-15,Onion Green,35,42,50,1kg
+2414,2023-02-15,Green Peas,79,95,112,1kg
+2415,2023-02-15,Ivy Gourd,26,31,37,1kg
+2416,2023-02-15,Lemon (Lime),56,67,79,1kg
+2417,2023-02-15,Mango Raw,103,124,147,1kg
+2418,2023-02-15,Mint Leaves,6,7,8,1kg
+2419,2023-02-15,Mushroom,83,100,118,1kg
+2420,2023-02-15,Mustard Leaves,17,21,24,1kg
+2421,2023-02-15,Ladies Finger,42,50,59,1kg
+2422,2023-02-15,Pumpkin,23,27,33,1kg
+2423,2023-02-15,Radish,28,34,40,1kg
+2424,2023-02-15,Ridge Gourd,28,34,40,1kg
+2425,2023-02-15,Shallot (Pearl Onion),35,42,50,1kg
+2426,2023-02-15,Snake Gourd,30,36,43,1kg
+2427,2023-02-15,Sorrel Leaves,10,12,14,1kg
+2428,2023-02-15,Spinach,14,17,20,1kg
+2429,2023-02-15,Sweet Potato,38,46,54,1kg
+2430,2023-02-14,Onion Big,26,31,37,1kg
+2431,2023-02-14,Onion Small,50,61,71,1kg
+2432,2023-02-14,Tomato,22,26,31,1kg
+2433,2023-02-14,Green Chilli,32,39,45,1kg
+2434,2023-02-14,Beetroot,37,45,52,1kg
+2435,2023-02-14,Potato,38,46,54,1kg
+2436,2023-02-14,Raw Banana (Plantain),11,13,15,1kg
+2437,2023-02-14,Amaranth Leaves,14,17,20,1kg
+2438,2023-02-14,Amla,60,72,85,1kg
+2439,2023-02-14,Ash gourd,28,34,40,1kg
+2440,2023-02-14,Baby Corn,63,76,90,1kg
+2441,2023-02-14,Banana Flower,20,24,28,1kg
+2442,2023-02-14,Capsicum,50,61,71,1kg
+2443,2023-02-14,Bitter Gourd,29,35,41,1kg
+2444,2023-02-14,Bottle Gourd,31,37,44,1kg
+2445,2023-02-14,Butter Beans,60,72,85,1kg
+2446,2023-02-14,Broad Beans,40,48,57,1kg
+2447,2023-02-14,Cabbage,20,24,28,1kg
+2448,2023-02-14,Carrot,32,39,45,1kg
+2449,2023-02-14,Cauliflower,25,30,35,1kg
+2450,2023-02-14,Cluster beans,45,54,64,1kg
+2451,2023-02-14,Coconut,29,35,41,1kg
+2452,2023-02-14,Colocasia Leaves,10,12,14,1kg
+2453,2023-02-14,Colocasia,28,34,40,1kg
+2454,2023-02-14,Coriander Leaves,6,7,8,1kg
+2455,2023-02-14,Corn,29,35,41,1kg
+2456,2023-02-14,Cucumber,20,24,28,1kg
+2457,2023-02-14,Curry Leaves,27,32,38,1kg
+2458,2023-02-14,Dill Leaves,10,12,14,1kg
+2459,2023-02-14,Drumsticks,110,133,157,1kg
+2460,2023-02-14,Brinjal,26,31,37,1kg
+2461,2023-02-14,Brinjal (Big),27,32,38,1kg
+2462,2023-02-14,Elephant Yam,25,30,35,1kg
+2463,2023-02-14,Fenugreek Leaves,8,9,11,1kg
+2464,2023-02-14,French Beans,38,46,54,1kg
+2465,2023-02-14,Garlic,48,58,68,1kg
+2466,2023-02-14,Ginger,39,47,55,1kg
+2467,2023-02-14,Onion Green,35,42,50,1kg
+2468,2023-02-14,Green Peas,79,95,112,1kg
+2469,2023-02-14,Ivy Gourd,26,31,37,1kg
+2470,2023-02-14,Lemon (Lime),56,67,79,1kg
+2471,2023-02-14,Mango Raw,103,124,147,1kg
+2472,2023-02-14,Mint Leaves,6,7,8,1kg
+2473,2023-02-14,Mushroom,83,100,118,1kg
+2474,2023-02-14,Mustard Leaves,17,21,24,1kg
+2475,2023-02-14,Ladies Finger,42,50,59,1kg
+2476,2023-02-14,Pumpkin,23,27,33,1kg
+2477,2023-02-14,Radish,28,34,40,1kg
+2478,2023-02-14,Ridge Gourd,28,34,40,1kg
+2479,2023-02-14,Shallot (Pearl Onion),35,42,50,1kg
+2480,2023-02-14,Snake Gourd,30,36,43,1kg
+2481,2023-02-14,Sorrel Leaves,10,12,14,1kg
+2482,2023-02-14,Spinach,14,17,20,1kg
+2483,2023-02-14,Sweet Potato,38,46,54,1kg
+2484,2023-02-13,Onion Big,26,31,37,1kg
+2485,2023-02-13,Onion Small,50,61,71,1kg
+2486,2023-02-13,Tomato,22,26,31,1kg
+2487,2023-02-13,Green Chilli,32,39,45,1kg
+2488,2023-02-13,Beetroot,37,45,52,1kg
+2489,2023-02-13,Potato,38,46,54,1kg
+2490,2023-02-13,Raw Banana (Plantain),11,13,15,1kg
+2491,2023-02-13,Amaranth Leaves,14,17,20,1kg
+2492,2023-02-13,Amla,60,72,85,1kg
+2493,2023-02-13,Ash gourd,28,34,40,1kg
+2494,2023-02-13,Baby Corn,63,76,90,1kg
+2495,2023-02-13,Banana Flower,20,24,28,1kg
+2496,2023-02-13,Capsicum,50,61,71,1kg
+2497,2023-02-13,Bitter Gourd,29,35,41,1kg
+2498,2023-02-13,Bottle Gourd,31,37,44,1kg
+2499,2023-02-13,Butter Beans,60,72,85,1kg
+2500,2023-02-13,Broad Beans,40,48,57,1kg
+2501,2023-02-13,Cabbage,20,24,28,1kg
+2502,2023-02-13,Carrot,32,39,45,1kg
+2503,2023-02-13,Cauliflower,25,30,35,1kg
+2504,2023-02-13,Cluster beans,45,54,64,1kg
+2505,2023-02-13,Coconut,29,35,41,1kg
+2506,2023-02-13,Colocasia Leaves,10,12,14,1kg
+2507,2023-02-13,Colocasia,28,34,40,1kg
+2508,2023-02-13,Coriander Leaves,6,7,8,1kg
+2509,2023-02-13,Corn,29,35,41,1kg
+2510,2023-02-13,Cucumber,20,24,28,1kg
+2511,2023-02-13,Curry Leaves,27,32,38,1kg
+2512,2023-02-13,Dill Leaves,10,12,14,1kg
+2513,2023-02-13,Drumsticks,110,133,157,1kg
+2514,2023-02-13,Brinjal,26,31,37,1kg
+2515,2023-02-13,Brinjal (Big),27,32,38,1kg
+2516,2023-02-13,Elephant Yam,25,30,35,1kg
+2517,2023-02-13,Fenugreek Leaves,8,9,11,1kg
+2518,2023-02-13,French Beans,38,46,54,1kg
+2519,2023-02-13,Garlic,48,58,68,1kg
+2520,2023-02-13,Ginger,39,47,55,1kg
+2521,2023-02-13,Onion Green,35,42,50,1kg
+2522,2023-02-13,Green Peas,79,95,112,1kg
+2523,2023-02-13,Ivy Gourd,26,31,37,1kg
+2524,2023-02-13,Lemon (Lime),56,67,79,1kg
+2525,2023-02-13,Mango Raw,103,124,147,1kg
+2526,2023-02-13,Mint Leaves,6,7,8,1kg
+2527,2023-02-13,Mushroom,83,100,118,1kg
+2528,2023-02-13,Mustard Leaves,17,21,24,1kg
+2529,2023-02-13,Ladies Finger,42,50,59,1kg
+2530,2023-02-13,Pumpkin,23,27,33,1kg
+2531,2023-02-13,Radish,28,34,40,1kg
+2532,2023-02-13,Ridge Gourd,28,34,40,1kg
+2533,2023-02-13,Shallot (Pearl Onion),35,42,50,1kg
+2534,2023-02-13,Snake Gourd,30,36,43,1kg
+2535,2023-02-13,Sorrel Leaves,10,12,14,1kg
+2536,2023-02-13,Spinach,14,17,20,1kg
+2537,2023-02-13,Sweet Potato,38,46,54,1kg
+2538,2023-02-12,Onion Big,26,31,37,1kg
+2539,2023-02-12,Onion Small,50,61,71,1kg
+2540,2023-02-12,Tomato,22,26,31,1kg
+2541,2023-02-12,Green Chilli,32,39,45,1kg
+2542,2023-02-12,Beetroot,37,45,52,1kg
+2543,2023-02-12,Potato,38,46,54,1kg
+2544,2023-02-12,Raw Banana (Plantain),11,13,15,1kg
+2545,2023-02-12,Amaranth Leaves,14,17,20,1kg
+2546,2023-02-12,Amla,60,72,85,1kg
+2547,2023-02-12,Ash gourd,28,34,40,1kg
+2548,2023-02-12,Baby Corn,63,76,90,1kg
+2549,2023-02-12,Banana Flower,20,24,28,1kg
+2550,2023-02-12,Capsicum,50,61,71,1kg
+2551,2023-02-12,Bitter Gourd,29,35,41,1kg
+2552,2023-02-12,Bottle Gourd,31,37,44,1kg
+2553,2023-02-12,Butter Beans,60,72,85,1kg
+2554,2023-02-12,Broad Beans,40,48,57,1kg
+2555,2023-02-12,Cabbage,20,24,28,1kg
+2556,2023-02-12,Carrot,32,39,45,1kg
+2557,2023-02-12,Cauliflower,25,30,35,1kg
+2558,2023-02-12,Cluster beans,45,54,64,1kg
+2559,2023-02-12,Coconut,29,35,41,1kg
+2560,2023-02-12,Colocasia Leaves,10,12,14,1kg
+2561,2023-02-12,Colocasia,28,34,40,1kg
+2562,2023-02-12,Coriander Leaves,6,7,8,1kg
+2563,2023-02-12,Corn,29,35,41,1kg
+2564,2023-02-12,Cucumber,20,24,28,1kg
+2565,2023-02-12,Curry Leaves,27,32,38,1kg
+2566,2023-02-12,Dill Leaves,10,12,14,1kg
+2567,2023-02-12,Drumsticks,110,133,157,1kg
+2568,2023-02-12,Brinjal,26,31,37,1kg
+2569,2023-02-12,Brinjal (Big),27,32,38,1kg
+2570,2023-02-12,Elephant Yam,25,30,35,1kg
+2571,2023-02-12,Fenugreek Leaves,8,9,11,1kg
+2572,2023-02-12,French Beans,38,46,54,1kg
+2573,2023-02-12,Garlic,48,58,68,1kg
+2574,2023-02-12,Ginger,39,47,55,1kg
+2575,2023-02-12,Onion Green,35,42,50,1kg
+2576,2023-02-12,Green Peas,79,95,112,1kg
+2577,2023-02-12,Ivy Gourd,26,31,37,1kg
+2578,2023-02-12,Lemon (Lime),56,67,79,1kg
+2579,2023-02-12,Mango Raw,103,124,147,1kg
+2580,2023-02-12,Mint Leaves,6,7,8,1kg
+2581,2023-02-12,Mushroom,83,100,118,1kg
+2582,2023-02-12,Mustard Leaves,17,21,24,1kg
+2583,2023-02-12,Ladies Finger,42,50,59,1kg
+2584,2023-02-12,Pumpkin,23,27,33,1kg
+2585,2023-02-12,Radish,28,34,40,1kg
+2586,2023-02-12,Ridge Gourd,28,34,40,1kg
+2587,2023-02-12,Shallot (Pearl Onion),35,42,50,1kg
+2588,2023-02-12,Snake Gourd,30,36,43,1kg
+2589,2023-02-12,Sorrel Leaves,10,12,14,1kg
+2590,2023-02-12,Spinach,14,17,20,1kg
+2591,2023-02-12,Sweet Potato,38,46,54,1kg
+2592,2023-02-11,Onion Big,24,29,34,1kg
+2593,2023-02-11,Onion Small,38,46,54,1kg
+2594,2023-02-11,Tomato,21,25,30,1kg
+2595,2023-02-11,Green Chilli,39,47,55,1kg
+2596,2023-02-11,Beetroot,35,42,50,1kg
+2597,2023-02-11,Potato,32,39,45,1kg
+2598,2023-02-11,Raw Banana (Plantain),12,14,17,1kg
+2599,2023-02-11,Amaranth Leaves,15,18,21,1kg
+2600,2023-02-11,Amla,70,85,100,1kg
+2601,2023-02-11,Ash gourd,26,31,37,1kg
+2602,2023-02-11,Baby Corn,67,81,95,1kg
+2603,2023-02-11,Banana Flower,17,21,24,1kg
+2604,2023-02-11,Capsicum,43,52,61,1kg
+2605,2023-02-11,Bitter Gourd,28,34,40,1kg
+2606,2023-02-11,Bottle Gourd,27,32,38,1kg
+2607,2023-02-11,Butter Beans,73,88,104,1kg
+2608,2023-02-11,Broad Beans,33,40,47,1kg
+2609,2023-02-11,Cabbage,18,22,26,1kg
+2610,2023-02-11,Carrot,33,40,47,1kg
+2611,2023-02-11,Cauliflower,25,30,35,1kg
+2612,2023-02-11,Cluster beans,41,49,58,1kg
+2613,2023-02-11,Coconut,29,35,41,1kg
+2614,2023-02-11,Colocasia Leaves,11,13,15,1kg
+2615,2023-02-11,Colocasia,27,32,38,1kg
+2616,2023-02-11,Coriander Leaves,5,6,7,1kg
+2617,2023-02-11,Corn,28,34,40,1kg
+2618,2023-02-11,Cucumber,25,30,35,1kg
+2619,2023-02-11,Curry Leaves,27,32,38,1kg
+2620,2023-02-11,Dill Leaves,14,17,20,1kg
+2621,2023-02-11,Drumsticks,100,121,142,1kg
+2622,2023-02-11,Brinjal,23,27,33,1kg
+2623,2023-02-11,Brinjal (Big),22,26,31,1kg
+2624,2023-02-11,Elephant Yam,24,29,34,1kg
+2625,2023-02-11,Fenugreek Leaves,8,9,11,1kg
+2626,2023-02-11,French Beans,38,46,54,1kg
+2627,2023-02-11,Garlic,49,59,70,1kg
+2628,2023-02-11,Ginger,38,46,54,1kg
+2629,2023-02-11,Onion Green,39,47,55,1kg
+2630,2023-02-11,Green Peas,81,98,115,1kg
+2631,2023-02-11,Ivy Gourd,23,27,33,1kg
+2632,2023-02-11,Lemon (Lime),48,58,68,1kg
+2633,2023-02-11,Mango Raw,107,129,152,1kg
+2634,2023-02-11,Mint Leaves,5,6,7,1kg
+2635,2023-02-11,Mushroom,72,87,102,1kg
+2636,2023-02-11,Mustard Leaves,13,16,18,1kg
+2637,2023-02-11,Ladies Finger,42,50,59,1kg
+2638,2023-02-11,Pumpkin,22,26,31,1kg
+2639,2023-02-11,Radish,25,30,35,1kg
+2640,2023-02-11,Ridge Gourd,31,37,44,1kg
+2641,2023-02-11,Shallot (Pearl Onion),33,40,47,1kg
+2642,2023-02-11,Snake Gourd,29,35,41,1kg
+2643,2023-02-11,Sorrel Leaves,10,12,14,1kg
+2644,2023-02-11,Spinach,11,13,15,1kg
+2645,2023-02-11,Sweet Potato,40,48,57,1kg
+2646,2023-02-10,Onion Big,24,29,34,1kg
+2647,2023-02-10,Onion Small,38,46,54,1kg
+2648,2023-02-10,Tomato,21,25,30,1kg
+2649,2023-02-10,Green Chilli,39,47,55,1kg
+2650,2023-02-10,Beetroot,35,42,50,1kg
+2651,2023-02-10,Potato,32,39,45,1kg
+2652,2023-02-10,Raw Banana (Plantain),12,14,17,1kg
+2653,2023-02-10,Amaranth Leaves,15,18,21,1kg
+2654,2023-02-10,Amla,70,85,100,1kg
+2655,2023-02-10,Ash gourd,26,31,37,1kg
+2656,2023-02-10,Baby Corn,67,81,95,1kg
+2657,2023-02-10,Banana Flower,17,21,24,1kg
+2658,2023-02-10,Capsicum,43,52,61,1kg
+2659,2023-02-10,Bitter Gourd,28,34,40,1kg
+2660,2023-02-10,Bottle Gourd,27,32,38,1kg
+2661,2023-02-10,Butter Beans,73,88,104,1kg
+2662,2023-02-10,Broad Beans,33,40,47,1kg
+2663,2023-02-10,Cabbage,18,22,26,1kg
+2664,2023-02-10,Carrot,33,40,47,1kg
+2665,2023-02-10,Cauliflower,25,30,35,1kg
+2666,2023-02-10,Cluster beans,41,49,58,1kg
+2667,2023-02-10,Coconut,29,35,41,1kg
+2668,2023-02-10,Colocasia Leaves,11,13,15,1kg
+2669,2023-02-10,Colocasia,27,32,38,1kg
+2670,2023-02-10,Coriander Leaves,5,6,7,1kg
+2671,2023-02-10,Corn,28,34,40,1kg
+2672,2023-02-10,Cucumber,25,30,35,1kg
+2673,2023-02-10,Curry Leaves,27,32,38,1kg
+2674,2023-02-10,Dill Leaves,14,17,20,1kg
+2675,2023-02-10,Drumsticks,100,121,142,1kg
+2676,2023-02-10,Brinjal,23,27,33,1kg
+2677,2023-02-10,Brinjal (Big),22,26,31,1kg
+2678,2023-02-10,Elephant Yam,24,29,34,1kg
+2679,2023-02-10,Fenugreek Leaves,8,9,11,1kg
+2680,2023-02-10,French Beans,38,46,54,1kg
+2681,2023-02-10,Garlic,49,59,70,1kg
+2682,2023-02-10,Ginger,38,46,54,1kg
+2683,2023-02-10,Onion Green,39,47,55,1kg
+2684,2023-02-10,Green Peas,81,98,115,1kg
+2685,2023-02-10,Ivy Gourd,23,27,33,1kg
+2686,2023-02-10,Lemon (Lime),48,58,68,1kg
+2687,2023-02-10,Mango Raw,107,129,152,1kg
+2688,2023-02-10,Mint Leaves,5,6,7,1kg
+2689,2023-02-10,Mushroom,72,87,102,1kg
+2690,2023-02-10,Mustard Leaves,13,16,18,1kg
+2691,2023-02-10,Ladies Finger,42,50,59,1kg
+2692,2023-02-10,Pumpkin,22,26,31,1kg
+2693,2023-02-10,Radish,25,30,35,1kg
+2694,2023-02-10,Ridge Gourd,31,37,44,1kg
+2695,2023-02-10,Shallot (Pearl Onion),33,40,47,1kg
+2696,2023-02-10,Snake Gourd,29,35,41,1kg
+2697,2023-02-10,Sorrel Leaves,10,12,14,1kg
+2698,2023-02-10,Spinach,11,13,15,1kg
+2699,2023-02-10,Sweet Potato,40,48,57,1kg
+2700,2023-02-09,Onion Big,24,29,34,1kg
+2701,2023-02-09,Onion Small,38,46,54,1kg
+2702,2023-02-09,Tomato,21,25,30,1kg
+2703,2023-02-09,Green Chilli,39,47,55,1kg
+2704,2023-02-09,Beetroot,35,42,50,1kg
+2705,2023-02-09,Potato,32,39,45,1kg
+2706,2023-02-09,Raw Banana (Plantain),12,14,17,1kg
+2707,2023-02-09,Amaranth Leaves,15,18,21,1kg
+2708,2023-02-09,Amla,70,85,100,1kg
+2709,2023-02-09,Ash gourd,26,31,37,1kg
+2710,2023-02-09,Baby Corn,67,81,95,1kg
+2711,2023-02-09,Banana Flower,17,21,24,1kg
+2712,2023-02-09,Capsicum,43,52,61,1kg
+2713,2023-02-09,Bitter Gourd,28,34,40,1kg
+2714,2023-02-09,Bottle Gourd,27,32,38,1kg
+2715,2023-02-09,Butter Beans,73,88,104,1kg
+2716,2023-02-09,Broad Beans,33,40,47,1kg
+2717,2023-02-09,Cabbage,18,22,26,1kg
+2718,2023-02-09,Carrot,33,40,47,1kg
+2719,2023-02-09,Cauliflower,25,30,35,1kg
+2720,2023-02-09,Cluster beans,41,49,58,1kg
+2721,2023-02-09,Coconut,29,35,41,1kg
+2722,2023-02-09,Colocasia Leaves,11,13,15,1kg
+2723,2023-02-09,Colocasia,27,32,38,1kg
+2724,2023-02-09,Coriander Leaves,5,6,7,1kg
+2725,2023-02-09,Corn,28,34,40,1kg
+2726,2023-02-09,Cucumber,25,30,35,1kg
+2727,2023-02-09,Curry Leaves,27,32,38,1kg
+2728,2023-02-09,Dill Leaves,14,17,20,1kg
+2729,2023-02-09,Drumsticks,100,121,142,1kg
+2730,2023-02-09,Brinjal,23,27,33,1kg
+2731,2023-02-09,Brinjal (Big),22,26,31,1kg
+2732,2023-02-09,Elephant Yam,24,29,34,1kg
+2733,2023-02-09,Fenugreek Leaves,8,9,11,1kg
+2734,2023-02-09,French Beans,38,46,54,1kg
+2735,2023-02-09,Garlic,49,59,70,1kg
+2736,2023-02-09,Ginger,38,46,54,1kg
+2737,2023-02-09,Onion Green,39,47,55,1kg
+2738,2023-02-09,Green Peas,81,98,115,1kg
+2739,2023-02-09,Ivy Gourd,23,27,33,1kg
+2740,2023-02-09,Lemon (Lime),48,58,68,1kg
+2741,2023-02-09,Mango Raw,107,129,152,1kg
+2742,2023-02-09,Mint Leaves,5,6,7,1kg
+2743,2023-02-09,Mushroom,72,87,102,1kg
+2744,2023-02-09,Mustard Leaves,13,16,18,1kg
+2745,2023-02-09,Ladies Finger,42,50,59,1kg
+2746,2023-02-09,Pumpkin,22,26,31,1kg
+2747,2023-02-09,Radish,25,30,35,1kg
+2748,2023-02-09,Ridge Gourd,31,37,44,1kg
+2749,2023-02-09,Shallot (Pearl Onion),33,40,47,1kg
+2750,2023-02-09,Snake Gourd,29,35,41,1kg
+2751,2023-02-09,Sorrel Leaves,10,12,14,1kg
+2752,2023-02-09,Spinach,11,13,15,1kg
+2753,2023-02-09,Sweet Potato,40,48,57,1kg
+2754,2023-02-08,Onion Big,24,29,34,1kg
+2755,2023-02-08,Onion Small,39,47,55,1kg
+2756,2023-02-08,Tomato,23,27,33,1kg
+2757,2023-02-08,Green Chilli,40,48,57,1kg
+2758,2023-02-08,Beetroot,35,42,50,1kg
+2759,2023-02-08,Potato,36,43,51,1kg
+2760,2023-02-08,Raw Banana (Plantain),9,10,13,1kg
+2761,2023-02-08,Amaranth Leaves,14,17,20,1kg
+2762,2023-02-08,Amla,60,72,85,1kg
+2763,2023-02-08,Ash gourd,26,31,37,1kg
+2764,2023-02-08,Baby Corn,68,82,97,1kg
+2765,2023-02-08,Banana Flower,13,16,18,1kg
+2766,2023-02-08,Capsicum,44,53,63,1kg
+2767,2023-02-08,Bitter Gourd,27,32,38,1kg
+2768,2023-02-08,Bottle Gourd,25,30,35,1kg
+2769,2023-02-08,Butter Beans,74,89,105,1kg
+2770,2023-02-08,Broad Beans,32,39,45,1kg
+2771,2023-02-08,Cabbage,23,27,33,1kg
+2772,2023-02-08,Carrot,36,43,51,1kg
+2773,2023-02-08,Cauliflower,25,30,35,1kg
+2774,2023-02-08,Cluster beans,40,48,57,1kg
+2775,2023-02-08,Coconut,32,39,45,1kg
+2776,2023-02-08,Colocasia Leaves,12,14,17,1kg
+2777,2023-02-08,Colocasia,27,32,38,1kg
+2778,2023-02-08,Coriander Leaves,5,6,7,1kg
+2779,2023-02-08,Corn,30,36,43,1kg
+2780,2023-02-08,Cucumber,24,29,34,1kg
+2781,2023-02-08,Curry Leaves,26,31,37,1kg
+2782,2023-02-08,Dill Leaves,15,18,21,1kg
+2783,2023-02-08,Drumsticks,100,121,142,1kg
+2784,2023-02-08,Brinjal,28,34,40,1kg
+2785,2023-02-08,Brinjal (Big),27,32,38,1kg
+2786,2023-02-08,Elephant Yam,24,29,34,1kg
+2787,2023-02-08,Fenugreek Leaves,10,12,14,1kg
+2788,2023-02-08,French Beans,38,46,54,1kg
+2789,2023-02-08,Garlic,47,57,67,1kg
+2790,2023-02-08,Ginger,48,58,68,1kg
+2791,2023-02-08,Onion Green,44,53,63,1kg
+2792,2023-02-08,Green Peas,77,93,109,1kg
+2793,2023-02-08,Ivy Gourd,28,34,40,1kg
+2794,2023-02-08,Lemon (Lime),50,61,71,1kg
+2795,2023-02-08,Mango Raw,99,120,141,1kg
+2796,2023-02-08,Mint Leaves,5,6,7,1kg
+2797,2023-02-08,Mushroom,91,110,129,1kg
+2798,2023-02-08,Mustard Leaves,16,19,22,1kg
+2799,2023-02-08,Ladies Finger,47,57,67,1kg
+2800,2023-02-08,Pumpkin,24,29,34,1kg
+2801,2023-02-08,Radish,27,32,38,1kg
+2802,2023-02-08,Ridge Gourd,28,34,40,1kg
+2803,2023-02-08,Shallot (Pearl Onion),29,35,41,1kg
+2804,2023-02-08,Snake Gourd,29,35,41,1kg
+2805,2023-02-08,Sorrel Leaves,10,12,14,1kg
+2806,2023-02-08,Spinach,17,21,24,1kg
+2807,2023-02-08,Sweet Potato,36,43,51,1kg
+2808,2023-02-07,Onion Big,24,29,34,1kg
+2809,2023-02-07,Onion Small,39,47,55,1kg
+2810,2023-02-07,Tomato,23,27,33,1kg
+2811,2023-02-07,Green Chilli,40,48,57,1kg
+2812,2023-02-07,Beetroot,35,42,50,1kg
+2813,2023-02-07,Potato,36,43,51,1kg
+2814,2023-02-07,Raw Banana (Plantain),9,10,13,1kg
+2815,2023-02-07,Amaranth Leaves,14,17,20,1kg
+2816,2023-02-07,Amla,60,72,85,1kg
+2817,2023-02-07,Ash gourd,26,31,37,1kg
+2818,2023-02-07,Baby Corn,68,82,97,1kg
+2819,2023-02-07,Banana Flower,13,16,18,1kg
+2820,2023-02-07,Capsicum,44,53,63,1kg
+2821,2023-02-07,Bitter Gourd,27,32,38,1kg
+2822,2023-02-07,Bottle Gourd,25,30,35,1kg
+2823,2023-02-07,Butter Beans,74,89,105,1kg
+2824,2023-02-07,Broad Beans,32,39,45,1kg
+2825,2023-02-07,Cabbage,23,27,33,1kg
+2826,2023-02-07,Carrot,36,43,51,1kg
+2827,2023-02-07,Cauliflower,25,30,35,1kg
+2828,2023-02-07,Cluster beans,40,48,57,1kg
+2829,2023-02-07,Coconut,32,39,45,1kg
+2830,2023-02-07,Colocasia Leaves,12,14,17,1kg
+2831,2023-02-07,Colocasia,27,32,38,1kg
+2832,2023-02-07,Coriander Leaves,5,6,7,1kg
+2833,2023-02-07,Corn,30,36,43,1kg
+2834,2023-02-07,Cucumber,24,29,34,1kg
+2835,2023-02-07,Curry Leaves,26,31,37,1kg
+2836,2023-02-07,Dill Leaves,15,18,21,1kg
+2837,2023-02-07,Drumsticks,100,121,142,1kg
+2838,2023-02-07,Brinjal,28,34,40,1kg
+2839,2023-02-07,Brinjal (Big),27,32,38,1kg
+2840,2023-02-07,Elephant Yam,24,29,34,1kg
+2841,2023-02-07,Fenugreek Leaves,10,12,14,1kg
+2842,2023-02-07,French Beans,38,46,54,1kg
+2843,2023-02-07,Garlic,47,57,67,1kg
+2844,2023-02-07,Ginger,48,58,68,1kg
+2845,2023-02-07,Onion Green,44,53,63,1kg
+2846,2023-02-07,Green Peas,77,93,109,1kg
+2847,2023-02-07,Ivy Gourd,28,34,40,1kg
+2848,2023-02-07,Lemon (Lime),50,61,71,1kg
+2849,2023-02-07,Mango Raw,99,120,141,1kg
+2850,2023-02-07,Mint Leaves,5,6,7,1kg
+2851,2023-02-07,Mushroom,91,110,129,1kg
+2852,2023-02-07,Mustard Leaves,16,19,22,1kg
+2853,2023-02-07,Ladies Finger,47,57,67,1kg
+2854,2023-02-07,Pumpkin,24,29,34,1kg
+2855,2023-02-07,Radish,27,32,38,1kg
+2856,2023-02-07,Ridge Gourd,28,34,40,1kg
+2857,2023-02-07,Shallot (Pearl Onion),29,35,41,1kg
+2858,2023-02-07,Snake Gourd,29,35,41,1kg
+2859,2023-02-07,Sorrel Leaves,10,12,14,1kg
+2860,2023-02-07,Spinach,17,21,24,1kg
+2861,2023-02-07,Sweet Potato,36,43,51,1kg
+2862,2023-02-06,Onion Big,24,29,34,1kg
+2863,2023-02-06,Onion Small,39,47,55,1kg
+2864,2023-02-06,Tomato,23,27,33,1kg
+2865,2023-02-06,Green Chilli,40,48,57,1kg
+2866,2023-02-06,Beetroot,35,42,50,1kg
+2867,2023-02-06,Potato,36,43,51,1kg
+2868,2023-02-06,Raw Banana (Plantain),9,10,13,1kg
+2869,2023-02-06,Amaranth Leaves,14,17,20,1kg
+2870,2023-02-06,Amla,60,72,85,1kg
+2871,2023-02-06,Ash gourd,26,31,37,1kg
+2872,2023-02-06,Baby Corn,68,82,97,1kg
+2873,2023-02-06,Banana Flower,13,16,18,1kg
+2874,2023-02-06,Capsicum,44,53,63,1kg
+2875,2023-02-06,Bitter Gourd,27,32,38,1kg
+2876,2023-02-06,Bottle Gourd,25,30,35,1kg
+2877,2023-02-06,Butter Beans,74,89,105,1kg
+2878,2023-02-06,Broad Beans,32,39,45,1kg
+2879,2023-02-06,Cabbage,23,27,33,1kg
+2880,2023-02-06,Carrot,36,43,51,1kg
+2881,2023-02-06,Cauliflower,25,30,35,1kg
+2882,2023-02-06,Cluster beans,40,48,57,1kg
+2883,2023-02-06,Coconut,32,39,45,1kg
+2884,2023-02-06,Colocasia Leaves,12,14,17,1kg
+2885,2023-02-06,Colocasia,27,32,38,1kg
+2886,2023-02-06,Coriander Leaves,5,6,7,1kg
+2887,2023-02-06,Corn,30,36,43,1kg
+2888,2023-02-06,Cucumber,24,29,34,1kg
+2889,2023-02-06,Curry Leaves,26,31,37,1kg
+2890,2023-02-06,Dill Leaves,15,18,21,1kg
+2891,2023-02-06,Drumsticks,100,121,142,1kg
+2892,2023-02-06,Brinjal,28,34,40,1kg
+2893,2023-02-06,Brinjal (Big),27,32,38,1kg
+2894,2023-02-06,Elephant Yam,24,29,34,1kg
+2895,2023-02-06,Fenugreek Leaves,10,12,14,1kg
+2896,2023-02-06,French Beans,38,46,54,1kg
+2897,2023-02-06,Garlic,47,57,67,1kg
+2898,2023-02-06,Ginger,48,58,68,1kg
+2899,2023-02-06,Onion Green,44,53,63,1kg
+2900,2023-02-06,Green Peas,77,93,109,1kg
+2901,2023-02-06,Ivy Gourd,28,34,40,1kg
+2902,2023-02-06,Lemon (Lime),50,61,71,1kg
+2903,2023-02-06,Mango Raw,99,120,141,1kg
+2904,2023-02-06,Mint Leaves,5,6,7,1kg
+2905,2023-02-06,Mushroom,91,110,129,1kg
+2906,2023-02-06,Mustard Leaves,16,19,22,1kg
+2907,2023-02-06,Ladies Finger,47,57,67,1kg
+2908,2023-02-06,Pumpkin,24,29,34,1kg
+2909,2023-02-06,Radish,27,32,38,1kg
+2910,2023-02-06,Ridge Gourd,28,34,40,1kg
+2911,2023-02-06,Shallot (Pearl Onion),29,35,41,1kg
+2912,2023-02-06,Snake Gourd,29,35,41,1kg
+2913,2023-02-06,Sorrel Leaves,10,12,14,1kg
+2914,2023-02-06,Spinach,17,21,24,1kg
+2915,2023-02-06,Sweet Potato,36,43,51,1kg
+2916,2023-02-05,Onion Big,23,27,33,1kg
+2917,2023-02-05,Onion Small,40,48,57,1kg
+2918,2023-02-05,Tomato,24,29,34,1kg
+2919,2023-02-05,Green Chilli,32,39,45,1kg
+2920,2023-02-05,Beetroot,39,47,55,1kg
+2921,2023-02-05,Potato,38,46,54,1kg
+2922,2023-02-05,Raw Banana (Plantain),8,9,11,1kg
+2923,2023-02-05,Amaranth Leaves,13,16,18,1kg
+2924,2023-02-05,Amla,70,85,100,1kg
+2925,2023-02-05,Ash gourd,25,30,35,1kg
+2926,2023-02-05,Baby Corn,67,81,95,1kg
+2927,2023-02-05,Banana Flower,19,23,27,1kg
+2928,2023-02-05,Capsicum,46,55,65,1kg
+2929,2023-02-05,Bitter Gourd,30,36,43,1kg
+2930,2023-02-05,Bottle Gourd,29,35,41,1kg
+2931,2023-02-05,Butter Beans,63,76,90,1kg
+2932,2023-02-05,Broad Beans,34,41,48,1kg
+2933,2023-02-05,Cabbage,19,23,27,1kg
+2934,2023-02-05,Carrot,40,48,57,1kg
+2935,2023-02-05,Cauliflower,27,32,38,1kg
+2936,2023-02-05,Cluster beans,40,48,57,1kg
+2937,2023-02-05,Coconut,28,34,40,1kg
+2938,2023-02-05,Colocasia Leaves,15,18,21,1kg
+2939,2023-02-05,Colocasia,26,31,37,1kg
+2940,2023-02-05,Coriander Leaves,7,8,10,1kg
+2941,2023-02-05,Corn,30,36,43,1kg
+2942,2023-02-05,Cucumber,21,25,30,1kg
+2943,2023-02-05,Curry Leaves,30,36,43,1kg
+2944,2023-02-05,Dill Leaves,11,13,15,1kg
+2945,2023-02-05,Drumsticks,110,133,157,1kg
+2946,2023-02-05,Brinjal,25,30,35,1kg
+2947,2023-02-05,Brinjal (Big),23,27,33,1kg
+2948,2023-02-05,Elephant Yam,29,35,41,1kg
+2949,2023-02-05,Fenugreek Leaves,12,14,17,1kg
+2950,2023-02-05,French Beans,37,45,52,1kg
+2951,2023-02-05,Garlic,43,52,61,1kg
+2952,2023-02-05,Ginger,50,61,71,1kg
+2953,2023-02-05,Onion Green,37,45,52,1kg
+2954,2023-02-05,Green Peas,77,93,109,1kg
+2955,2023-02-05,Ivy Gourd,23,27,33,1kg
+2956,2023-02-05,Lemon (Lime),51,62,72,1kg
+2957,2023-02-05,Mango Raw,90,109,128,1kg
+2958,2023-02-05,Mint Leaves,4,5,6,1kg
+2959,2023-02-05,Mushroom,85,103,121,1kg
+2960,2023-02-05,Mustard Leaves,14,17,20,1kg
+2961,2023-02-05,Ladies Finger,44,53,63,1kg
+2962,2023-02-05,Pumpkin,27,32,38,1kg
+2963,2023-02-05,Radish,27,32,38,1kg
+2964,2023-02-05,Ridge Gourd,26,31,37,1kg
+2965,2023-02-05,Shallot (Pearl Onion),30,36,43,1kg
+2966,2023-02-05,Snake Gourd,30,36,43,1kg
+2967,2023-02-05,Sorrel Leaves,12,14,17,1kg
+2968,2023-02-05,Spinach,15,18,21,1kg
+2969,2023-02-05,Sweet Potato,39,47,55,1kg
+2970,2023-02-04,Onion Big,23,27,33,1kg
+2971,2023-02-04,Onion Small,40,48,57,1kg
+2972,2023-02-04,Tomato,24,29,34,1kg
+2973,2023-02-04,Green Chilli,32,39,45,1kg
+2974,2023-02-04,Beetroot,39,47,55,1kg
+2975,2023-02-04,Potato,38,46,54,1kg
+2976,2023-02-04,Raw Banana (Plantain),8,9,11,1kg
+2977,2023-02-04,Amaranth Leaves,13,16,18,1kg
+2978,2023-02-04,Amla,70,85,100,1kg
+2979,2023-02-04,Ash gourd,25,30,35,1kg
+2980,2023-02-04,Baby Corn,67,81,95,1kg
+2981,2023-02-04,Banana Flower,19,23,27,1kg
+2982,2023-02-04,Capsicum,46,55,65,1kg
+2983,2023-02-04,Bitter Gourd,30,36,43,1kg
+2984,2023-02-04,Bottle Gourd,29,35,41,1kg
+2985,2023-02-04,Butter Beans,63,76,90,1kg
+2986,2023-02-04,Broad Beans,34,41,48,1kg
+2987,2023-02-04,Cabbage,19,23,27,1kg
+2988,2023-02-04,Carrot,40,48,57,1kg
+2989,2023-02-04,Cauliflower,27,32,38,1kg
+2990,2023-02-04,Cluster beans,40,48,57,1kg
+2991,2023-02-04,Coconut,28,34,40,1kg
+2992,2023-02-04,Colocasia Leaves,15,18,21,1kg
+2993,2023-02-04,Colocasia,26,31,37,1kg
+2994,2023-02-04,Coriander Leaves,7,8,10,1kg
+2995,2023-02-04,Corn,30,36,43,1kg
+2996,2023-02-04,Cucumber,21,25,30,1kg
+2997,2023-02-04,Curry Leaves,30,36,43,1kg
+2998,2023-02-04,Dill Leaves,11,13,15,1kg
+2999,2023-02-04,Drumsticks,110,133,157,1kg
+3000,2023-02-04,Brinjal,25,30,35,1kg
+3001,2023-02-04,Brinjal (Big),23,27,33,1kg
+3002,2023-02-04,Elephant Yam,29,35,41,1kg
+3003,2023-02-04,Fenugreek Leaves,12,14,17,1kg
+3004,2023-02-04,French Beans,37,45,52,1kg
+3005,2023-02-04,Garlic,43,52,61,1kg
+3006,2023-02-04,Ginger,50,61,71,1kg
+3007,2023-02-04,Onion Green,37,45,52,1kg
+3008,2023-02-04,Green Peas,77,93,109,1kg
+3009,2023-02-04,Ivy Gourd,23,27,33,1kg
+3010,2023-02-04,Lemon (Lime),51,62,72,1kg
+3011,2023-02-04,Mango Raw,90,109,128,1kg
+3012,2023-02-04,Mint Leaves,4,5,6,1kg
+3013,2023-02-04,Mushroom,85,103,121,1kg
+3014,2023-02-04,Mustard Leaves,14,17,20,1kg
+3015,2023-02-04,Ladies Finger,44,53,63,1kg
+3016,2023-02-04,Pumpkin,27,32,38,1kg
+3017,2023-02-04,Radish,27,32,38,1kg
+3018,2023-02-04,Ridge Gourd,26,31,37,1kg
+3019,2023-02-04,Shallot (Pearl Onion),30,36,43,1kg
+3020,2023-02-04,Snake Gourd,30,36,43,1kg
+3021,2023-02-04,Sorrel Leaves,12,14,17,1kg
+3022,2023-02-04,Spinach,15,18,21,1kg
+3023,2023-02-04,Sweet Potato,39,47,55,1kg
+3024,2023-02-03,Onion Big,23,27,33,1kg
+3025,2023-02-03,Onion Small,40,48,57,1kg
+3026,2023-02-03,Tomato,24,29,34,1kg
+3027,2023-02-03,Green Chilli,32,39,45,1kg
+3028,2023-02-03,Beetroot,39,47,55,1kg
+3029,2023-02-03,Potato,38,46,54,1kg
+3030,2023-02-03,Raw Banana (Plantain),8,9,11,1kg
+3031,2023-02-03,Amaranth Leaves,13,16,18,1kg
+3032,2023-02-03,Amla,70,85,100,1kg
+3033,2023-02-03,Ash gourd,25,30,35,1kg
+3034,2023-02-03,Baby Corn,67,81,95,1kg
+3035,2023-02-03,Banana Flower,19,23,27,1kg
+3036,2023-02-03,Capsicum,46,55,65,1kg
+3037,2023-02-03,Bitter Gourd,30,36,43,1kg
+3038,2023-02-03,Bottle Gourd,29,35,41,1kg
+3039,2023-02-03,Butter Beans,63,76,90,1kg
+3040,2023-02-03,Broad Beans,34,41,48,1kg
+3041,2023-02-03,Cabbage,19,23,27,1kg
+3042,2023-02-03,Carrot,40,48,57,1kg
+3043,2023-02-03,Cauliflower,27,32,38,1kg
+3044,2023-02-03,Cluster beans,40,48,57,1kg
+3045,2023-02-03,Coconut,28,34,40,1kg
+3046,2023-02-03,Colocasia Leaves,15,18,21,1kg
+3047,2023-02-03,Colocasia,26,31,37,1kg
+3048,2023-02-03,Coriander Leaves,7,8,10,1kg
+3049,2023-02-03,Corn,30,36,43,1kg
+3050,2023-02-03,Cucumber,21,25,30,1kg
+3051,2023-02-03,Curry Leaves,30,36,43,1kg
+3052,2023-02-03,Dill Leaves,11,13,15,1kg
+3053,2023-02-03,Drumsticks,110,133,157,1kg
+3054,2023-02-03,Brinjal,25,30,35,1kg
+3055,2023-02-03,Brinjal (Big),23,27,33,1kg
+3056,2023-02-03,Elephant Yam,29,35,41,1kg
+3057,2023-02-03,Fenugreek Leaves,12,14,17,1kg
+3058,2023-02-03,French Beans,37,45,52,1kg
+3059,2023-02-03,Garlic,43,52,61,1kg
+3060,2023-02-03,Ginger,50,61,71,1kg
+3061,2023-02-03,Onion Green,37,45,52,1kg
+3062,2023-02-03,Green Peas,77,93,109,1kg
+3063,2023-02-03,Ivy Gourd,23,27,33,1kg
+3064,2023-02-03,Lemon (Lime),51,62,72,1kg
+3065,2023-02-03,Mango Raw,90,109,128,1kg
+3066,2023-02-03,Mint Leaves,4,5,6,1kg
+3067,2023-02-03,Mushroom,85,103,121,1kg
+3068,2023-02-03,Mustard Leaves,14,17,20,1kg
+3069,2023-02-03,Ladies Finger,44,53,63,1kg
+3070,2023-02-03,Pumpkin,27,32,38,1kg
+3071,2023-02-03,Radish,27,32,38,1kg
+3072,2023-02-03,Ridge Gourd,26,31,37,1kg
+3073,2023-02-03,Shallot (Pearl Onion),30,36,43,1kg
+3074,2023-02-03,Snake Gourd,30,36,43,1kg
+3075,2023-02-03,Sorrel Leaves,12,14,17,1kg
+3076,2023-02-03,Spinach,15,18,21,1kg
+3077,2023-02-03,Sweet Potato,39,47,55,1kg
+3078,2023-02-02,Onion Big,25,30,35,1kg
+3079,2023-02-02,Onion Small,37,45,52,1kg
+3080,2023-02-02,Tomato,26,31,37,1kg
+3081,2023-02-02,Green Chilli,38,46,54,1kg
+3082,2023-02-02,Beetroot,36,43,51,1kg
+3083,2023-02-02,Potato,36,43,51,1kg
+3084,2023-02-02,Raw Banana (Plantain),11,13,15,1kg
+3085,2023-02-02,Amaranth Leaves,11,13,15,1kg
+3086,2023-02-02,Amla,70,85,100,1kg
+3087,2023-02-02,Ash gourd,26,31,37,1kg
+3088,2023-02-02,Baby Corn,65,79,92,1kg
+3089,2023-02-02,Banana Flower,17,21,24,1kg
+3090,2023-02-02,Capsicum,44,53,63,1kg
+3091,2023-02-02,Bitter Gourd,29,35,41,1kg
+3092,2023-02-02,Bottle Gourd,27,32,38,1kg
+3093,2023-02-02,Butter Beans,65,79,92,1kg
+3094,2023-02-02,Broad Beans,39,47,55,1kg
+3095,2023-02-02,Cabbage,18,22,26,1kg
+3096,2023-02-02,Carrot,36,43,51,1kg
+3097,2023-02-02,Cauliflower,25,30,35,1kg
+3098,2023-02-02,Cluster beans,42,50,59,1kg
+3099,2023-02-02,Coconut,30,36,43,1kg
+3100,2023-02-02,Colocasia Leaves,13,16,18,1kg
+3101,2023-02-02,Colocasia,25,30,35,1kg
+3102,2023-02-02,Coriander Leaves,6,7,8,1kg
+3103,2023-02-02,Corn,27,32,38,1kg
+3104,2023-02-02,Cucumber,21,25,30,1kg
+3105,2023-02-02,Curry Leaves,29,35,41,1kg
+3106,2023-02-02,Dill Leaves,15,18,21,1kg
+3107,2023-02-02,Drumsticks,100,121,142,1kg
+3108,2023-02-02,Brinjal,20,24,28,1kg
+3109,2023-02-02,Brinjal (Big),27,32,38,1kg
+3110,2023-02-02,Elephant Yam,24,29,34,1kg
+3111,2023-02-02,Fenugreek Leaves,10,12,14,1kg
+3112,2023-02-02,French Beans,39,47,55,1kg
+3113,2023-02-02,Garlic,49,59,70,1kg
+3114,2023-02-02,Ginger,50,61,71,1kg
+3115,2023-02-02,Onion Green,37,45,52,1kg
+3116,2023-02-02,Green Peas,77,93,109,1kg
+3117,2023-02-02,Ivy Gourd,24,29,34,1kg
+3118,2023-02-02,Lemon (Lime),58,70,83,1kg
+3119,2023-02-02,Mango Raw,106,128,151,1kg
+3120,2023-02-02,Mint Leaves,6,7,8,1kg
+3121,2023-02-02,Mushroom,89,107,127,1kg
+3122,2023-02-02,Mustard Leaves,17,21,24,1kg
+3123,2023-02-02,Ladies Finger,44,53,63,1kg
+3124,2023-02-02,Pumpkin,27,32,38,1kg
+3125,2023-02-02,Radish,28,34,40,1kg
+3126,2023-02-02,Ridge Gourd,28,34,40,1kg
+3127,2023-02-02,Shallot (Pearl Onion),35,42,50,1kg
+3128,2023-02-02,Snake Gourd,27,32,38,1kg
+3129,2023-02-02,Sorrel Leaves,16,19,22,1kg
+3130,2023-02-02,Spinach,17,21,24,1kg
+3131,2023-02-02,Sweet Potato,36,43,51,1kg
+3132,2023-02-01,Onion Big,25,30,35,1kg
+3133,2023-02-01,Onion Small,37,45,52,1kg
+3134,2023-02-01,Tomato,26,31,37,1kg
+3135,2023-02-01,Green Chilli,38,46,54,1kg
+3136,2023-02-01,Beetroot,36,43,51,1kg
+3137,2023-02-01,Potato,36,43,51,1kg
+3138,2023-02-01,Raw Banana (Plantain),11,13,15,1kg
+3139,2023-02-01,Amaranth Leaves,11,13,15,1kg
+3140,2023-02-01,Amla,70,85,100,1kg
+3141,2023-02-01,Ash gourd,26,31,37,1kg
+3142,2023-02-01,Baby Corn,65,79,92,1kg
+3143,2023-02-01,Banana Flower,17,21,24,1kg
+3144,2023-02-01,Capsicum,44,53,63,1kg
+3145,2023-02-01,Bitter Gourd,29,35,41,1kg
+3146,2023-02-01,Bottle Gourd,27,32,38,1kg
+3147,2023-02-01,Butter Beans,65,79,92,1kg
+3148,2023-02-01,Broad Beans,39,47,55,1kg
+3149,2023-02-01,Cabbage,18,22,26,1kg
+3150,2023-02-01,Carrot,36,43,51,1kg
+3151,2023-02-01,Cauliflower,25,30,35,1kg
+3152,2023-02-01,Cluster beans,42,50,59,1kg
+3153,2023-02-01,Coconut,30,36,43,1kg
+3154,2023-02-01,Colocasia Leaves,13,16,18,1kg
+3155,2023-02-01,Colocasia,25,30,35,1kg
+3156,2023-02-01,Coriander Leaves,6,7,8,1kg
+3157,2023-02-01,Corn,27,32,38,1kg
+3158,2023-02-01,Cucumber,21,25,30,1kg
+3159,2023-02-01,Curry Leaves,29,35,41,1kg
+3160,2023-02-01,Dill Leaves,15,18,21,1kg
+3161,2023-02-01,Drumsticks,100,121,142,1kg
+3162,2023-02-01,Brinjal,20,24,28,1kg
+3163,2023-02-01,Brinjal (Big),27,32,38,1kg
+3164,2023-02-01,Elephant Yam,24,29,34,1kg
+3165,2023-02-01,Fenugreek Leaves,10,12,14,1kg
+3166,2023-02-01,French Beans,39,47,55,1kg
+3167,2023-02-01,Garlic,49,59,70,1kg
+3168,2023-02-01,Ginger,50,61,71,1kg
+3169,2023-02-01,Onion Green,37,45,52,1kg
+3170,2023-02-01,Green Peas,77,93,109,1kg
+3171,2023-02-01,Ivy Gourd,24,29,34,1kg
+3172,2023-02-01,Lemon (Lime),58,70,83,1kg
+3173,2023-02-01,Mango Raw,106,128,151,1kg
+3174,2023-02-01,Mint Leaves,6,7,8,1kg
+3175,2023-02-01,Mushroom,89,107,127,1kg
+3176,2023-02-01,Mustard Leaves,17,21,24,1kg
+3177,2023-02-01,Ladies Finger,44,53,63,1kg
+3178,2023-02-01,Pumpkin,27,32,38,1kg
+3179,2023-02-01,Radish,28,34,40,1kg
+3180,2023-02-01,Ridge Gourd,28,34,40,1kg
+3181,2023-02-01,Shallot (Pearl Onion),35,42,50,1kg
+3182,2023-02-01,Snake Gourd,27,32,38,1kg
+3183,2023-02-01,Sorrel Leaves,16,19,22,1kg
+3184,2023-02-01,Spinach,17,21,24,1kg
+3185,2023-02-01,Sweet Potato,36,43,51,1kg
+3186,2023-01-31,Onion Big,28,34,40,1kg
+3187,2023-01-31,Onion Small,32,39,45,1kg
+3188,2023-01-31,Tomato,36,43,51,1kg
+3189,2023-01-31,Green Chilli,38,46,54,1kg
+3190,2023-01-31,Beetroot,30,36,43,1kg
+3191,2023-01-31,Potato,35,42,50,1kg
+3192,2023-01-31,Raw Banana (Plantain),9,10,13,1kg
+3193,2023-01-31,Amaranth Leaves,12,14,17,1kg
+3194,2023-01-31,Amla,50,61,71,1kg
+3195,2023-01-31,Ash gourd,23,27,33,1kg
+3196,2023-01-31,Baby Corn,66,80,94,1kg
+3197,2023-01-31,Banana Flower,18,22,26,1kg
+3198,2023-01-31,Capsicum,42,50,59,1kg
+3199,2023-01-31,Bitter Gourd,29,35,41,1kg
+3200,2023-01-31,Bottle Gourd,27,32,38,1kg
+3201,2023-01-31,Butter Beans,71,86,101,1kg
+3202,2023-01-31,Broad Beans,34,41,48,1kg
+3203,2023-01-31,Cabbage,26,31,37,1kg
+3204,2023-01-31,Carrot,30,36,43,1kg
+3205,2023-01-31,Cauliflower,27,32,38,1kg
+3206,2023-01-31,Cluster beans,45,54,64,1kg
+3207,2023-01-31,Coconut,32,39,45,1kg
+3208,2023-01-31,Colocasia Leaves,10,12,14,1kg
+3209,2023-01-31,Colocasia,27,32,38,1kg
+3210,2023-01-31,Coriander Leaves,5,6,7,1kg
+3211,2023-01-31,Corn,30,36,43,1kg
+3212,2023-01-31,Cucumber,25,30,35,1kg
+3213,2023-01-31,Curry Leaves,29,35,41,1kg
+3214,2023-01-31,Dill Leaves,13,16,18,1kg
+3215,2023-01-31,Drumsticks,110,133,157,1kg
+3216,2023-01-31,Brinjal,27,32,38,1kg
+3217,2023-01-31,Brinjal (Big),26,31,37,1kg
+3218,2023-01-31,Elephant Yam,28,34,40,1kg
+3219,2023-01-31,Fenugreek Leaves,12,14,17,1kg
+3220,2023-01-31,French Beans,31,37,44,1kg
+3221,2023-01-31,Garlic,32,39,45,1kg
+3222,2023-01-31,Ginger,43,52,61,1kg
+3223,2023-01-31,Onion Green,43,52,61,1kg
+3224,2023-01-31,Green Peas,81,98,115,1kg
+3225,2023-01-31,Ivy Gourd,25,30,35,1kg
+3226,2023-01-31,Lemon (Lime),55,66,78,1kg
+3227,2023-01-31,Mango Raw,86,104,122,1kg
+3228,2023-01-31,Mint Leaves,5,6,7,1kg
+3229,2023-01-31,Mushroom,83,100,118,1kg
+3230,2023-01-31,Mustard Leaves,15,18,21,1kg
+3231,2023-01-31,Ladies Finger,31,37,44,1kg
+3232,2023-01-31,Pumpkin,27,32,38,1kg
+3233,2023-01-31,Radish,28,34,40,1kg
+3234,2023-01-31,Ridge Gourd,27,32,38,1kg
+3235,2023-01-31,Shallot (Pearl Onion),30,36,43,1kg
+3236,2023-01-31,Snake Gourd,31,37,44,1kg
+3237,2023-01-31,Sorrel Leaves,14,17,20,1kg
+3238,2023-01-31,Spinach,14,17,20,1kg
+3239,2023-01-31,Sweet Potato,36,43,51,1kg
+3240,2023-01-30,Onion Big,28,34,40,1kg
+3241,2023-01-30,Onion Small,32,39,45,1kg
+3242,2023-01-30,Tomato,36,43,51,1kg
+3243,2023-01-30,Green Chilli,38,46,54,1kg
+3244,2023-01-30,Beetroot,30,36,43,1kg
+3245,2023-01-30,Potato,35,42,50,1kg
+3246,2023-01-30,Raw Banana (Plantain),9,10,13,1kg
+3247,2023-01-30,Amaranth Leaves,12,14,17,1kg
+3248,2023-01-30,Amla,50,61,71,1kg
+3249,2023-01-30,Ash gourd,23,27,33,1kg
+3250,2023-01-30,Baby Corn,66,80,94,1kg
+3251,2023-01-30,Banana Flower,18,22,26,1kg
+3252,2023-01-30,Capsicum,42,50,59,1kg
+3253,2023-01-30,Bitter Gourd,29,35,41,1kg
+3254,2023-01-30,Bottle Gourd,27,32,38,1kg
+3255,2023-01-30,Butter Beans,71,86,101,1kg
+3256,2023-01-30,Broad Beans,34,41,48,1kg
+3257,2023-01-30,Cabbage,26,31,37,1kg
+3258,2023-01-30,Carrot,30,36,43,1kg
+3259,2023-01-30,Cauliflower,27,32,38,1kg
+3260,2023-01-30,Cluster beans,45,54,64,1kg
+3261,2023-01-30,Coconut,32,39,45,1kg
+3262,2023-01-30,Colocasia Leaves,10,12,14,1kg
+3263,2023-01-30,Colocasia,27,32,38,1kg
+3264,2023-01-30,Coriander Leaves,5,6,7,1kg
+3265,2023-01-30,Corn,30,36,43,1kg
+3266,2023-01-30,Cucumber,25,30,35,1kg
+3267,2023-01-30,Curry Leaves,29,35,41,1kg
+3268,2023-01-30,Dill Leaves,13,16,18,1kg
+3269,2023-01-30,Drumsticks,110,133,157,1kg
+3270,2023-01-30,Brinjal,27,32,38,1kg
+3271,2023-01-30,Brinjal (Big),26,31,37,1kg
+3272,2023-01-30,Elephant Yam,28,34,40,1kg
+3273,2023-01-30,Fenugreek Leaves,12,14,17,1kg
+3274,2023-01-30,French Beans,31,37,44,1kg
+3275,2023-01-30,Garlic,32,39,45,1kg
+3276,2023-01-30,Ginger,43,52,61,1kg
+3277,2023-01-30,Onion Green,43,52,61,1kg
+3278,2023-01-30,Green Peas,81,98,115,1kg
+3279,2023-01-30,Ivy Gourd,25,30,35,1kg
+3280,2023-01-30,Lemon (Lime),55,66,78,1kg
+3281,2023-01-30,Mango Raw,86,104,122,1kg
+3282,2023-01-30,Mint Leaves,5,6,7,1kg
+3283,2023-01-30,Mushroom,83,100,118,1kg
+3284,2023-01-30,Mustard Leaves,15,18,21,1kg
+3285,2023-01-30,Ladies Finger,31,37,44,1kg
+3286,2023-01-30,Pumpkin,27,32,38,1kg
+3287,2023-01-30,Radish,28,34,40,1kg
+3288,2023-01-30,Ridge Gourd,27,32,38,1kg
+3289,2023-01-30,Shallot (Pearl Onion),30,36,43,1kg
+3290,2023-01-30,Snake Gourd,31,37,44,1kg
+3291,2023-01-30,Sorrel Leaves,14,17,20,1kg
+3292,2023-01-30,Spinach,14,17,20,1kg
+3293,2023-01-30,Sweet Potato,36,43,51,1kg
+3294,2023-01-29,Onion Big,28,34,40,1kg
+3295,2023-01-29,Onion Small,32,39,45,1kg
+3296,2023-01-29,Tomato,36,43,51,1kg
+3297,2023-01-29,Green Chilli,38,46,54,1kg
+3298,2023-01-29,Beetroot,30,36,43,1kg
+3299,2023-01-29,Potato,35,42,50,1kg
+3300,2023-01-29,Raw Banana (Plantain),9,10,13,1kg
+3301,2023-01-29,Amaranth Leaves,12,14,17,1kg
+3302,2023-01-29,Amla,50,61,71,1kg
+3303,2023-01-29,Ash gourd,23,27,33,1kg
+3304,2023-01-29,Baby Corn,66,80,94,1kg
+3305,2023-01-29,Banana Flower,18,22,26,1kg
+3306,2023-01-29,Capsicum,42,50,59,1kg
+3307,2023-01-29,Bitter Gourd,29,35,41,1kg
+3308,2023-01-29,Bottle Gourd,27,32,38,1kg
+3309,2023-01-29,Butter Beans,71,86,101,1kg
+3310,2023-01-29,Broad Beans,34,41,48,1kg
+3311,2023-01-29,Cabbage,26,31,37,1kg
+3312,2023-01-29,Carrot,30,36,43,1kg
+3313,2023-01-29,Cauliflower,27,32,38,1kg
+3314,2023-01-29,Cluster beans,45,54,64,1kg
+3315,2023-01-29,Coconut,32,39,45,1kg
+3316,2023-01-29,Colocasia Leaves,10,12,14,1kg
+3317,2023-01-29,Colocasia,27,32,38,1kg
+3318,2023-01-29,Coriander Leaves,5,6,7,1kg
+3319,2023-01-29,Corn,30,36,43,1kg
+3320,2023-01-29,Cucumber,25,30,35,1kg
+3321,2023-01-29,Curry Leaves,29,35,41,1kg
+3322,2023-01-29,Dill Leaves,13,16,18,1kg
+3323,2023-01-29,Drumsticks,110,133,157,1kg
+3324,2023-01-29,Brinjal,27,32,38,1kg
+3325,2023-01-29,Brinjal (Big),26,31,37,1kg
+3326,2023-01-29,Elephant Yam,28,34,40,1kg
+3327,2023-01-29,Fenugreek Leaves,12,14,17,1kg
+3328,2023-01-29,French Beans,31,37,44,1kg
+3329,2023-01-29,Garlic,32,39,45,1kg
+3330,2023-01-29,Ginger,43,52,61,1kg
+3331,2023-01-29,Onion Green,43,52,61,1kg
+3332,2023-01-29,Green Peas,81,98,115,1kg
+3333,2023-01-29,Ivy Gourd,25,30,35,1kg
+3334,2023-01-29,Lemon (Lime),55,66,78,1kg
+3335,2023-01-29,Mango Raw,86,104,122,1kg
+3336,2023-01-29,Mint Leaves,5,6,7,1kg
+3337,2023-01-29,Mushroom,83,100,118,1kg
+3338,2023-01-29,Mustard Leaves,15,18,21,1kg
+3339,2023-01-29,Ladies Finger,31,37,44,1kg
+3340,2023-01-29,Pumpkin,27,32,38,1kg
+3341,2023-01-29,Radish,28,34,40,1kg
+3342,2023-01-29,Ridge Gourd,27,32,38,1kg
+3343,2023-01-29,Shallot (Pearl Onion),30,36,43,1kg
+3344,2023-01-29,Snake Gourd,31,37,44,1kg
+3345,2023-01-29,Sorrel Leaves,14,17,20,1kg
+3346,2023-01-29,Spinach,14,17,20,1kg
+3347,2023-01-29,Sweet Potato,36,43,51,1kg
+3348,2023-01-28,Onion Big,28,34,40,1kg
+3349,2023-01-28,Onion Small,32,39,45,1kg
+3350,2023-01-28,Tomato,36,43,51,1kg
+3351,2023-01-28,Green Chilli,38,46,54,1kg
+3352,2023-01-28,Beetroot,30,36,43,1kg
+3353,2023-01-28,Potato,35,42,50,1kg
+3354,2023-01-28,Raw Banana (Plantain),9,10,13,1kg
+3355,2023-01-28,Amaranth Leaves,12,14,17,1kg
+3356,2023-01-28,Amla,50,61,71,1kg
+3357,2023-01-28,Ash gourd,23,27,33,1kg
+3358,2023-01-28,Baby Corn,66,80,94,1kg
+3359,2023-01-28,Banana Flower,18,22,26,1kg
+3360,2023-01-28,Capsicum,42,50,59,1kg
+3361,2023-01-28,Bitter Gourd,29,35,41,1kg
+3362,2023-01-28,Bottle Gourd,27,32,38,1kg
+3363,2023-01-28,Butter Beans,71,86,101,1kg
+3364,2023-01-28,Broad Beans,34,41,48,1kg
+3365,2023-01-28,Cabbage,26,31,37,1kg
+3366,2023-01-28,Carrot,30,36,43,1kg
+3367,2023-01-28,Cauliflower,27,32,38,1kg
+3368,2023-01-28,Cluster beans,45,54,64,1kg
+3369,2023-01-28,Coconut,32,39,45,1kg
+3370,2023-01-28,Colocasia Leaves,10,12,14,1kg
+3371,2023-01-28,Colocasia,27,32,38,1kg
+3372,2023-01-28,Coriander Leaves,5,6,7,1kg
+3373,2023-01-28,Corn,30,36,43,1kg
+3374,2023-01-28,Cucumber,25,30,35,1kg
+3375,2023-01-28,Curry Leaves,29,35,41,1kg
+3376,2023-01-28,Dill Leaves,13,16,18,1kg
+3377,2023-01-28,Drumsticks,110,133,157,1kg
+3378,2023-01-28,Brinjal,27,32,38,1kg
+3379,2023-01-28,Brinjal (Big),26,31,37,1kg
+3380,2023-01-28,Elephant Yam,28,34,40,1kg
+3381,2023-01-28,Fenugreek Leaves,12,14,17,1kg
+3382,2023-01-28,French Beans,31,37,44,1kg
+3383,2023-01-28,Garlic,32,39,45,1kg
+3384,2023-01-28,Ginger,43,52,61,1kg
+3385,2023-01-28,Onion Green,43,52,61,1kg
+3386,2023-01-28,Green Peas,81,98,115,1kg
+3387,2023-01-28,Ivy Gourd,25,30,35,1kg
+3388,2023-01-28,Lemon (Lime),55,66,78,1kg
+3389,2023-01-28,Mango Raw,86,104,122,1kg
+3390,2023-01-28,Mint Leaves,5,6,7,1kg
+3391,2023-01-28,Mushroom,83,100,118,1kg
+3392,2023-01-28,Mustard Leaves,15,18,21,1kg
+3393,2023-01-28,Ladies Finger,31,37,44,1kg
+3394,2023-01-28,Pumpkin,27,32,38,1kg
+3395,2023-01-28,Radish,28,34,40,1kg
+3396,2023-01-28,Ridge Gourd,27,32,38,1kg
+3397,2023-01-28,Shallot (Pearl Onion),30,36,43,1kg
+3398,2023-01-28,Snake Gourd,31,37,44,1kg
+3399,2023-01-28,Sorrel Leaves,14,17,20,1kg
+3400,2023-01-28,Spinach,14,17,20,1kg
+3401,2023-01-28,Sweet Potato,36,43,51,1kg
+3402,2023-01-27,Onion Big,24,29,34,1kg
+3403,2023-01-27,Onion Small,34,41,48,1kg
+3404,2023-01-27,Tomato,21,25,30,1kg
+3405,2023-01-27,Green Chilli,37,45,52,1kg
+3406,2023-01-27,Beetroot,34,41,48,1kg
+3407,2023-01-27,Potato,30,36,43,1kg
+3408,2023-01-27,Raw Banana (Plantain),8,9,11,1kg
+3409,2023-01-27,Amaranth Leaves,11,13,15,1kg
+3410,2023-01-27,Amla,50,61,71,1kg
+3411,2023-01-27,Ash gourd,26,31,37,1kg
+3412,2023-01-27,Baby Corn,65,79,92,1kg
+3413,2023-01-27,Banana Flower,13,16,18,1kg
+3414,2023-01-27,Capsicum,47,57,67,1kg
+3415,2023-01-27,Bitter Gourd,30,36,43,1kg
+3416,2023-01-27,Bottle Gourd,30,36,43,1kg
+3417,2023-01-27,Butter Beans,64,77,91,1kg
+3418,2023-01-27,Broad Beans,40,48,57,1kg
+3419,2023-01-27,Cabbage,24,29,34,1kg
+3420,2023-01-27,Carrot,34,41,48,1kg
+3421,2023-01-27,Cauliflower,27,32,38,1kg
+3422,2023-01-27,Cluster beans,45,54,64,1kg
+3423,2023-01-27,Coconut,33,40,47,1kg
+3424,2023-01-27,Colocasia Leaves,10,12,14,1kg
+3425,2023-01-27,Colocasia,22,26,31,1kg
+3426,2023-01-27,Coriander Leaves,8,9,11,1kg
+3427,2023-01-27,Corn,28,34,40,1kg
+3428,2023-01-27,Cucumber,27,32,38,1kg
+3429,2023-01-27,Curry Leaves,25,30,35,1kg
+3430,2023-01-27,Dill Leaves,13,16,18,1kg
+3431,2023-01-27,Drumsticks,110,133,157,1kg
+3432,2023-01-27,Brinjal,23,27,33,1kg
+3433,2023-01-27,Brinjal (Big),25,30,35,1kg
+3434,2023-01-27,Elephant Yam,26,31,37,1kg
+3435,2023-01-27,Fenugreek Leaves,11,13,15,1kg
+3436,2023-01-27,French Beans,33,40,47,1kg
+3437,2023-01-27,Garlic,31,37,44,1kg
+3438,2023-01-27,Ginger,44,53,63,1kg
+3439,2023-01-27,Onion Green,45,54,64,1kg
+3440,2023-01-27,Green Peas,77,93,109,1kg
+3441,2023-01-27,Ivy Gourd,28,34,40,1kg
+3442,2023-01-27,Lemon (Lime),58,70,83,1kg
+3443,2023-01-27,Mango Raw,100,121,142,1kg
+3444,2023-01-27,Mint Leaves,6,7,8,1kg
+3445,2023-01-27,Mushroom,83,100,118,1kg
+3446,2023-01-27,Mustard Leaves,17,21,24,1kg
+3447,2023-01-27,Ladies Finger,30,36,43,1kg
+3448,2023-01-27,Pumpkin,24,29,34,1kg
+3449,2023-01-27,Radish,28,34,40,1kg
+3450,2023-01-27,Ridge Gourd,27,32,38,1kg
+3451,2023-01-27,Shallot (Pearl Onion),36,43,51,1kg
+3452,2023-01-27,Snake Gourd,32,39,45,1kg
+3453,2023-01-27,Sorrel Leaves,10,12,14,1kg
+3454,2023-01-27,Spinach,12,14,17,1kg
+3455,2023-01-27,Sweet Potato,38,46,54,1kg
+3456,2023-01-26,Onion Big,25,30,35,1kg
+3457,2023-01-26,Onion Small,30,36,43,1kg
+3458,2023-01-26,Tomato,19,23,27,1kg
+3459,2023-01-26,Green Chilli,34,41,48,1kg
+3460,2023-01-26,Beetroot,30,36,43,1kg
+3461,2023-01-26,Potato,33,40,47,1kg
+3462,2023-01-26,Raw Banana (Plantain),8,9,11,1kg
+3463,2023-01-26,Amaranth Leaves,10,12,14,1kg
+3464,2023-01-26,Amla,50,61,71,1kg
+3465,2023-01-26,Ash gourd,24,29,34,1kg
+3466,2023-01-26,Baby Corn,63,76,90,1kg
+3467,2023-01-26,Banana Flower,16,19,22,1kg
+3468,2023-01-26,Capsicum,41,49,58,1kg
+3469,2023-01-26,Bitter Gourd,27,32,38,1kg
+3470,2023-01-26,Bottle Gourd,28,34,40,1kg
+3471,2023-01-26,Butter Beans,67,81,95,1kg
+3472,2023-01-26,Broad Beans,38,46,54,1kg
+3473,2023-01-26,Cabbage,28,34,40,1kg
+3474,2023-01-26,Carrot,37,45,52,1kg
+3475,2023-01-26,Cauliflower,26,31,37,1kg
+3476,2023-01-26,Cluster beans,43,52,61,1kg
+3477,2023-01-26,Coconut,29,35,41,1kg
+3478,2023-01-26,Colocasia Leaves,13,16,18,1kg
+3479,2023-01-26,Colocasia,28,34,40,1kg
+3480,2023-01-26,Coriander Leaves,5,6,7,1kg
+3481,2023-01-26,Corn,30,36,43,1kg
+3482,2023-01-26,Cucumber,23,27,33,1kg
+3483,2023-01-26,Curry Leaves,30,36,43,1kg
+3484,2023-01-26,Dill Leaves,11,13,15,1kg
+3485,2023-01-26,Drumsticks,100,121,142,1kg
+3486,2023-01-26,Brinjal,21,25,30,1kg
+3487,2023-01-26,Brinjal (Big),25,30,35,1kg
+3488,2023-01-26,Elephant Yam,30,36,43,1kg
+3489,2023-01-26,Fenugreek Leaves,11,13,15,1kg
+3490,2023-01-26,French Beans,30,36,43,1kg
+3491,2023-01-26,Garlic,41,49,58,1kg
+3492,2023-01-26,Ginger,38,46,54,1kg
+3493,2023-01-26,Onion Green,43,52,61,1kg
+3494,2023-01-26,Green Peas,81,98,115,1kg
+3495,2023-01-26,Ivy Gourd,22,26,31,1kg
+3496,2023-01-26,Lemon (Lime),58,70,83,1kg
+3497,2023-01-26,Mango Raw,91,110,129,1kg
+3498,2023-01-26,Mint Leaves,7,8,10,1kg
+3499,2023-01-26,Mushroom,92,111,131,1kg
+3500,2023-01-26,Mustard Leaves,17,21,24,1kg
+3501,2023-01-26,Ladies Finger,31,37,44,1kg
+3502,2023-01-26,Pumpkin,27,32,38,1kg
+3503,2023-01-26,Radish,28,34,40,1kg
+3504,2023-01-26,Ridge Gourd,27,32,38,1kg
+3505,2023-01-26,Shallot (Pearl Onion),32,39,45,1kg
+3506,2023-01-26,Snake Gourd,27,32,38,1kg
+3507,2023-01-26,Sorrel Leaves,15,18,21,1kg
+3508,2023-01-26,Spinach,11,13,15,1kg
+3509,2023-01-26,Sweet Potato,37,45,52,1kg
+3510,2023-01-25,Onion Big,25,30,35,1kg
+3511,2023-01-25,Onion Small,30,36,43,1kg
+3512,2023-01-25,Tomato,19,23,27,1kg
+3513,2023-01-25,Green Chilli,34,41,48,1kg
+3514,2023-01-25,Beetroot,30,36,43,1kg
+3515,2023-01-25,Potato,33,40,47,1kg
+3516,2023-01-25,Raw Banana (Plantain),8,9,11,1kg
+3517,2023-01-25,Amaranth Leaves,10,12,14,1kg
+3518,2023-01-25,Amla,50,61,71,1kg
+3519,2023-01-25,Ash gourd,24,29,34,1kg
+3520,2023-01-25,Baby Corn,63,76,90,1kg
+3521,2023-01-25,Banana Flower,16,19,22,1kg
+3522,2023-01-25,Capsicum,41,49,58,1kg
+3523,2023-01-25,Bitter Gourd,27,32,38,1kg
+3524,2023-01-25,Bottle Gourd,28,34,40,1kg
+3525,2023-01-25,Butter Beans,67,81,95,1kg
+3526,2023-01-25,Broad Beans,38,46,54,1kg
+3527,2023-01-25,Cabbage,28,34,40,1kg
+3528,2023-01-25,Carrot,37,45,52,1kg
+3529,2023-01-25,Cauliflower,26,31,37,1kg
+3530,2023-01-25,Cluster beans,43,52,61,1kg
+3531,2023-01-25,Coconut,29,35,41,1kg
+3532,2023-01-25,Colocasia Leaves,13,16,18,1kg
+3533,2023-01-25,Colocasia,28,34,40,1kg
+3534,2023-01-25,Coriander Leaves,5,6,7,1kg
+3535,2023-01-25,Corn,30,36,43,1kg
+3536,2023-01-25,Cucumber,23,27,33,1kg
+3537,2023-01-25,Curry Leaves,30,36,43,1kg
+3538,2023-01-25,Dill Leaves,11,13,15,1kg
+3539,2023-01-25,Drumsticks,100,121,142,1kg
+3540,2023-01-25,Brinjal,21,25,30,1kg
+3541,2023-01-25,Brinjal (Big),25,30,35,1kg
+3542,2023-01-25,Elephant Yam,30,36,43,1kg
+3543,2023-01-25,Fenugreek Leaves,11,13,15,1kg
+3544,2023-01-25,French Beans,30,36,43,1kg
+3545,2023-01-25,Garlic,41,49,58,1kg
+3546,2023-01-25,Ginger,38,46,54,1kg
+3547,2023-01-25,Onion Green,43,52,61,1kg
+3548,2023-01-25,Green Peas,81,98,115,1kg
+3549,2023-01-25,Ivy Gourd,22,26,31,1kg
+3550,2023-01-25,Lemon (Lime),58,70,83,1kg
+3551,2023-01-25,Mango Raw,91,110,129,1kg
+3552,2023-01-25,Mint Leaves,7,8,10,1kg
+3553,2023-01-25,Mushroom,92,111,131,1kg
+3554,2023-01-25,Mustard Leaves,17,21,24,1kg
+3555,2023-01-25,Ladies Finger,31,37,44,1kg
+3556,2023-01-25,Pumpkin,27,32,38,1kg
+3557,2023-01-25,Radish,28,34,40,1kg
+3558,2023-01-25,Ridge Gourd,27,32,38,1kg
+3559,2023-01-25,Shallot (Pearl Onion),32,39,45,1kg
+3560,2023-01-25,Snake Gourd,27,32,38,1kg
+3561,2023-01-25,Sorrel Leaves,15,18,21,1kg
+3562,2023-01-25,Spinach,11,13,15,1kg
+3563,2023-01-25,Sweet Potato,37,45,52,1kg
+3564,2023-01-24,Onion Big,26,31,37,1kg
+3565,2023-01-24,Onion Small,31,37,44,1kg
+3566,2023-01-24,Tomato,18,22,26,1kg
+3567,2023-01-24,Green Chilli,33,40,47,1kg
+3568,2023-01-24,Beetroot,35,42,50,1kg
+3569,2023-01-24,Potato,26,31,37,1kg
+3570,2023-01-24,Raw Banana (Plantain),10,12,14,1kg
+3571,2023-01-24,Amaranth Leaves,12,14,17,1kg
+3572,2023-01-24,Amla,60,72,85,1kg
+3573,2023-01-24,Ash gourd,25,30,35,1kg
+3574,2023-01-24,Baby Corn,63,76,90,1kg
+3575,2023-01-24,Banana Flower,14,17,20,1kg
+3576,2023-01-24,Capsicum,42,50,59,1kg
+3577,2023-01-24,Bitter Gourd,32,39,45,1kg
+3578,2023-01-24,Bottle Gourd,25,30,35,1kg
+3579,2023-01-24,Butter Beans,67,81,95,1kg
+3580,2023-01-24,Broad Beans,37,45,52,1kg
+3581,2023-01-24,Cabbage,25,30,35,1kg
+3582,2023-01-24,Carrot,37,45,52,1kg
+3583,2023-01-24,Cauliflower,26,31,37,1kg
+3584,2023-01-24,Cluster beans,45,54,64,1kg
+3585,2023-01-24,Coconut,28,34,40,1kg
+3586,2023-01-24,Colocasia Leaves,11,13,15,1kg
+3587,2023-01-24,Colocasia,26,31,37,1kg
+3588,2023-01-24,Coriander Leaves,6,7,8,1kg
+3589,2023-01-24,Corn,28,34,40,1kg
+3590,2023-01-24,Cucumber,24,29,34,1kg
+3591,2023-01-24,Curry Leaves,28,34,40,1kg
+3592,2023-01-24,Dill Leaves,13,16,18,1kg
+3593,2023-01-24,Drumsticks,110,133,157,1kg
+3594,2023-01-24,Brinjal,20,24,28,1kg
+3595,2023-01-24,Brinjal (Big),27,32,38,1kg
+3596,2023-01-24,Elephant Yam,27,32,38,1kg
+3597,2023-01-24,Fenugreek Leaves,12,14,17,1kg
+3598,2023-01-24,French Beans,37,45,52,1kg
+3599,2023-01-24,Garlic,33,40,47,1kg
+3600,2023-01-24,Ginger,42,50,59,1kg
+3601,2023-01-24,Onion Green,44,53,63,1kg
+3602,2023-01-24,Green Peas,81,98,115,1kg
+3603,2023-01-24,Ivy Gourd,22,26,31,1kg
+3604,2023-01-24,Lemon (Lime),50,61,71,1kg
+3605,2023-01-24,Mango Raw,100,121,142,1kg
+3606,2023-01-24,Mint Leaves,5,6,7,1kg
+3607,2023-01-24,Mushroom,85,103,121,1kg
+3608,2023-01-24,Mustard Leaves,17,21,24,1kg
+3609,2023-01-24,Ladies Finger,32,39,45,1kg
+3610,2023-01-24,Pumpkin,26,31,37,1kg
+3611,2023-01-24,Radish,28,34,40,1kg
+3612,2023-01-24,Ridge Gourd,27,32,38,1kg
+3613,2023-01-24,Shallot (Pearl Onion),30,36,43,1kg
+3614,2023-01-24,Snake Gourd,27,32,38,1kg
+3615,2023-01-24,Sorrel Leaves,10,12,14,1kg
+3616,2023-01-24,Spinach,11,13,15,1kg
+3617,2023-01-24,Sweet Potato,36,43,51,1kg
+3618,2023-01-23,Onion Big,26,31,37,1kg
+3619,2023-01-23,Onion Small,31,37,44,1kg
+3620,2023-01-23,Tomato,18,22,26,1kg
+3621,2023-01-23,Green Chilli,33,40,47,1kg
+3622,2023-01-23,Beetroot,35,42,50,1kg
+3623,2023-01-23,Potato,26,31,37,1kg
+3624,2023-01-23,Raw Banana (Plantain),10,12,14,1kg
+3625,2023-01-23,Amaranth Leaves,12,14,17,1kg
+3626,2023-01-23,Amla,60,72,85,1kg
+3627,2023-01-23,Ash gourd,25,30,35,1kg
+3628,2023-01-23,Baby Corn,63,76,90,1kg
+3629,2023-01-23,Banana Flower,14,17,20,1kg
+3630,2023-01-23,Capsicum,42,50,59,1kg
+3631,2023-01-23,Bitter Gourd,32,39,45,1kg
+3632,2023-01-23,Bottle Gourd,25,30,35,1kg
+3633,2023-01-23,Butter Beans,67,81,95,1kg
+3634,2023-01-23,Broad Beans,37,45,52,1kg
+3635,2023-01-23,Cabbage,25,30,35,1kg
+3636,2023-01-23,Carrot,37,45,52,1kg
+3637,2023-01-23,Cauliflower,26,31,37,1kg
+3638,2023-01-23,Cluster beans,45,54,64,1kg
+3639,2023-01-23,Coconut,28,34,40,1kg
+3640,2023-01-23,Colocasia Leaves,11,13,15,1kg
+3641,2023-01-23,Colocasia,26,31,37,1kg
+3642,2023-01-23,Coriander Leaves,6,7,8,1kg
+3643,2023-01-23,Corn,28,34,40,1kg
+3644,2023-01-23,Cucumber,24,29,34,1kg
+3645,2023-01-23,Curry Leaves,28,34,40,1kg
+3646,2023-01-23,Dill Leaves,13,16,18,1kg
+3647,2023-01-23,Drumsticks,110,133,157,1kg
+3648,2023-01-23,Brinjal,20,24,28,1kg
+3649,2023-01-23,Brinjal (Big),27,32,38,1kg
+3650,2023-01-23,Elephant Yam,27,32,38,1kg
+3651,2023-01-23,Fenugreek Leaves,12,14,17,1kg
+3652,2023-01-23,French Beans,37,45,52,1kg
+3653,2023-01-23,Garlic,33,40,47,1kg
+3654,2023-01-23,Ginger,42,50,59,1kg
+3655,2023-01-23,Onion Green,44,53,63,1kg
+3656,2023-01-23,Green Peas,81,98,115,1kg
+3657,2023-01-23,Ivy Gourd,22,26,31,1kg
+3658,2023-01-23,Lemon (Lime),50,61,71,1kg
+3659,2023-01-23,Mango Raw,100,121,142,1kg
+3660,2023-01-23,Mint Leaves,5,6,7,1kg
+3661,2023-01-23,Mushroom,85,103,121,1kg
+3662,2023-01-23,Mustard Leaves,17,21,24,1kg
+3663,2023-01-23,Ladies Finger,32,39,45,1kg
+3664,2023-01-23,Pumpkin,26,31,37,1kg
+3665,2023-01-23,Radish,28,34,40,1kg
+3666,2023-01-23,Ridge Gourd,27,32,38,1kg
+3667,2023-01-23,Shallot (Pearl Onion),30,36,43,1kg
+3668,2023-01-23,Snake Gourd,27,32,38,1kg
+3669,2023-01-23,Sorrel Leaves,10,12,14,1kg
+3670,2023-01-23,Spinach,11,13,15,1kg
+3671,2023-01-23,Sweet Potato,36,43,51,1kg
+3672,2023-01-22,Onion Big,26,31,37,1kg
+3673,2023-01-22,Onion Small,31,37,44,1kg
+3674,2023-01-22,Tomato,18,22,26,1kg
+3675,2023-01-22,Green Chilli,33,40,47,1kg
+3676,2023-01-22,Beetroot,35,42,50,1kg
+3677,2023-01-22,Potato,26,31,37,1kg
+3678,2023-01-22,Raw Banana (Plantain),10,12,14,1kg
+3679,2023-01-22,Amaranth Leaves,12,14,17,1kg
+3680,2023-01-22,Amla,60,72,85,1kg
+3681,2023-01-22,Ash gourd,25,30,35,1kg
+3682,2023-01-22,Baby Corn,63,76,90,1kg
+3683,2023-01-22,Banana Flower,14,17,20,1kg
+3684,2023-01-22,Capsicum,42,50,59,1kg
+3685,2023-01-22,Bitter Gourd,32,39,45,1kg
+3686,2023-01-22,Bottle Gourd,25,30,35,1kg
+3687,2023-01-22,Butter Beans,67,81,95,1kg
+3688,2023-01-22,Broad Beans,37,45,52,1kg
+3689,2023-01-22,Cabbage,25,30,35,1kg
+3690,2023-01-22,Carrot,37,45,52,1kg
+3691,2023-01-22,Cauliflower,26,31,37,1kg
+3692,2023-01-22,Cluster beans,45,54,64,1kg
+3693,2023-01-22,Coconut,28,34,40,1kg
+3694,2023-01-22,Colocasia Leaves,11,13,15,1kg
+3695,2023-01-22,Colocasia,26,31,37,1kg
+3696,2023-01-22,Coriander Leaves,6,7,8,1kg
+3697,2023-01-22,Corn,28,34,40,1kg
+3698,2023-01-22,Cucumber,24,29,34,1kg
+3699,2023-01-22,Curry Leaves,28,34,40,1kg
+3700,2023-01-22,Dill Leaves,13,16,18,1kg
+3701,2023-01-22,Drumsticks,110,133,157,1kg
+3702,2023-01-22,Brinjal,20,24,28,1kg
+3703,2023-01-22,Brinjal (Big),27,32,38,1kg
+3704,2023-01-22,Elephant Yam,27,32,38,1kg
+3705,2023-01-22,Fenugreek Leaves,12,14,17,1kg
+3706,2023-01-22,French Beans,37,45,52,1kg
+3707,2023-01-22,Garlic,33,40,47,1kg
+3708,2023-01-22,Ginger,42,50,59,1kg
+3709,2023-01-22,Onion Green,44,53,63,1kg
+3710,2023-01-22,Green Peas,81,98,115,1kg
+3711,2023-01-22,Ivy Gourd,22,26,31,1kg
+3712,2023-01-22,Lemon (Lime),50,61,71,1kg
+3713,2023-01-22,Mango Raw,100,121,142,1kg
+3714,2023-01-22,Mint Leaves,5,6,7,1kg
+3715,2023-01-22,Mushroom,85,103,121,1kg
+3716,2023-01-22,Mustard Leaves,17,21,24,1kg
+3717,2023-01-22,Ladies Finger,32,39,45,1kg
+3718,2023-01-22,Pumpkin,26,31,37,1kg
+3719,2023-01-22,Radish,28,34,40,1kg
+3720,2023-01-22,Ridge Gourd,27,32,38,1kg
+3721,2023-01-22,Shallot (Pearl Onion),30,36,43,1kg
+3722,2023-01-22,Snake Gourd,27,32,38,1kg
+3723,2023-01-22,Sorrel Leaves,10,12,14,1kg
+3724,2023-01-22,Spinach,11,13,15,1kg
+3725,2023-01-22,Sweet Potato,36,43,51,1kg
+3726,2023-01-21,Onion Big,26,31,37,1kg
+3727,2023-01-21,Onion Small,31,37,44,1kg
+3728,2023-01-21,Tomato,18,22,26,1kg
+3729,2023-01-21,Green Chilli,33,40,47,1kg
+3730,2023-01-21,Beetroot,35,42,50,1kg
+3731,2023-01-21,Potato,26,31,37,1kg
+3732,2023-01-21,Raw Banana (Plantain),10,12,14,1kg
+3733,2023-01-21,Amaranth Leaves,12,14,17,1kg
+3734,2023-01-21,Amla,60,72,85,1kg
+3735,2023-01-21,Ash gourd,25,30,35,1kg
+3736,2023-01-21,Baby Corn,63,76,90,1kg
+3737,2023-01-21,Banana Flower,14,17,20,1kg
+3738,2023-01-21,Capsicum,42,50,59,1kg
+3739,2023-01-21,Bitter Gourd,32,39,45,1kg
+3740,2023-01-21,Bottle Gourd,25,30,35,1kg
+3741,2023-01-21,Butter Beans,67,81,95,1kg
+3742,2023-01-21,Broad Beans,37,45,52,1kg
+3743,2023-01-21,Cabbage,25,30,35,1kg
+3744,2023-01-21,Carrot,37,45,52,1kg
+3745,2023-01-21,Cauliflower,26,31,37,1kg
+3746,2023-01-21,Cluster beans,45,54,64,1kg
+3747,2023-01-21,Coconut,28,34,40,1kg
+3748,2023-01-21,Colocasia Leaves,11,13,15,1kg
+3749,2023-01-21,Colocasia,26,31,37,1kg
+3750,2023-01-21,Coriander Leaves,6,7,8,1kg
+3751,2023-01-21,Corn,28,34,40,1kg
+3752,2023-01-21,Cucumber,24,29,34,1kg
+3753,2023-01-21,Curry Leaves,28,34,40,1kg
+3754,2023-01-21,Dill Leaves,13,16,18,1kg
+3755,2023-01-21,Drumsticks,110,133,157,1kg
+3756,2023-01-21,Brinjal,20,24,28,1kg
+3757,2023-01-21,Brinjal (Big),27,32,38,1kg
+3758,2023-01-21,Elephant Yam,27,32,38,1kg
+3759,2023-01-21,Fenugreek Leaves,12,14,17,1kg
+3760,2023-01-21,French Beans,37,45,52,1kg
+3761,2023-01-21,Garlic,33,40,47,1kg
+3762,2023-01-21,Ginger,42,50,59,1kg
+3763,2023-01-21,Onion Green,44,53,63,1kg
+3764,2023-01-21,Green Peas,81,98,115,1kg
+3765,2023-01-21,Ivy Gourd,22,26,31,1kg
+3766,2023-01-21,Lemon (Lime),50,61,71,1kg
+3767,2023-01-21,Mango Raw,100,121,142,1kg
+3768,2023-01-21,Mint Leaves,5,6,7,1kg
+3769,2023-01-21,Mushroom,85,103,121,1kg
+3770,2023-01-21,Mustard Leaves,17,21,24,1kg
+3771,2023-01-21,Ladies Finger,32,39,45,1kg
+3772,2023-01-21,Pumpkin,26,31,37,1kg
+3773,2023-01-21,Radish,28,34,40,1kg
+3774,2023-01-21,Ridge Gourd,27,32,38,1kg
+3775,2023-01-21,Shallot (Pearl Onion),30,36,43,1kg
+3776,2023-01-21,Snake Gourd,27,32,38,1kg
+3777,2023-01-21,Sorrel Leaves,10,12,14,1kg
+3778,2023-01-21,Spinach,11,13,15,1kg
+3779,2023-01-21,Sweet Potato,36,43,51,1kg
+3780,2023-01-20,Onion Big,25,30,35,1kg
+3781,2023-01-20,Onion Small,35,42,50,1kg
+3782,2023-01-20,Tomato,20,24,28,1kg
+3783,2023-01-20,Green Chilli,36,43,51,1kg
+3784,2023-01-20,Beetroot,33,40,47,1kg
+3785,2023-01-20,Potato,29,35,41,1kg
+3786,2023-01-20,Raw Banana (Plantain),8,9,11,1kg
+3787,2023-01-20,Amaranth Leaves,13,16,18,1kg
+3788,2023-01-20,Amla,60,72,85,1kg
+3789,2023-01-20,Ash gourd,25,30,35,1kg
+3790,2023-01-20,Baby Corn,63,76,90,1kg
+3791,2023-01-20,Banana Flower,20,24,28,1kg
+3792,2023-01-20,Capsicum,42,50,59,1kg
+3793,2023-01-20,Bitter Gourd,31,37,44,1kg
+3794,2023-01-20,Bottle Gourd,25,30,35,1kg
+3795,2023-01-20,Butter Beans,68,82,97,1kg
+3796,2023-01-20,Broad Beans,33,40,47,1kg
+3797,2023-01-20,Cabbage,29,35,41,1kg
+3798,2023-01-20,Carrot,32,39,45,1kg
+3799,2023-01-20,Cauliflower,26,31,37,1kg
+3800,2023-01-20,Cluster beans,40,48,57,1kg
+3801,2023-01-20,Coconut,27,32,38,1kg
+3802,2023-01-20,Colocasia Leaves,15,18,21,1kg
+3803,2023-01-20,Colocasia,22,26,31,1kg
+3804,2023-01-20,Coriander Leaves,6,7,8,1kg
+3805,2023-01-20,Corn,27,32,38,1kg
+3806,2023-01-20,Cucumber,23,27,33,1kg
+3807,2023-01-20,Curry Leaves,29,35,41,1kg
+3808,2023-01-20,Dill Leaves,10,12,14,1kg
+3809,2023-01-20,Drumsticks,100,121,142,1kg
+3810,2023-01-20,Brinjal,27,32,38,1kg
+3811,2023-01-20,Brinjal (Big),23,27,33,1kg
+3812,2023-01-20,Elephant Yam,28,34,40,1kg
+3813,2023-01-20,Fenugreek Leaves,12,14,17,1kg
+3814,2023-01-20,French Beans,30,36,43,1kg
+3815,2023-01-20,Garlic,41,49,58,1kg
+3816,2023-01-20,Ginger,45,54,64,1kg
+3817,2023-01-20,Onion Green,42,50,59,1kg
+3818,2023-01-20,Green Peas,84,102,120,1kg
+3819,2023-01-20,Ivy Gourd,27,32,38,1kg
+3820,2023-01-20,Lemon (Lime),53,64,75,1kg
+3821,2023-01-20,Mango Raw,87,105,124,1kg
+3822,2023-01-20,Mint Leaves,6,7,8,1kg
+3823,2023-01-20,Mushroom,85,103,121,1kg
+3824,2023-01-20,Mustard Leaves,13,16,18,1kg
+3825,2023-01-20,Ladies Finger,30,36,43,1kg
+3826,2023-01-20,Pumpkin,29,35,41,1kg
+3827,2023-01-20,Radish,22,26,31,1kg
+3828,2023-01-20,Ridge Gourd,26,31,37,1kg
+3829,2023-01-20,Shallot (Pearl Onion),30,36,43,1kg
+3830,2023-01-20,Snake Gourd,31,37,44,1kg
+3831,2023-01-20,Sorrel Leaves,10,12,14,1kg
+3832,2023-01-20,Spinach,13,16,18,1kg
+3833,2023-01-20,Sweet Potato,38,46,54,1kg
+3834,2023-01-19,Onion Big,25,30,35,1kg
+3835,2023-01-19,Onion Small,35,42,50,1kg
+3836,2023-01-19,Tomato,20,24,28,1kg
+3837,2023-01-19,Green Chilli,36,43,51,1kg
+3838,2023-01-19,Beetroot,33,40,47,1kg
+3839,2023-01-19,Potato,29,35,41,1kg
+3840,2023-01-19,Raw Banana (Plantain),8,9,11,1kg
+3841,2023-01-19,Amaranth Leaves,13,16,18,1kg
+3842,2023-01-19,Amla,60,72,85,1kg
+3843,2023-01-19,Ash gourd,25,30,35,1kg
+3844,2023-01-19,Baby Corn,63,76,90,1kg
+3845,2023-01-19,Banana Flower,20,24,28,1kg
+3846,2023-01-19,Capsicum,42,50,59,1kg
+3847,2023-01-19,Bitter Gourd,31,37,44,1kg
+3848,2023-01-19,Bottle Gourd,25,30,35,1kg
+3849,2023-01-19,Butter Beans,68,82,97,1kg
+3850,2023-01-19,Broad Beans,33,40,47,1kg
+3851,2023-01-19,Cabbage,29,35,41,1kg
+3852,2023-01-19,Carrot,32,39,45,1kg
+3853,2023-01-19,Cauliflower,26,31,37,1kg
+3854,2023-01-19,Cluster beans,40,48,57,1kg
+3855,2023-01-19,Coconut,27,32,38,1kg
+3856,2023-01-19,Colocasia Leaves,15,18,21,1kg
+3857,2023-01-19,Colocasia,22,26,31,1kg
+3858,2023-01-19,Coriander Leaves,6,7,8,1kg
+3859,2023-01-19,Corn,27,32,38,1kg
+3860,2023-01-19,Cucumber,23,27,33,1kg
+3861,2023-01-19,Curry Leaves,29,35,41,1kg
+3862,2023-01-19,Dill Leaves,10,12,14,1kg
+3863,2023-01-19,Drumsticks,100,121,142,1kg
+3864,2023-01-19,Brinjal,27,32,38,1kg
+3865,2023-01-19,Brinjal (Big),23,27,33,1kg
+3866,2023-01-19,Elephant Yam,28,34,40,1kg
+3867,2023-01-19,Fenugreek Leaves,12,14,17,1kg
+3868,2023-01-19,French Beans,30,36,43,1kg
+3869,2023-01-19,Garlic,41,49,58,1kg
+3870,2023-01-19,Ginger,45,54,64,1kg
+3871,2023-01-19,Onion Green,42,50,59,1kg
+3872,2023-01-19,Green Peas,84,102,120,1kg
+3873,2023-01-19,Ivy Gourd,27,32,38,1kg
+3874,2023-01-19,Lemon (Lime),53,64,75,1kg
+3875,2023-01-19,Mango Raw,87,105,124,1kg
+3876,2023-01-19,Mint Leaves,6,7,8,1kg
+3877,2023-01-19,Mushroom,85,103,121,1kg
+3878,2023-01-19,Mustard Leaves,13,16,18,1kg
+3879,2023-01-19,Ladies Finger,30,36,43,1kg
+3880,2023-01-19,Pumpkin,29,35,41,1kg
+3881,2023-01-19,Radish,22,26,31,1kg
+3882,2023-01-19,Ridge Gourd,26,31,37,1kg
+3883,2023-01-19,Shallot (Pearl Onion),30,36,43,1kg
+3884,2023-01-19,Snake Gourd,31,37,44,1kg
+3885,2023-01-19,Sorrel Leaves,10,12,14,1kg
+3886,2023-01-19,Spinach,13,16,18,1kg
+3887,2023-01-19,Sweet Potato,38,46,54,1kg
+3888,2023-01-18,Onion Big,25,30,35,1kg
+3889,2023-01-18,Onion Small,35,42,50,1kg
+3890,2023-01-18,Tomato,20,24,28,1kg
+3891,2023-01-18,Green Chilli,36,43,51,1kg
+3892,2023-01-18,Beetroot,33,40,47,1kg
+3893,2023-01-18,Potato,29,35,41,1kg
+3894,2023-01-18,Raw Banana (Plantain),8,9,11,1kg
+3895,2023-01-18,Amaranth Leaves,13,16,18,1kg
+3896,2023-01-18,Amla,60,72,85,1kg
+3897,2023-01-18,Ash gourd,25,30,35,1kg
+3898,2023-01-18,Baby Corn,63,76,90,1kg
+3899,2023-01-18,Banana Flower,20,24,28,1kg
+3900,2023-01-18,Capsicum,42,50,59,1kg
+3901,2023-01-18,Bitter Gourd,31,37,44,1kg
+3902,2023-01-18,Bottle Gourd,25,30,35,1kg
+3903,2023-01-18,Butter Beans,68,82,97,1kg
+3904,2023-01-18,Broad Beans,33,40,47,1kg
+3905,2023-01-18,Cabbage,29,35,41,1kg
+3906,2023-01-18,Carrot,32,39,45,1kg
+3907,2023-01-18,Cauliflower,26,31,37,1kg
+3908,2023-01-18,Cluster beans,40,48,57,1kg
+3909,2023-01-18,Coconut,27,32,38,1kg
+3910,2023-01-18,Colocasia Leaves,15,18,21,1kg
+3911,2023-01-18,Colocasia,22,26,31,1kg
+3912,2023-01-18,Coriander Leaves,6,7,8,1kg
+3913,2023-01-18,Corn,27,32,38,1kg
+3914,2023-01-18,Cucumber,23,27,33,1kg
+3915,2023-01-18,Curry Leaves,29,35,41,1kg
+3916,2023-01-18,Dill Leaves,10,12,14,1kg
+3917,2023-01-18,Drumsticks,100,121,142,1kg
+3918,2023-01-18,Brinjal,27,32,38,1kg
+3919,2023-01-18,Brinjal (Big),23,27,33,1kg
+3920,2023-01-18,Elephant Yam,28,34,40,1kg
+3921,2023-01-18,Fenugreek Leaves,12,14,17,1kg
+3922,2023-01-18,French Beans,30,36,43,1kg
+3923,2023-01-18,Garlic,41,49,58,1kg
+3924,2023-01-18,Ginger,45,54,64,1kg
+3925,2023-01-18,Onion Green,42,50,59,1kg
+3926,2023-01-18,Green Peas,84,102,120,1kg
+3927,2023-01-18,Ivy Gourd,27,32,38,1kg
+3928,2023-01-18,Lemon (Lime),53,64,75,1kg
+3929,2023-01-18,Mango Raw,87,105,124,1kg
+3930,2023-01-18,Mint Leaves,6,7,8,1kg
+3931,2023-01-18,Mushroom,85,103,121,1kg
+3932,2023-01-18,Mustard Leaves,13,16,18,1kg
+3933,2023-01-18,Ladies Finger,30,36,43,1kg
+3934,2023-01-18,Pumpkin,29,35,41,1kg
+3935,2023-01-18,Radish,22,26,31,1kg
+3936,2023-01-18,Ridge Gourd,26,31,37,1kg
+3937,2023-01-18,Shallot (Pearl Onion),30,36,43,1kg
+3938,2023-01-18,Snake Gourd,31,37,44,1kg
+3939,2023-01-18,Sorrel Leaves,10,12,14,1kg
+3940,2023-01-18,Spinach,13,16,18,1kg
+3941,2023-01-18,Sweet Potato,38,46,54,1kg
+3942,2023-01-17,Onion Big,26,31,37,1kg
+3943,2023-01-17,Onion Small,36,43,51,1kg
+3944,2023-01-17,Tomato,18,22,26,1kg
+3945,2023-01-17,Green Chilli,38,46,54,1kg
+3946,2023-01-17,Beetroot,31,37,44,1kg
+3947,2023-01-17,Potato,27,32,38,1kg
+3948,2023-01-17,Raw Banana (Plantain),7,8,10,1kg
+3949,2023-01-17,Amaranth Leaves,10,12,14,1kg
+3950,2023-01-17,Amla,60,72,85,1kg
+3951,2023-01-17,Ash gourd,26,31,37,1kg
+3952,2023-01-17,Baby Corn,63,76,90,1kg
+3953,2023-01-17,Banana Flower,12,14,17,1kg
+3954,2023-01-17,Capsicum,43,52,61,1kg
+3955,2023-01-17,Bitter Gourd,31,37,44,1kg
+3956,2023-01-17,Bottle Gourd,24,29,34,1kg
+3957,2023-01-17,Butter Beans,73,88,104,1kg
+3958,2023-01-17,Broad Beans,34,41,48,1kg
+3959,2023-01-17,Cabbage,24,29,34,1kg
+3960,2023-01-17,Carrot,30,36,43,1kg
+3961,2023-01-17,Cauliflower,28,34,40,1kg
+3962,2023-01-17,Cluster beans,40,48,57,1kg
+3963,2023-01-17,Coconut,29,35,41,1kg
+3964,2023-01-17,Colocasia Leaves,15,18,21,1kg
+3965,2023-01-17,Colocasia,23,27,33,1kg
+3966,2023-01-17,Coriander Leaves,6,7,8,1kg
+3967,2023-01-17,Corn,30,36,43,1kg
+3968,2023-01-17,Cucumber,23,27,33,1kg
+3969,2023-01-17,Curry Leaves,30,36,43,1kg
+3970,2023-01-17,Dill Leaves,14,17,20,1kg
+3971,2023-01-17,Drumsticks,120,145,171,1kg
+3972,2023-01-17,Brinjal,26,31,37,1kg
+3973,2023-01-17,Brinjal (Big),23,27,33,1kg
+3974,2023-01-17,Elephant Yam,24,29,34,1kg
+3975,2023-01-17,Fenugreek Leaves,12,14,17,1kg
+3976,2023-01-17,French Beans,33,40,47,1kg
+3977,2023-01-17,Garlic,31,37,44,1kg
+3978,2023-01-17,Ginger,35,42,50,1kg
+3979,2023-01-17,Onion Green,45,54,64,1kg
+3980,2023-01-17,Green Peas,79,95,112,1kg
+3981,2023-01-17,Ivy Gourd,23,27,33,1kg
+3982,2023-01-17,Lemon (Lime),48,58,68,1kg
+3983,2023-01-17,Mango Raw,89,107,127,1kg
+3984,2023-01-17,Mint Leaves,6,7,8,1kg
+3985,2023-01-17,Mushroom,77,93,109,1kg
+3986,2023-01-17,Mustard Leaves,15,18,21,1kg
+3987,2023-01-17,Ladies Finger,31,37,44,1kg
+3988,2023-01-17,Pumpkin,26,31,37,1kg
+3989,2023-01-17,Radish,24,29,34,1kg
+3990,2023-01-17,Ridge Gourd,28,34,40,1kg
+3991,2023-01-17,Shallot (Pearl Onion),31,37,44,1kg
+3992,2023-01-17,Snake Gourd,27,32,38,1kg
+3993,2023-01-17,Sorrel Leaves,13,16,18,1kg
+3994,2023-01-17,Spinach,13,16,18,1kg
+3995,2023-01-17,Sweet Potato,36,43,51,1kg
+3996,2023-01-16,Onion Big,26,31,37,1kg
+3997,2023-01-16,Onion Small,36,43,51,1kg
+3998,2023-01-16,Tomato,18,22,26,1kg
+3999,2023-01-16,Green Chilli,38,46,54,1kg
+4000,2023-01-16,Beetroot,31,37,44,1kg
+4001,2023-01-16,Potato,27,32,38,1kg
+4002,2023-01-16,Raw Banana (Plantain),7,8,10,1kg
+4003,2023-01-16,Amaranth Leaves,10,12,14,1kg
+4004,2023-01-16,Amla,60,72,85,1kg
+4005,2023-01-16,Ash gourd,26,31,37,1kg
+4006,2023-01-16,Baby Corn,63,76,90,1kg
+4007,2023-01-16,Banana Flower,12,14,17,1kg
+4008,2023-01-16,Capsicum,43,52,61,1kg
+4009,2023-01-16,Bitter Gourd,31,37,44,1kg
+4010,2023-01-16,Bottle Gourd,24,29,34,1kg
+4011,2023-01-16,Butter Beans,73,88,104,1kg
+4012,2023-01-16,Broad Beans,34,41,48,1kg
+4013,2023-01-16,Cabbage,24,29,34,1kg
+4014,2023-01-16,Carrot,30,36,43,1kg
+4015,2023-01-16,Cauliflower,28,34,40,1kg
+4016,2023-01-16,Cluster beans,40,48,57,1kg
+4017,2023-01-16,Coconut,29,35,41,1kg
+4018,2023-01-16,Colocasia Leaves,15,18,21,1kg
+4019,2023-01-16,Colocasia,23,27,33,1kg
+4020,2023-01-16,Coriander Leaves,6,7,8,1kg
+4021,2023-01-16,Corn,30,36,43,1kg
+4022,2023-01-16,Cucumber,23,27,33,1kg
+4023,2023-01-16,Curry Leaves,30,36,43,1kg
+4024,2023-01-16,Dill Leaves,14,17,20,1kg
+4025,2023-01-16,Drumsticks,120,145,171,1kg
+4026,2023-01-16,Brinjal,26,31,37,1kg
+4027,2023-01-16,Brinjal (Big),23,27,33,1kg
+4028,2023-01-16,Elephant Yam,24,29,34,1kg
+4029,2023-01-16,Fenugreek Leaves,12,14,17,1kg
+4030,2023-01-16,French Beans,33,40,47,1kg
+4031,2023-01-16,Garlic,31,37,44,1kg
+4032,2023-01-16,Ginger,35,42,50,1kg
+4033,2023-01-16,Onion Green,45,54,64,1kg
+4034,2023-01-16,Green Peas,79,95,112,1kg
+4035,2023-01-16,Ivy Gourd,23,27,33,1kg
+4036,2023-01-16,Lemon (Lime),48,58,68,1kg
+4037,2023-01-16,Mango Raw,89,107,127,1kg
+4038,2023-01-16,Mint Leaves,6,7,8,1kg
+4039,2023-01-16,Mushroom,77,93,109,1kg
+4040,2023-01-16,Mustard Leaves,15,18,21,1kg
+4041,2023-01-16,Ladies Finger,31,37,44,1kg
+4042,2023-01-16,Pumpkin,26,31,37,1kg
+4043,2023-01-16,Radish,24,29,34,1kg
+4044,2023-01-16,Ridge Gourd,28,34,40,1kg
+4045,2023-01-16,Shallot (Pearl Onion),31,37,44,1kg
+4046,2023-01-16,Snake Gourd,27,32,38,1kg
+4047,2023-01-16,Sorrel Leaves,13,16,18,1kg
+4048,2023-01-16,Spinach,13,16,18,1kg
+4049,2023-01-16,Sweet Potato,36,43,51,1kg
+4050,2023-01-15,Onion Big,26,31,37,1kg
+4051,2023-01-15,Onion Small,36,43,51,1kg
+4052,2023-01-15,Tomato,18,22,26,1kg
+4053,2023-01-15,Green Chilli,38,46,54,1kg
+4054,2023-01-15,Beetroot,31,37,44,1kg
+4055,2023-01-15,Potato,27,32,38,1kg
+4056,2023-01-15,Raw Banana (Plantain),7,8,10,1kg
+4057,2023-01-15,Amaranth Leaves,10,12,14,1kg
+4058,2023-01-15,Amla,60,72,85,1kg
+4059,2023-01-15,Ash gourd,26,31,37,1kg
+4060,2023-01-15,Baby Corn,63,76,90,1kg
+4061,2023-01-15,Banana Flower,12,14,17,1kg
+4062,2023-01-15,Capsicum,43,52,61,1kg
+4063,2023-01-15,Bitter Gourd,31,37,44,1kg
+4064,2023-01-15,Bottle Gourd,24,29,34,1kg
+4065,2023-01-15,Butter Beans,73,88,104,1kg
+4066,2023-01-15,Broad Beans,34,41,48,1kg
+4067,2023-01-15,Cabbage,24,29,34,1kg
+4068,2023-01-15,Carrot,30,36,43,1kg
+4069,2023-01-15,Cauliflower,28,34,40,1kg
+4070,2023-01-15,Cluster beans,40,48,57,1kg
+4071,2023-01-15,Coconut,29,35,41,1kg
+4072,2023-01-15,Colocasia Leaves,15,18,21,1kg
+4073,2023-01-15,Colocasia,23,27,33,1kg
+4074,2023-01-15,Coriander Leaves,6,7,8,1kg
+4075,2023-01-15,Corn,30,36,43,1kg
+4076,2023-01-15,Cucumber,23,27,33,1kg
+4077,2023-01-15,Curry Leaves,30,36,43,1kg
+4078,2023-01-15,Dill Leaves,14,17,20,1kg
+4079,2023-01-15,Drumsticks,120,145,171,1kg
+4080,2023-01-15,Brinjal,26,31,37,1kg
+4081,2023-01-15,Brinjal (Big),23,27,33,1kg
+4082,2023-01-15,Elephant Yam,24,29,34,1kg
+4083,2023-01-15,Fenugreek Leaves,12,14,17,1kg
+4084,2023-01-15,French Beans,33,40,47,1kg
+4085,2023-01-15,Garlic,31,37,44,1kg
+4086,2023-01-15,Ginger,35,42,50,1kg
+4087,2023-01-15,Onion Green,45,54,64,1kg
+4088,2023-01-15,Green Peas,79,95,112,1kg
+4089,2023-01-15,Ivy Gourd,23,27,33,1kg
+4090,2023-01-15,Lemon (Lime),48,58,68,1kg
+4091,2023-01-15,Mango Raw,89,107,127,1kg
+4092,2023-01-15,Mint Leaves,6,7,8,1kg
+4093,2023-01-15,Mushroom,77,93,109,1kg
+4094,2023-01-15,Mustard Leaves,15,18,21,1kg
+4095,2023-01-15,Ladies Finger,31,37,44,1kg
+4096,2023-01-15,Pumpkin,26,31,37,1kg
+4097,2023-01-15,Radish,24,29,34,1kg
+4098,2023-01-15,Ridge Gourd,28,34,40,1kg
+4099,2023-01-15,Shallot (Pearl Onion),31,37,44,1kg
+4100,2023-01-15,Snake Gourd,27,32,38,1kg
+4101,2023-01-15,Sorrel Leaves,13,16,18,1kg
+4102,2023-01-15,Spinach,13,16,18,1kg
+4103,2023-01-15,Sweet Potato,36,43,51,1kg
+4104,2023-01-14,Onion Big,25,30,35,1kg
+4105,2023-01-14,Onion Small,39,47,55,1kg
+4106,2023-01-14,Tomato,20,24,28,1kg
+4107,2023-01-14,Green Chilli,37,45,52,1kg
+4108,2023-01-14,Beetroot,34,41,48,1kg
+4109,2023-01-14,Potato,27,32,38,1kg
+4110,2023-01-14,Raw Banana (Plantain),7,8,10,1kg
+4111,2023-01-14,Amaranth Leaves,11,13,15,1kg
+4112,2023-01-14,Amla,70,85,100,1kg
+4113,2023-01-14,Ash gourd,23,27,33,1kg
+4114,2023-01-14,Baby Corn,63,76,90,1kg
+4115,2023-01-14,Banana Flower,20,24,28,1kg
+4116,2023-01-14,Capsicum,42,50,59,1kg
+4117,2023-01-14,Bitter Gourd,27,32,38,1kg
+4118,2023-01-14,Bottle Gourd,30,36,43,1kg
+4119,2023-01-14,Butter Beans,65,79,92,1kg
+4120,2023-01-14,Broad Beans,37,45,52,1kg
+4121,2023-01-14,Cabbage,29,35,41,1kg
+4122,2023-01-14,Carrot,30,36,43,1kg
+4123,2023-01-14,Cauliflower,27,32,38,1kg
+4124,2023-01-14,Cluster beans,45,54,64,1kg
+4125,2023-01-14,Coconut,30,36,43,1kg
+4126,2023-01-14,Colocasia Leaves,16,19,22,1kg
+4127,2023-01-14,Colocasia,27,32,38,1kg
+4128,2023-01-14,Coriander Leaves,6,7,8,1kg
+4129,2023-01-14,Corn,30,36,43,1kg
+4130,2023-01-14,Cucumber,27,32,38,1kg
+4131,2023-01-14,Curry Leaves,25,30,35,1kg
+4132,2023-01-14,Dill Leaves,11,13,15,1kg
+4133,2023-01-14,Drumsticks,120,145,171,1kg
+4134,2023-01-14,Brinjal,23,27,33,1kg
+4135,2023-01-14,Brinjal (Big),28,34,40,1kg
+4136,2023-01-14,Elephant Yam,29,35,41,1kg
+4137,2023-01-14,Fenugreek Leaves,9,10,13,1kg
+4138,2023-01-14,French Beans,36,43,51,1kg
+4139,2023-01-14,Garlic,42,50,59,1kg
+4140,2023-01-14,Ginger,36,43,51,1kg
+4141,2023-01-14,Onion Green,37,45,52,1kg
+4142,2023-01-14,Green Peas,82,99,116,1kg
+4143,2023-01-14,Ivy Gourd,28,34,40,1kg
+4144,2023-01-14,Lemon (Lime),60,72,85,1kg
+4145,2023-01-14,Mango Raw,94,113,134,1kg
+4146,2023-01-14,Mint Leaves,4,5,6,1kg
+4147,2023-01-14,Mushroom,80,97,114,1kg
+4148,2023-01-14,Mustard Leaves,16,19,22,1kg
+4149,2023-01-14,Ladies Finger,30,36,43,1kg
+4150,2023-01-14,Pumpkin,26,31,37,1kg
+4151,2023-01-14,Radish,25,30,35,1kg
+4152,2023-01-14,Ridge Gourd,29,35,41,1kg
+4153,2023-01-14,Shallot (Pearl Onion),36,43,51,1kg
+4154,2023-01-14,Snake Gourd,27,32,38,1kg
+4155,2023-01-14,Sorrel Leaves,12,14,17,1kg
+4156,2023-01-14,Spinach,13,16,18,1kg
+4157,2023-01-14,Sweet Potato,40,48,57,1kg
+4158,2023-01-13,Onion Big,25,30,35,1kg
+4159,2023-01-13,Onion Small,39,47,55,1kg
+4160,2023-01-13,Tomato,20,24,28,1kg
+4161,2023-01-13,Green Chilli,37,45,52,1kg
+4162,2023-01-13,Beetroot,34,41,48,1kg
+4163,2023-01-13,Potato,27,32,38,1kg
+4164,2023-01-13,Raw Banana (Plantain),7,8,10,1kg
+4165,2023-01-13,Amaranth Leaves,11,13,15,1kg
+4166,2023-01-13,Amla,70,85,100,1kg
+4167,2023-01-13,Ash gourd,23,27,33,1kg
+4168,2023-01-13,Baby Corn,63,76,90,1kg
+4169,2023-01-13,Banana Flower,20,24,28,1kg
+4170,2023-01-13,Capsicum,42,50,59,1kg
+4171,2023-01-13,Bitter Gourd,27,32,38,1kg
+4172,2023-01-13,Bottle Gourd,30,36,43,1kg
+4173,2023-01-13,Butter Beans,65,79,92,1kg
+4174,2023-01-13,Broad Beans,37,45,52,1kg
+4175,2023-01-13,Cabbage,29,35,41,1kg
+4176,2023-01-13,Carrot,30,36,43,1kg
+4177,2023-01-13,Cauliflower,27,32,38,1kg
+4178,2023-01-13,Cluster beans,45,54,64,1kg
+4179,2023-01-13,Coconut,30,36,43,1kg
+4180,2023-01-13,Colocasia Leaves,16,19,22,1kg
+4181,2023-01-13,Colocasia,27,32,38,1kg
+4182,2023-01-13,Coriander Leaves,6,7,8,1kg
+4183,2023-01-13,Corn,30,36,43,1kg
+4184,2023-01-13,Cucumber,27,32,38,1kg
+4185,2023-01-13,Curry Leaves,25,30,35,1kg
+4186,2023-01-13,Dill Leaves,11,13,15,1kg
+4187,2023-01-13,Drumsticks,120,145,171,1kg
+4188,2023-01-13,Brinjal,23,27,33,1kg
+4189,2023-01-13,Brinjal (Big),28,34,40,1kg
+4190,2023-01-13,Elephant Yam,29,35,41,1kg
+4191,2023-01-13,Fenugreek Leaves,9,10,13,1kg
+4192,2023-01-13,French Beans,36,43,51,1kg
+4193,2023-01-13,Garlic,42,50,59,1kg
+4194,2023-01-13,Ginger,36,43,51,1kg
+4195,2023-01-13,Onion Green,37,45,52,1kg
+4196,2023-01-13,Green Peas,82,99,116,1kg
+4197,2023-01-13,Ivy Gourd,28,34,40,1kg
+4198,2023-01-13,Lemon (Lime),60,72,85,1kg
+4199,2023-01-13,Mango Raw,94,113,134,1kg
+4200,2023-01-13,Mint Leaves,4,5,6,1kg
+4201,2023-01-13,Mushroom,80,97,114,1kg
+4202,2023-01-13,Mustard Leaves,16,19,22,1kg
+4203,2023-01-13,Ladies Finger,30,36,43,1kg
+4204,2023-01-13,Pumpkin,26,31,37,1kg
+4205,2023-01-13,Radish,25,30,35,1kg
+4206,2023-01-13,Ridge Gourd,29,35,41,1kg
+4207,2023-01-13,Shallot (Pearl Onion),36,43,51,1kg
+4208,2023-01-13,Snake Gourd,27,32,38,1kg
+4209,2023-01-13,Sorrel Leaves,12,14,17,1kg
+4210,2023-01-13,Spinach,13,16,18,1kg
+4211,2023-01-13,Sweet Potato,40,48,57,1kg
+4212,2023-01-12,Onion Big,25,30,35,1kg
+4213,2023-01-12,Onion Small,39,47,55,1kg
+4214,2023-01-12,Tomato,20,24,28,1kg
+4215,2023-01-12,Green Chilli,37,45,52,1kg
+4216,2023-01-12,Beetroot,34,41,48,1kg
+4217,2023-01-12,Potato,27,32,38,1kg
+4218,2023-01-12,Raw Banana (Plantain),7,8,10,1kg
+4219,2023-01-12,Amaranth Leaves,11,13,15,1kg
+4220,2023-01-12,Amla,70,85,100,1kg
+4221,2023-01-12,Ash gourd,23,27,33,1kg
+4222,2023-01-12,Baby Corn,63,76,90,1kg
+4223,2023-01-12,Banana Flower,20,24,28,1kg
+4224,2023-01-12,Capsicum,42,50,59,1kg
+4225,2023-01-12,Bitter Gourd,27,32,38,1kg
+4226,2023-01-12,Bottle Gourd,30,36,43,1kg
+4227,2023-01-12,Butter Beans,65,79,92,1kg
+4228,2023-01-12,Broad Beans,37,45,52,1kg
+4229,2023-01-12,Cabbage,29,35,41,1kg
+4230,2023-01-12,Carrot,30,36,43,1kg
+4231,2023-01-12,Cauliflower,27,32,38,1kg
+4232,2023-01-12,Cluster beans,45,54,64,1kg
+4233,2023-01-12,Coconut,30,36,43,1kg
+4234,2023-01-12,Colocasia Leaves,16,19,22,1kg
+4235,2023-01-12,Colocasia,27,32,38,1kg
+4236,2023-01-12,Coriander Leaves,6,7,8,1kg
+4237,2023-01-12,Corn,30,36,43,1kg
+4238,2023-01-12,Cucumber,27,32,38,1kg
+4239,2023-01-12,Curry Leaves,25,30,35,1kg
+4240,2023-01-12,Dill Leaves,11,13,15,1kg
+4241,2023-01-12,Drumsticks,120,145,171,1kg
+4242,2023-01-12,Brinjal,23,27,33,1kg
+4243,2023-01-12,Brinjal (Big),28,34,40,1kg
+4244,2023-01-12,Elephant Yam,29,35,41,1kg
+4245,2023-01-12,Fenugreek Leaves,9,10,13,1kg
+4246,2023-01-12,French Beans,36,43,51,1kg
+4247,2023-01-12,Garlic,42,50,59,1kg
+4248,2023-01-12,Ginger,36,43,51,1kg
+4249,2023-01-12,Onion Green,37,45,52,1kg
+4250,2023-01-12,Green Peas,82,99,116,1kg
+4251,2023-01-12,Ivy Gourd,28,34,40,1kg
+4252,2023-01-12,Lemon (Lime),60,72,85,1kg
+4253,2023-01-12,Mango Raw,94,113,134,1kg
+4254,2023-01-12,Mint Leaves,4,5,6,1kg
+4255,2023-01-12,Mushroom,80,97,114,1kg
+4256,2023-01-12,Mustard Leaves,16,19,22,1kg
+4257,2023-01-12,Ladies Finger,30,36,43,1kg
+4258,2023-01-12,Pumpkin,26,31,37,1kg
+4259,2023-01-12,Radish,25,30,35,1kg
+4260,2023-01-12,Ridge Gourd,29,35,41,1kg
+4261,2023-01-12,Shallot (Pearl Onion),36,43,51,1kg
+4262,2023-01-12,Snake Gourd,27,32,38,1kg
+4263,2023-01-12,Sorrel Leaves,12,14,17,1kg
+4264,2023-01-12,Spinach,13,16,18,1kg
+4265,2023-01-12,Sweet Potato,40,48,57,1kg
+4266,2023-01-11,Onion Big,25,30,35,1kg
+4267,2023-01-11,Onion Small,39,47,55,1kg
+4268,2023-01-11,Tomato,20,24,28,1kg
+4269,2023-01-11,Green Chilli,37,45,52,1kg
+4270,2023-01-11,Beetroot,34,41,48,1kg
+4271,2023-01-11,Potato,27,32,38,1kg
+4272,2023-01-11,Raw Banana (Plantain),7,8,10,1kg
+4273,2023-01-11,Amaranth Leaves,11,13,15,1kg
+4274,2023-01-11,Amla,70,85,100,1kg
+4275,2023-01-11,Ash gourd,23,27,33,1kg
+4276,2023-01-11,Baby Corn,63,76,90,1kg
+4277,2023-01-11,Banana Flower,20,24,28,1kg
+4278,2023-01-11,Capsicum,42,50,59,1kg
+4279,2023-01-11,Bitter Gourd,27,32,38,1kg
+4280,2023-01-11,Bottle Gourd,30,36,43,1kg
+4281,2023-01-11,Butter Beans,65,79,92,1kg
+4282,2023-01-11,Broad Beans,37,45,52,1kg
+4283,2023-01-11,Cabbage,29,35,41,1kg
+4284,2023-01-11,Carrot,30,36,43,1kg
+4285,2023-01-11,Cauliflower,27,32,38,1kg
+4286,2023-01-11,Cluster beans,45,54,64,1kg
+4287,2023-01-11,Coconut,30,36,43,1kg
+4288,2023-01-11,Colocasia Leaves,16,19,22,1kg
+4289,2023-01-11,Colocasia,27,32,38,1kg
+4290,2023-01-11,Coriander Leaves,6,7,8,1kg
+4291,2023-01-11,Corn,30,36,43,1kg
+4292,2023-01-11,Cucumber,27,32,38,1kg
+4293,2023-01-11,Curry Leaves,25,30,35,1kg
+4294,2023-01-11,Dill Leaves,11,13,15,1kg
+4295,2023-01-11,Drumsticks,120,145,171,1kg
+4296,2023-01-11,Brinjal,23,27,33,1kg
+4297,2023-01-11,Brinjal (Big),28,34,40,1kg
+4298,2023-01-11,Elephant Yam,29,35,41,1kg
+4299,2023-01-11,Fenugreek Leaves,9,10,13,1kg
+4300,2023-01-11,French Beans,36,43,51,1kg
+4301,2023-01-11,Garlic,42,50,59,1kg
+4302,2023-01-11,Ginger,36,43,51,1kg
+4303,2023-01-11,Onion Green,37,45,52,1kg
+4304,2023-01-11,Green Peas,82,99,116,1kg
+4305,2023-01-11,Ivy Gourd,28,34,40,1kg
+4306,2023-01-11,Lemon (Lime),60,72,85,1kg
+4307,2023-01-11,Mango Raw,94,113,134,1kg
+4308,2023-01-11,Mint Leaves,4,5,6,1kg
+4309,2023-01-11,Mushroom,80,97,114,1kg
+4310,2023-01-11,Mustard Leaves,16,19,22,1kg
+4311,2023-01-11,Ladies Finger,30,36,43,1kg
+4312,2023-01-11,Pumpkin,26,31,37,1kg
+4313,2023-01-11,Radish,25,30,35,1kg
+4314,2023-01-11,Ridge Gourd,29,35,41,1kg
+4315,2023-01-11,Shallot (Pearl Onion),36,43,51,1kg
+4316,2023-01-11,Snake Gourd,27,32,38,1kg
+4317,2023-01-11,Sorrel Leaves,12,14,17,1kg
+4318,2023-01-11,Spinach,13,16,18,1kg
+4319,2023-01-11,Sweet Potato,40,48,57,1kg
+4320,2023-01-10,Onion Big,27,32,38,1kg
+4321,2023-01-10,Onion Small,38,46,54,1kg
+4322,2023-01-10,Tomato,18,22,26,1kg
+4323,2023-01-10,Green Chilli,34,41,48,1kg
+4324,2023-01-10,Beetroot,36,43,51,1kg
+4325,2023-01-10,Potato,25,30,35,1kg
+4326,2023-01-10,Raw Banana (Plantain),7,8,10,1kg
+4327,2023-01-10,Amaranth Leaves,10,12,14,1kg
+4328,2023-01-10,Amla,60,72,85,1kg
+4329,2023-01-10,Ash gourd,23,27,33,1kg
+4330,2023-01-10,Baby Corn,66,80,94,1kg
+4331,2023-01-10,Banana Flower,16,19,22,1kg
+4332,2023-01-10,Capsicum,42,50,59,1kg
+4333,2023-01-10,Bitter Gourd,32,39,45,1kg
+4334,2023-01-10,Bottle Gourd,30,36,43,1kg
+4335,2023-01-10,Butter Beans,64,77,91,1kg
+4336,2023-01-10,Broad Beans,32,39,45,1kg
+4337,2023-01-10,Cabbage,25,30,35,1kg
+4338,2023-01-10,Carrot,30,36,43,1kg
+4339,2023-01-10,Cauliflower,26,31,37,1kg
+4340,2023-01-10,Cluster beans,42,50,59,1kg
+4341,2023-01-10,Coconut,29,35,41,1kg
+4342,2023-01-10,Colocasia Leaves,13,16,18,1kg
+4343,2023-01-10,Colocasia,24,29,34,1kg
+4344,2023-01-10,Coriander Leaves,7,8,10,1kg
+4345,2023-01-10,Corn,27,32,38,1kg
+4346,2023-01-10,Cucumber,21,25,30,1kg
+4347,2023-01-10,Curry Leaves,30,36,43,1kg
+4348,2023-01-10,Dill Leaves,11,13,15,1kg
+4349,2023-01-10,Drumsticks,60,72,85,1kg
+4350,2023-01-10,Brinjal,25,30,35,1kg
+4351,2023-01-10,Brinjal (Big),23,27,33,1kg
+4352,2023-01-10,Elephant Yam,24,29,34,1kg
+4353,2023-01-10,Fenugreek Leaves,9,10,13,1kg
+4354,2023-01-10,French Beans,26,31,37,1kg
+4355,2023-01-10,Garlic,35,42,50,1kg
+4356,2023-01-10,Ginger,35,42,50,1kg
+4357,2023-01-10,Onion Green,45,54,64,1kg
+4358,2023-01-10,Green Peas,83,100,118,1kg
+4359,2023-01-10,Ivy Gourd,23,27,33,1kg
+4360,2023-01-10,Lemon (Lime),45,54,64,1kg
+4361,2023-01-10,Mango Raw,85,103,121,1kg
+4362,2023-01-10,Mint Leaves,5,6,7,1kg
+4363,2023-01-10,Mushroom,87,105,124,1kg
+4364,2023-01-10,Mustard Leaves,15,18,21,1kg
+4365,2023-01-10,Ladies Finger,31,37,44,1kg
+4366,2023-01-10,Pumpkin,28,34,40,1kg
+4367,2023-01-10,Radish,26,31,37,1kg
+4368,2023-01-10,Ridge Gourd,28,34,40,1kg
+4369,2023-01-10,Shallot (Pearl Onion),29,35,41,1kg
+4370,2023-01-10,Snake Gourd,31,37,44,1kg
+4371,2023-01-10,Sorrel Leaves,15,18,21,1kg
+4372,2023-01-10,Spinach,10,12,14,1kg
+4373,2023-01-10,Sweet Potato,37,45,52,1kg
+4374,2023-01-09,Onion Big,27,32,38,1kg
+4375,2023-01-09,Onion Small,38,46,54,1kg
+4376,2023-01-09,Tomato,18,22,26,1kg
+4377,2023-01-09,Green Chilli,34,41,48,1kg
+4378,2023-01-09,Beetroot,36,43,51,1kg
+4379,2023-01-09,Potato,25,30,35,1kg
+4380,2023-01-09,Raw Banana (Plantain),7,8,10,1kg
+4381,2023-01-09,Amaranth Leaves,10,12,14,1kg
+4382,2023-01-09,Amla,60,72,85,1kg
+4383,2023-01-09,Ash gourd,23,27,33,1kg
+4384,2023-01-09,Baby Corn,66,80,94,1kg
+4385,2023-01-09,Banana Flower,16,19,22,1kg
+4386,2023-01-09,Capsicum,42,50,59,1kg
+4387,2023-01-09,Bitter Gourd,32,39,45,1kg
+4388,2023-01-09,Bottle Gourd,30,36,43,1kg
+4389,2023-01-09,Butter Beans,64,77,91,1kg
+4390,2023-01-09,Broad Beans,32,39,45,1kg
+4391,2023-01-09,Cabbage,25,30,35,1kg
+4392,2023-01-09,Carrot,30,36,43,1kg
+4393,2023-01-09,Cauliflower,26,31,37,1kg
+4394,2023-01-09,Cluster beans,42,50,59,1kg
+4395,2023-01-09,Coconut,29,35,41,1kg
+4396,2023-01-09,Colocasia Leaves,13,16,18,1kg
+4397,2023-01-09,Colocasia,24,29,34,1kg
+4398,2023-01-09,Coriander Leaves,7,8,10,1kg
+4399,2023-01-09,Corn,27,32,38,1kg
+4400,2023-01-09,Cucumber,21,25,30,1kg
+4401,2023-01-09,Curry Leaves,30,36,43,1kg
+4402,2023-01-09,Dill Leaves,11,13,15,1kg
+4403,2023-01-09,Drumsticks,60,72,85,1kg
+4404,2023-01-09,Brinjal,25,30,35,1kg
+4405,2023-01-09,Brinjal (Big),23,27,33,1kg
+4406,2023-01-09,Elephant Yam,24,29,34,1kg
+4407,2023-01-09,Fenugreek Leaves,9,10,13,1kg
+4408,2023-01-09,French Beans,26,31,37,1kg
+4409,2023-01-09,Garlic,35,42,50,1kg
+4410,2023-01-09,Ginger,35,42,50,1kg
+4411,2023-01-09,Onion Green,45,54,64,1kg
+4412,2023-01-09,Green Peas,83,100,118,1kg
+4413,2023-01-09,Ivy Gourd,23,27,33,1kg
+4414,2023-01-09,Lemon (Lime),45,54,64,1kg
+4415,2023-01-09,Mango Raw,85,103,121,1kg
+4416,2023-01-09,Mint Leaves,5,6,7,1kg
+4417,2023-01-09,Mushroom,87,105,124,1kg
+4418,2023-01-09,Mustard Leaves,15,18,21,1kg
+4419,2023-01-09,Ladies Finger,31,37,44,1kg
+4420,2023-01-09,Pumpkin,28,34,40,1kg
+4421,2023-01-09,Radish,26,31,37,1kg
+4422,2023-01-09,Ridge Gourd,28,34,40,1kg
+4423,2023-01-09,Shallot (Pearl Onion),29,35,41,1kg
+4424,2023-01-09,Snake Gourd,31,37,44,1kg
+4425,2023-01-09,Sorrel Leaves,15,18,21,1kg
+4426,2023-01-09,Spinach,10,12,14,1kg
+4427,2023-01-09,Sweet Potato,37,45,52,1kg
+4428,2023-01-08,Onion Big,30,36,43,1kg
+4429,2023-01-08,Onion Small,39,47,55,1kg
+4430,2023-01-08,Tomato,16,19,22,1kg
+4431,2023-01-08,Green Chilli,32,39,45,1kg
+4432,2023-01-08,Beetroot,37,45,52,1kg
+4433,2023-01-08,Potato,32,39,45,1kg
+4434,2023-01-08,Raw Banana (Plantain),9,10,13,1kg
+4435,2023-01-08,Amaranth Leaves,12,14,17,1kg
+4436,2023-01-08,Amla,70,85,100,1kg
+4437,2023-01-08,Ash gourd,27,32,38,1kg
+4438,2023-01-08,Baby Corn,63,76,90,1kg
+4439,2023-01-08,Banana Flower,14,17,20,1kg
+4440,2023-01-08,Capsicum,44,53,63,1kg
+4441,2023-01-08,Bitter Gourd,34,41,48,1kg
+4442,2023-01-08,Bottle Gourd,30,36,43,1kg
+4443,2023-01-08,Butter Beans,75,90,107,1kg
+4444,2023-01-08,Broad Beans,36,43,51,1kg
+4445,2023-01-08,Cabbage,24,29,34,1kg
+4446,2023-01-08,Carrot,36,43,51,1kg
+4447,2023-01-08,Cauliflower,28,34,40,1kg
+4448,2023-01-08,Cluster beans,43,52,61,1kg
+4449,2023-01-08,Coconut,28,34,40,1kg
+4450,2023-01-08,Colocasia Leaves,10,12,14,1kg
+4451,2023-01-08,Colocasia,26,31,37,1kg
+4452,2023-01-08,Coriander Leaves,6,7,8,1kg
+4453,2023-01-08,Corn,30,36,43,1kg
+4454,2023-01-08,Cucumber,25,30,35,1kg
+4455,2023-01-08,Curry Leaves,28,34,40,1kg
+4456,2023-01-08,Dill Leaves,11,13,15,1kg
+4457,2023-01-08,Drumsticks,80,97,114,1kg
+4458,2023-01-08,Brinjal,27,32,38,1kg
+4459,2023-01-08,Brinjal (Big),26,31,37,1kg
+4460,2023-01-08,Elephant Yam,26,31,37,1kg
+4461,2023-01-08,Fenugreek Leaves,12,14,17,1kg
+4462,2023-01-08,French Beans,30,36,43,1kg
+4463,2023-01-08,Garlic,40,48,57,1kg
+4464,2023-01-08,Ginger,45,54,64,1kg
+4465,2023-01-08,Onion Green,41,49,58,1kg
+4466,2023-01-08,Green Peas,81,98,115,1kg
+4467,2023-01-08,Ivy Gourd,22,26,31,1kg
+4468,2023-01-08,Lemon (Lime),56,67,79,1kg
+4469,2023-01-08,Mango Raw,85,103,121,1kg
+4470,2023-01-08,Mint Leaves,4,5,6,1kg
+4471,2023-01-08,Mushroom,81,98,115,1kg
+4472,2023-01-08,Mustard Leaves,18,22,26,1kg
+4473,2023-01-08,Ladies Finger,29,35,41,1kg
+4474,2023-01-08,Pumpkin,30,36,43,1kg
+4475,2023-01-08,Radish,26,31,37,1kg
+4476,2023-01-08,Ridge Gourd,28,34,40,1kg
+4477,2023-01-08,Shallot (Pearl Onion),36,43,51,1kg
+4478,2023-01-08,Snake Gourd,28,34,40,1kg
+4479,2023-01-08,Sorrel Leaves,12,14,17,1kg
+4480,2023-01-08,Spinach,13,16,18,1kg
+4481,2023-01-08,Sweet Potato,38,46,54,1kg
+4482,2023-01-07,Onion Big,30,36,43,1kg
+4483,2023-01-07,Onion Small,39,47,55,1kg
+4484,2023-01-07,Tomato,16,19,22,1kg
+4485,2023-01-07,Green Chilli,32,39,45,1kg
+4486,2023-01-07,Beetroot,37,45,52,1kg
+4487,2023-01-07,Potato,32,39,45,1kg
+4488,2023-01-07,Raw Banana (Plantain),9,10,13,1kg
+4489,2023-01-07,Amaranth Leaves,12,14,17,1kg
+4490,2023-01-07,Amla,70,85,100,1kg
+4491,2023-01-07,Ash gourd,27,32,38,1kg
+4492,2023-01-07,Baby Corn,63,76,90,1kg
+4493,2023-01-07,Banana Flower,14,17,20,1kg
+4494,2023-01-07,Capsicum,44,53,63,1kg
+4495,2023-01-07,Bitter Gourd,34,41,48,1kg
+4496,2023-01-07,Bottle Gourd,30,36,43,1kg
+4497,2023-01-07,Butter Beans,75,90,107,1kg
+4498,2023-01-07,Broad Beans,36,43,51,1kg
+4499,2023-01-07,Cabbage,24,29,34,1kg
+4500,2023-01-07,Carrot,36,43,51,1kg
+4501,2023-01-07,Cauliflower,28,34,40,1kg
+4502,2023-01-07,Cluster beans,43,52,61,1kg
+4503,2023-01-07,Coconut,28,34,40,1kg
+4504,2023-01-07,Colocasia Leaves,10,12,14,1kg
+4505,2023-01-07,Colocasia,26,31,37,1kg
+4506,2023-01-07,Coriander Leaves,6,7,8,1kg
+4507,2023-01-07,Corn,30,36,43,1kg
+4508,2023-01-07,Cucumber,25,30,35,1kg
+4509,2023-01-07,Curry Leaves,28,34,40,1kg
+4510,2023-01-07,Dill Leaves,11,13,15,1kg
+4511,2023-01-07,Drumsticks,80,97,114,1kg
+4512,2023-01-07,Brinjal,27,32,38,1kg
+4513,2023-01-07,Brinjal (Big),26,31,37,1kg
+4514,2023-01-07,Elephant Yam,26,31,37,1kg
+4515,2023-01-07,Fenugreek Leaves,12,14,17,1kg
+4516,2023-01-07,French Beans,30,36,43,1kg
+4517,2023-01-07,Garlic,40,48,57,1kg
+4518,2023-01-07,Ginger,45,54,64,1kg
+4519,2023-01-07,Onion Green,41,49,58,1kg
+4520,2023-01-07,Green Peas,81,98,115,1kg
+4521,2023-01-07,Ivy Gourd,22,26,31,1kg
+4522,2023-01-07,Lemon (Lime),56,67,79,1kg
+4523,2023-01-07,Mango Raw,85,103,121,1kg
+4524,2023-01-07,Mint Leaves,4,5,6,1kg
+4525,2023-01-07,Mushroom,81,98,115,1kg
+4526,2023-01-07,Mustard Leaves,18,22,26,1kg
+4527,2023-01-07,Ladies Finger,29,35,41,1kg
+4528,2023-01-07,Pumpkin,30,36,43,1kg
+4529,2023-01-07,Radish,26,31,37,1kg
+4530,2023-01-07,Ridge Gourd,28,34,40,1kg
+4531,2023-01-07,Shallot (Pearl Onion),36,43,51,1kg
+4532,2023-01-07,Snake Gourd,28,34,40,1kg
+4533,2023-01-07,Sorrel Leaves,12,14,17,1kg
+4534,2023-01-07,Spinach,13,16,18,1kg
+4535,2023-01-07,Sweet Potato,38,46,54,1kg
