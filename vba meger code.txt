@@ -1,0 +1,18 @@
+Sub CombineWorkbooks()
+ 
+      Dim myDialog As FileDialog, myFolder As String, myFile As String
+      Set myDialog = Application.FileDialog(msoFileDialogFolderPicker)
+ 
+If myDialog.Show = -1 Then
+          myFolder = myDialog.SelectedItems(1) & Application.PathSeparator
+          myFile = Dir(myFolder & "*.xls*")
+
+          Do While myFile <> ""
+              Workbooks.Open myFolder & myFile
+              Workbooks(myFile).Worksheets.Copy After:=ThisWorkbook.ActiveSheet
+               Workbooks(myFile).Close
+               myFile = Dir
+          Loop
+End If
+ 
+End Sub
